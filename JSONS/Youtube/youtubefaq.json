@@ -1,0 +1,30 @@
+[
+    {
+        "question": "I've made a video.  Do I need a licence to put it on YouTube?",
+        "answer": "If the music used is protected by copyright, then yes.  However, YouTube will generally take care of the licences required to stream so-called \"user-generated content\" incorporating music from its website, so we don't need to issue you with a licence directly."
+    },
+    {
+        "question": "Are there any exceptions as to what YouTube's licences will cover me for?",
+        "answer": "YouTube's licences will typically not cover all of the rights needed to use music for a commercial purpose, such as to advertise goods or services.  So whilst you dancing to music in your kitchen will be covered by YouTube's licences, you using a piece of music to advertise your business on YouTube will not be fully covered.<br /><br />If you are creating a video for a commercial purpose then you will need to obtain a licence for use of the music direct from the relevant Music Publisher(s) and/or Record Label(s)."
+    },
+    {
+        "question": "What is CMS?",
+        "answer": "CMS is YouTube's Content Management System. It's the system on the YouTube web-site into which you upload your video. CMS tracks the ownership of various types of Assets supplied to it by content owners, including Video Assets, Composition Assets and Sound Recording Assets."
+    },
+    {
+        "question": "What's the different between a Composition Asset and a Sound Recording Asset?",
+        "answer": "A Composition (otherwise known as a Musical Work), is the melody and lyrics that constitute a song.<br /><br />A Sound Recording is the actual recording of the performance of a Composition by an artist and/or band.<br /> <br />So for example, Paul McCartney and John Lennon wrote a song (i.e. Composition/Musical Work) called \"Yesterday\". This song has been recorded (turned into a Sound Recording) hundreds of times, originally by The Beatles, but also by artists including Bob Dylan, Frank Sinatra and Elvis Presley.<br /><br />Kobalt Music Group look after both Compositions and Sound Recordings on behalf of our clients. In CMS, Compositions we look after will be shown as controlled by \"Kobalt Music Publishing\". Sound Recordings will typically show as being controlled by \"Awal Digital Ltd\"."
+    },
+    {
+        "question" : "What will happen if CMS identifies that my video has music in it?",
+        "answer"   : "At some time after the upload of your video, CMS may notify you that your video may contain music owned by a third party. This will indicate that CMS believes that your video contains either Composition(s) and/or Sound Recording(s) that are controlled by Music Publishers and/or Record Labels.<br /><br />Assuming that you agree that you do not control the rights to the Composition(s) and/or Sound Recordings, you can Acknowledge the third party's ownership within CMS."
+    },
+    {
+        "question": "Why has my video been blocked/removed?",
+        "answer": "Any of the owners of Composition(s) and/or Sound Recording(s) used within a video have the right to block a video if they wish.  Kobalt will typically not block a video unless we have been specifically asked to by the clients we represent.<br /><br />Bear in mind that there will often be several Music Publishers and Record Labels represented on a video, so if your video has been block it may not be Kobalt that have blocked it"
+    },
+    {
+	"question": "Can I use my video in other places?",
+	"answer": "Not without a licence.  The exact kind of licence you need, and who can issue it varies significantly depending on what you want to do with the video, and which country you're in."
+    }
+]

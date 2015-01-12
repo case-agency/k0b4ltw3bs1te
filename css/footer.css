@@ -1,0 +1,130 @@
+#footer-container {
+    background-color: #E2E2E2;
+    position: relative;
+}
+
+.footer-container-shadow {
+    background: url('../images/background/bg_footer_top.png') repeat-x 0 0;
+}
+
+.footer-holder {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#footer-nav-container {
+    float: left;
+}
+
+#footer-contents {
+    position: relative;
+    padding: 30px 0 100px 0;
+    width: 900px;
+}
+
+#footer-nav-categories-holder-bottom {
+
+}
+
+#footer-nav-categories {
+    background-image: url(../images/footer/footer-categories.png);
+    background-repeat: repeat-x;
+    border: 0 none;
+    width: 145px;
+    float: left;
+    padding: 0;
+    margin: 0 5px 0 0;
+    background-position: -7px 0;
+}
+
+.footer-nav-categories {
+    background-image: url(../images/footer/footer-categories.png);
+    background-repeat: repeat-x;
+    border: 0 none;
+    width: 145px;
+    float: left;
+    padding: 0;
+    margin: 0 5px 0 0;
+    background-position: -7px 0;
+}
+
+#footer-nav-categories-spacer {
+    float: left;
+    height: 100px;
+    width: 5px;
+}
+
+#footer-nav-categories-clear {
+    clear: both;
+}
+
+.footer-nav-category {
+    color: #575757;
+    font-family: BebasNeue, verdana, helvetica, sans-serif;
+    font-size: 14px;
+    margin-bottom: 15px;
+
+}
+
+.footer-nav-list {
+    color: #525252;
+    font-family: Arial;
+    font-size: 11px;
+    height: 17px;
+}
+
+#footer-legal-copy {
+    color: #525252;
+    font-family: arial;
+    font-size: 10px;
+    font-style: italic;
+    position: absolute;
+    width: 300px;
+    top: 26px;;
+}
+
+#footer-legal-terms {
+    color: #525252;
+    font-family: arial;
+    font-size: 11px;
+    position: absolute;
+    right: 30px;
+    bottom: 20px;
+}
+
+#footer-legal-follow {
+    right: 30px;
+    top: 18px;
+    position: absolute;
+}
+
+#footer-legal-follow strong {
+    padding: 0 10px 0 0;
+    color: #888;
+    font-family: BebasNeue, verdana, helvetica, sans-serif;
+    font-size: 14px;
+
+    text-transform: uppercase;
+}
+
+#footer-legal-follow img {
+    vertical-align: middle;
+    margin: -4px 0 0 0
+}
+
+#footer-temp {
+    display: none;
+}
+
+#footer-nav-bottom {
+    width: 900px;
+    margin: 0 auto;
+    position: relative;
+    height: 57px
+}
+
+.footer2 {
+    background-color: #cacaca;
+    height: 57px
+}

@@ -1,0 +1,33 @@
+{
+"job_description": {
+"display_date": "31 March 2014",
+"position": "Computer Starter",
+"company_name": "TurnMyComputerOnNow.com",
+"location": "New York, NY",
+"job_summary": "When requested by staff you must turn on their computers by pressing the I/O button",
+"background": "Must have minimum 5 years experience turning computers on\n- skills in turning computers off not required (already hiring a seperate person for this position)",
+"application_process": {
+"details": [
+{
+"description": "Please take this application seriously",
+"email": "ITurnComputerOn@TurnMyComputerOnNow.com"
+},
+{
+"description": "Nothing in life is more serious than turning a computer on",
+"email": ""
+}
+]
+},
+"start_date": {
+"date": "Currently hiring"
+},
+"closing_date": {
+"date": "04 April 2014"
+},
+"salary": {
+"message": "competitive"
+},
+"important_notice": "Please send your application with a covering letter to the requested email address",
+"status": "Active"
+}
+}

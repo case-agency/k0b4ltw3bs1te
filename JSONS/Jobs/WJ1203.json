@@ -1,0 +1,30 @@
+{
+"job_description": {
+"display_date": "15 April 2014",
+"position": "Resident Chicken and Bacon      &spades;",
+"company_name": "Pronto",
+"location": "London",
+"job_summary": "Eating chicken and bacon paninis.                        ",
+"skills_experience": {
+"skills": [
+"Ability to select a good lunch"
+]
+},
+"application_process": {
+"notes": "fg",
+"steps": [
+"gh"
+],
+"details": [
+{
+"description": "NOOP!",
+"email": "tommy.clark@kobaltmusic.com"
+}
+]
+},
+"start_date": {
+"date": "20/11/2013"
+},
+"status": "Permanent"
+}
+}

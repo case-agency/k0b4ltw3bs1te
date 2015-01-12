@@ -1,0 +1,491 @@
+#pages-synch-nav-contents {
+    width: 960px
+}
+
+#pages-synch-header-nav-container {
+    height: 65px;
+    position: relative
+}
+
+#pages-synch-header-nav-title {
+    border: 0;
+    color: #525252;
+    display: table;
+    float: left;
+    font-family: BebasNeue, verdana, helvetica, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    margin-left: 0;
+    padding: 0
+}
+
+#pages-synch-header-nav-menu {
+    margin-left: 628px;
+    margin-top: 31px;
+    position: absolute
+}
+
+.pages-synch-header-nav-list {
+    color: #5d5d5d;
+    float: left;
+    font-family: OpenSans-Regular, verdana, helvetica, sans-serif;
+    font-size: 10px;
+    height: 17px;
+    margin-left: 7px
+}
+
+.pages-synch-header-nav-list-active {
+    color: #5d5d5d;
+    float: left;
+    font-family: OpenSans-ExtraBold, verdana, helvetica, sans-serif;
+    font-size: 10px;
+    height: 17px;
+    margin-left: 7px
+}
+
+.pages-synch-header-nav-list a:link, .pages-synch-header-nav-list a:visited {
+    color: #5d5d5d;
+    font-family: OpenSans-Regular, verdana, helvetica, sans-serif;
+    font-size: 10px;
+    text-decoration: none
+}
+
+.pages-synch-header-nav-list a:hover, .pages-synch-header-nav-list a:active {
+    color: #5d5d5d;
+    font-family: OpenSans-ExtraBold, verdana, helvetica, sans-serif;
+    font-size: 10px;
+    text-decoration: none
+}
+
+#pages-synch-top-new-releases {
+    border: 8px solid #FFF;
+    border-radius: 7px 7px 7px 7px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    float: left;
+    width: 290px;
+    margin: 0 auto;
+    background: #F2F2F2;
+    position: relative;
+
+}
+
+#pages-synch-top-featured-playlists {
+    border: 8px solid #FFF;
+    border-radius: 7px 7px 7px 7px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    float: left;
+    width: 290px;
+    margin: 15px auto 0;
+    background: #F2F2F2;
+    position: relative;
+
+}
+
+#pages-synch-bot-staff-picks {
+    border: 8px solid white;
+    border-radius: 7px 7px 7px 7px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    background: #F2F2F2;
+    padding: 17px;
+    margin: 0 0 20px 0;
+}
+
+#pages-synch-bot-film-composers {
+    border: 8px solid #FFF;
+    border-radius: 7px 7px 7px 7px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    float: left;
+    height: 180px;
+    width: 624px;
+    margin: 15px auto 0;
+    background: #F2F2F2
+}
+
+#pages-synch-top-divide {
+    float: left;
+    height: 1px;
+    margin-bottom: 35px;
+    margin-left: 0;
+    margin-top: 35px;
+    position: relative;
+    width: 960px;
+    background: url(../images/background/divider.png)
+}
+
+#pages-synch-top-left-col, #pages-synch-bot-left-col {
+    width: 640px;
+    float: left
+}
+
+/*PP: Added 07/08/2012 */
+#pages-synch-big-col {
+    margin: 25px 0 0;
+    width: 960px;
+    float: left
+}
+#pages-synch-top-right-col, #pages-synch-bot-right-col {
+    width: 305px;
+    float: right;
+}
+
+.pages-synch-top-header {
+    color: #484848;
+    float: left;
+    font-family: BebasNeue, verdana, helvetica, sans-serif;
+    font-size: 22px;
+
+    margin: 50px 0 13px 0;
+    width: 900px;
+    font-weight: normal;
+}
+
+#pages-synch-releases-top {
+
+}
+
+#pages-synch-releases-divide {
+    float: left;
+    height: 1px;
+    margin-bottom: 20px;
+    margin-left: 17px;
+    margin-top: 8px;
+    position: relative;
+    width: 255px;
+    background: url(../images/background/divider.png);
+
+}
+
+.pages-synch-releases-featured-top-header {
+    color: #484848;
+    float: left;
+    font-family: BebasNeue, verdana, helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 22px;
+    width: 130px
+}
+
+.pages-synch-releases-top-header {
+    color: #484848;
+    font-family: BebasNeue, verdana, helvetica, sans-serif;
+    font-size: 22px;
+    margin-left: 17px;
+    margin-top: 22px;
+    width: 130px
+}
+
+.pages-synch-releases-top-viewall {
+    color: #515151;
+    float: left;
+    font-family: BebasNeue, verdana, helvetica, sans-serif;
+    font-size: 15px;
+    left: 206px;
+    top: 27px;
+    position: absolute;
+    font-weight: normal;
+}
+
+.pages-synch-releases-top-viewall a{
+    background: url('../images/pages/home/red-arrow.png') no-repeat right center;
+    padding: 0 18px 0 0 ;
+}
+
+.pages-synch-album-container {
+    clear: both;
+    float: left;
+    padding-bottom: 19px;
+    width: 290px
+}
+
+.pages-synch-album-image-hold {
+    border: 4px solid #fff;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    float: left;
+    width: 55px;
+    margin: 0 auto 0 20px
+}
+
+.pages-synch-album-image-hold img{
+    width: 55px;
+    height: 55px
+}
+
+.pages-synch-album-text-hold {
+    float: left;
+    margin-left: 16px;
+    height: 75px
+}
+
+.pages-synch-album-text-song {
+    color: #525252;
+    font-family: helvetica;
+    font-size: 12px;
+    margin: 0 0 5px 0;
+    width: 180px;
+}
+
+.pages-synch-album-text-artist {
+    color: #525252;
+    font-family: helvetica;
+    font-size: 11px;
+    margin: 0 0 5px 0
+}
+
+.pages-synch-album-text-date {
+    color: #cc1f29;
+    font-family: helvetica;
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.pages-synch-featured-playlists-row {
+    width: 300px;
+    float: left;
+    height: 45px
+}
+
+.pages-synch-featured-playlists-hold {
+    width: 125px;
+    float: left;
+    /*height: 45px;*/
+    /*Temp fix to accomodate amount of text per line*/
+    height: auto;
+    margin-left: 15px;
+}
+
+.pages-synch-featured-playlists-header {
+    color: #525252;
+    font-family: helvetica, sans-serif;
+    font-size: 12px;
+    margin: 0 0 2px 0;
+}
+
+.pages-synch-releases-bot-header {
+    color: #484848;
+    font-family: BebasNeue, verdana, helvetica, sans-serif;
+    font-size: 22px;
+}
+
+#pages-synch-bot-left-divide {
+    height: 1px;
+    margin: 18px 0 24px 0;
+    background: url(../images/background/divider.png);
+}
+
+.pages-synch-featured-bot-row {
+    float: left;
+    height: 30px;
+    margin-top: 25px;
+    position: relative;
+    width: 650px
+}
+
+.pages-synch-featured-bot-hold {
+    width: 185px;
+    float: left;
+    height: 45px;
+    margin-left: 15px
+}
+
+p.pages-synch-featured-bot-header {
+    color: #525252;
+    font-family: helvetica, sans-serif;
+    font-size: 0;
+    line-height: 0
+}
+
+#pages-synch-bot-right-divide {
+    height: 1px;
+    margin: 10px 0 20px 0;
+    background: url(../images/background/divider.png);
+}
+
+p.pages-synch-recent-body {
+    color: #525252;
+    font-family: helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+    width: 645px;
+    margin: 25px 0;
+    height: 35px;
+}
+
+p.pages-synch-bot-right-body {
+    color: #525252;
+    font-family: helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 1.5
+}
+
+#pages-synch-releases-right {
+
+}
+
+.pages-synch-releases-right-header {
+    color: #484848;
+    font-family: BebasNeue, verdana, helvetica, sans-serif;
+    font-size: 22px;
+}
+
+.pages-synch-releases-right-header span {
+    color: #CC1F29;
+
+}
+
+.pages-synch-releases-right-header-2 {
+    color: #484848;
+    font-family: BebasNeue, verdana, helvetica, sans-serif;
+    font-size: 22px;
+    margin: 35px 0 20px 0;
+}
+
+.pages-synch-featured-playlists-tagline, .pages-synch-featured-bot-tagline {
+    color: #cc1f29;
+    font-family: helvetica, sans-serif;
+    font-size: 10px;
+    font-style: oblique;
+    margin: 0 0 20px 0;
+}
+
+#pages-synch-bot-request {
+    border: 8px solid #FFF;
+    border-radius: 7px 7px 7px 7px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    float: left;
+    height: 40px;
+    width: 205px;
+    margin: 15px auto 0;
+    background: #F2F2F2
+}
+
+.pages-synch-make-a-request {
+    color: #CC1F29;
+    font-family: BebasNeue, verdana, helvetica, sans-serif;
+    font-size: 18px;
+    padding: 12px 12px 12px 30px;
+    width: 170px;
+    background: url('../images/arrow-black.png') no-repeat 12px center;
+    display: block;
+}
+
+.pages-synch-red-arrow {
+    height: 10px;
+    margin-left: 55px;
+    margin-top: -13px;
+    width: 8px;
+    background: url(../images/pages/home/red-arrow.png)
+}
+
+.pages-synch-request-red-arrow {
+    height: 10px;
+    margin-left: 152px;
+    margin-top: -13px;
+    width: 8px;
+    background: url(../images/pages/home/red-arrow.png)
+}
+
+#pages-synch-bot-left-col .pages-synch-brick{
+    float: left;
+    width: 183px;
+    margin: 0 10px 25px 0;
+}
+
+#pages-synch-big-col .pages-synch-brick {
+	float: left;
+	width: 217px;
+    	margin: 0 10px 25px 0;
+}
+
+/*CHANGED: ADDED A float: left, margin-left: 12px*/
+#pages-synch-bot-left-col .pages-synch-brick strong {
+    color: #525252;
+    font-family: helvetica, sans-serif;
+    display: block;
+    font-size: 13px;
+    margin: 0 0 2px 12px;
+    float: left;
+}
+
+#pages-synch-big-col .pages-synch-brick strong{
+    color: #525252;
+    font-family: helvetica, sans-serif;
+    display: block;
+    font-size: 13px;
+    margin: 0 0 2px 12px;
+    float: left;
+    width: 135px;
+}
+
+/*CHANGED: ADD A float: left, margin-left: 12px, margin-top: 2px*/
+#pages-synch-bot-left-col .pages-synch-brick em, #pages-synch-big-col .pages-synch-brick em{
+    color: #CC1F29;
+    font-family: helvetica, sans-serif;
+    font-size: 11px;
+    font-style: oblique;
+    margin: 2px 0 20px 12px;
+    float: left;
+}
+
+#pages-synch-bot-left-col .film_tv .pages-synch-brick em, #pages-synch-big-col .film_tv .pages-synch-brick em {
+    font-weight: bold;
+    color: #525252;
+}
+
+#pages-synch-bot-left-col .film_tv .pages-synch-brick em span, #pages-synch-big-col film_tv .pages-synch-brick em span,{
+    color: #CC1F29;
+    font-weight: normal;
+}
+
+/*CHANGED: ADDED IMAGE CLASS*/
+.pages-synch-brick img {
+    border: 4px solid white;
+    border-radius: 7px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    float: left;
+}
+.search_con {
+    position: absolute;
+    right: 0;
+    top: 50px;
+    background: url('../images/background/bg_search.png') right 0 no-repeat;
+    width: 500px;
+    height: 38px;
+    font-family: OpenSans-Regular, verdana, helvetica, sans-serif;
+    font-size: 11px;
+}
+
+.search_con .search_field {
+    border: 1px solid #c4c5c4;
+    background: url('../images/background/search-field.png') repeat-x;
+    position: absolute;
+    right: 8px;
+    top: 6px;
+    padding: 2px 5px 2px 5px;
+    width: 258px;
+    font-weight: bold;
+}
+
+.search_con .search_button{
+    top: 13px;
+    right: 285px;
+    position: absolute
+}
+
+.search_con input.radio {
+
+}
+
+.search_con .search_options {
+    position: absolute;
+    top: 55px;
+    right: 0;
+    color: #525252;
+
+}
+
+#pages-synch-top-video {
+    width: 642px;
+    height: 465px;
+    background-color: #000;
+}

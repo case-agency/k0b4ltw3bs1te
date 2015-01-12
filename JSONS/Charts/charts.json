@@ -1,0 +1,146 @@
+[
+{
+"sequence":"1",
+"chart_id":"WC102",
+"chart_name":"ARIA Top 50 Albums",
+"chart_type":"Products",
+"chart_data":"charts_aria_top_50_albums.json",
+"chart_date":"12/1/2015"
+},
+{
+"sequence":"2",
+"chart_id":"WC21",
+"chart_name":"ARIA Top 50 Singles",
+"chart_type":"Recordings",
+"chart_data":"charts_aria_top_50_singles.json",
+"chart_date":"12/1/2015"
+},
+{
+"sequence":"3",
+"chart_id":"WC7861",
+"chart_name":"Billboard Country Airplay",
+"chart_type":"Recordings",
+"chart_data":"charts_billboard_country_airplay.json",
+"chart_date":"07/6/2014"
+},
+{
+"sequence":"4",
+"chart_id":"WC183",
+"chart_name":"Billboard Hot 100",
+"chart_type":"Recordings",
+"chart_data":"charts_billboard_hot_100.json",
+"chart_date":"17/1/2015"
+},
+{
+"sequence":"5",
+"chart_id":"WC203",
+"chart_name":"Billboard Hot Country Songs",
+"chart_type":"Recordings",
+"chart_data":"charts_billboard_hot_country_songs.json",
+"chart_date":"07/6/2014"
+},
+{
+"sequence":"6",
+"chart_id":"WC202",
+"chart_name":"Billboard Hot R&B/Hip-Hop Songs",
+"chart_type":"Recordings",
+"chart_data":"charts_billboard_hot_r&b_hip-hop_songs.json",
+"chart_date":"17/1/2015"
+},
+{
+"sequence":"7",
+"chart_id":"WC201",
+"chart_name":"Billboard Top 200 Albums",
+"chart_type":"Products",
+"chart_data":"charts_billboard_top_200_albums.json",
+"chart_date":"17/1/2015"
+},
+{
+"sequence":"8",
+"chart_id":"WC204",
+"chart_name":"Billboard Top Country Albums",
+"chart_type":"Products",
+"chart_data":"charts_billboard_top_country_albums.json",
+"chart_date":"07/6/2014"
+},
+{
+"sequence":"9",
+"chart_id":"WC181",
+"chart_name":"Billboard Top R&B/Hip Hop Albums",
+"chart_type":"Products",
+"chart_data":"charts_billboard_top_r&b_hip_hop_albums.json",
+"chart_date":"17/1/2015"
+},
+{
+"sequence":"10",
+"chart_id":"WC142",
+"chart_name":"German Album Charts",
+"chart_type":"Products",
+"chart_data":"charts_german_album.json",
+"chart_date":"05/1/2015"
+},
+{
+"sequence":"11",
+"chart_id":"WC143",
+"chart_name":"German Singles Charts",
+"chart_type":"Recordings",
+"chart_data":"charts_german_singles.json",
+"chart_date":"05/1/2015"
+},
+{
+"sequence":"12",
+"chart_id":"WC14242",
+"chart_name":"New Zealand Top 40 Albums",
+"chart_type":"Products",
+"chart_data":"charts_new_zealand_top_40_albums.json",
+"chart_date":"12/1/2015"
+},
+{
+"sequence":"13",
+"chart_id":"WC14241",
+"chart_name":"New Zealand Top 40 Singles",
+"chart_type":"Recordings",
+"chart_data":"charts_new_zealand_top_40_singles.json",
+"chart_date":"12/1/2015"
+},
+{
+"sequence":"14",
+"chart_id":"WC29722",
+"chart_name":"Swedish Album Charts",
+"chart_type":"Products",
+"chart_data":"charts_swedish_album.json",
+"chart_date":"08/1/2015"
+},
+{
+"sequence":"15",
+"chart_id":"WC29721",
+"chart_name":"Swedish Singles Charts",
+"chart_type":"Recordings",
+"chart_data":"charts_swedish_singles.json",
+"chart_date":"08/1/2015"
+},
+{
+"sequence":"16",
+"chart_id":"WC3981",
+"chart_name":"UK Airplay",
+"chart_type":"Recordings",
+"chart_data":"charts_uk_airplay.json",
+"chart_date":"31/10/2014"
+},
+{
+"sequence":"17",
+"chart_id":"WC242",
+"chart_name":"UK Top 40 Albums",
+"chart_type":"Products",
+"chart_data":"charts_uk_top_40_albums.json",
+"chart_date":"05/1/2015"
+},
+{
+"sequence":"18",
+"chart_id":"WC241",
+"chart_name":"UK Top 40 Singles",
+"chart_type":"Recordings",
+"chart_data":"charts_uk_top_40_singles.json",
+"chart_date":"05/1/2015"
+}
+]

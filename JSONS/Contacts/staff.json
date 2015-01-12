@@ -1,0 +1,266 @@
+{
+"New York":
+[{
+"sequence":"1",
+"user_id":"USR97",
+"staff_name":"Bob Bortnick",
+"staff_job_title":"Senior Vice President, Creative"
+}
+,{
+"sequence":"2",
+"user_id":"USR56",
+"staff_name":"Dana Mariotti",
+"staff_job_title":"Licensing Manager"
+}
+,{
+"sequence":"3",
+"user_id":"USR259",
+"staff_name":"Jim Arnay",
+"staff_job_title":"SVP, Business Affairs / General Counsel, US"
+}
+,{
+"sequence":"4",
+"user_id":"USR174",
+"staff_name":"Julie Hurwitz",
+"staff_job_title":"Vice President, Commercial Synchronization"
+}
+,{
+"sequence":"5",
+"user_id":"USR251",
+"staff_name":"Karen Lieberman",
+"staff_job_title":"Digital Marketing &amp; Strategy"
+}
+,{
+"sequence":"6",
+"user_id":"USR95",
+"staff_name":"Merril Wasserman",
+"staff_job_title":"Executive Vice President, Business Development"
+}
+,{
+"sequence":"7",
+"user_id":"USR210",
+"staff_name":"Richard Sanders",
+"staff_job_title":"President"
+}
+,{
+"sequence":"8",
+"user_id":"USR13",
+"staff_name":"Willard Ahdritz",
+"staff_job_title":"Founder &amp; Chief Executive Officer"
+}
+
+],
+"Stockholm":
+[{
+"sequence":"1",
+"user_id":"USR14",
+"staff_name":"Johan Ekelund",
+"staff_job_title":"Co-Founder &amp; Non Executive Director"
+}
+,{
+"sequence":"2",
+"user_id":"USR347",
+"staff_name":"Magnus Hallberg",
+"staff_job_title":"Marketing Manager, Scandinavia, Kobalt Label Services"
+}
+
+],
+"Berlin":
+[{
+"sequence":"1",
+"user_id":"USR275",
+"staff_name":"Curt Keplin",
+"staff_job_title":"Marketing Director, KLS, GSA"
+}
+,{
+"sequence":"2",
+"user_id":"USR141",
+"staff_name":"Marcus Gums",
+"staff_job_title":"Vice President, Synchronisation GSA"
+}
+,{
+"sequence":"3",
+"user_id":"USR31",
+"staff_name":"Matthias Kind",
+"staff_job_title":"Managing Director"
+}
+,{
+"sequence":"4",
+"user_id":"USR163",
+"staff_name":"Swantje Weinert",
+"staff_job_title":"Creative Director GSA"
+}
+
+],
+"Nashville":
+[{
+"sequence":"1",
+"user_id":"USR199",
+"staff_name":"Stephanie Cox",
+"staff_job_title":"Vice President, Creative"
+}
+,{
+"sequence":"2",
+"user_id":"USR69",
+"staff_name":"Whitney Daane",
+"staff_job_title":"Vice President, Creative (Nashville)"
+}
+
+],
+"Atlanta":
+[{
+"sequence":"1",
+"user_id":"USR58",
+"staff_name":"Al McLean",
+"staff_job_title":"Senior Vice President, Creative"
+}
+
+],
+"Los Angeles":
+[{
+"sequence":"1",
+"user_id":"USR42",
+"staff_name":"Benjamin Groff",
+"staff_job_title":"Executive Vice President, Creative (West Coast)"
+}
+,{
+"sequence":"2",
+"user_id":"USR91",
+"staff_name":"Chris Lakey",
+"staff_job_title":"Vice President, Synchronization &amp; New Media"
+}
+,{
+"sequence":"3",
+"user_id":"USR331",
+"staff_name":"Diarmuid Quinn",
+"staff_job_title":"President North America, Kobalt Label Services"
+}
+,{
+"sequence":"4",
+"user_id":"USR115",
+"staff_name":"Jessica Beck",
+"staff_job_title":"Senior Director, Synchronization"
+}
+,{
+"sequence":"5",
+"user_id":"USR107",
+"staff_name":"Paige Parsons",
+"staff_job_title":"Senior Director, Creative"
+}
+,{
+"sequence":"6",
+"user_id":"USR10",
+"staff_name":"Sas Metcalfe",
+"staff_job_title":"President, Global Creative"
+}
+
+],
+"London":
+[{
+"sequence":"1",
+"user_id":"USR292",
+"staff_name":"Ann Tausis",
+"staff_job_title":"Managing Director, KNRL"
+}
+,{
+"sequence":"2",
+"user_id":"USR27",
+"staff_name":"Christiaan Winchester",
+"staff_job_title":"Group General Counsel"
+}
+,{
+"sequence":"3",
+"user_id":"USR171",
+"staff_name":"Hans van Berkel",
+"staff_job_title":"Executive Chairman, KNRL"
+}
+,{
+"sequence":"4",
+"user_id":"USR6",
+"staff_name":"James Fitzherbert-Brockholes",
+"staff_job_title":"Chief Financial Officer"
+}
+,{
+"sequence":"5",
+"user_id":"USR168",
+"staff_name":"Kevin O'Byrne",
+"staff_job_title":"Head of Operations"
+}
+,{
+"sequence":"6",
+"user_id":"USR5",
+"staff_name":"Lucie Kirkby",
+"staff_job_title":"Senior Vice President, Administration"
+}
+,{
+"sequence":"7",
+"user_id":"USR185",
+"staff_name":"Matthew Seal",
+"staff_job_title":"VP Business Development, Neighbouring Rights"
+}
+,{
+"sequence":"8",
+"user_id":"USR22",
+"staff_name":"Michelle Stoddart",
+"staff_job_title":"Senior Vice President, Synchronisation and Digital Media"
+}
+,{
+"sequence":"9",
+"user_id":"USR72",
+"staff_name":"Natasha Pattenden",
+"staff_job_title":"Vice President, Client Relations"
+}
+,{
+"sequence":"10",
+"user_id":"USR111",
+"staff_name":"Nick Robinson",
+"staff_job_title":"Senior Vice President, Business Development"
+}
+,{
+"sequence":"11",
+"user_id":"USR196",
+"staff_name":"Paul Hitchman",
+"staff_job_title":"Managing Director, KLS"
+}
+,{
+"sequence":"12",
+"user_id":"USR1",
+"staff_name":"Richard Thompson",
+"staff_job_title":"Chief Technical Officer"
+}
+,{
+"sequence":"13",
+"user_id":"USR21",
+"staff_name":"Sam Winwood",
+"staff_job_title":"Senior Vice President, Creative"
+}
+,{
+"sequence":"14",
+"user_id":"USR329",
+"staff_name":"Vincent Clery-Melin",
+"staff_job_title":"Managing Director, AWAL"
+}
+
+],
+"Sydney":
+[{
+"sequence":"1",
+"user_id":"USR236",
+"staff_name":"Ben Godding",
+"staff_job_title":"Marketing Manager, ANZ, Kobalt Label Services"
+}
+,{
+"sequence":"2",
+"user_id":"USR158",
+"staff_name":"Jasmine Kirkwood",
+"staff_job_title":"Head of Synchronisation"
+}
+,{
+"sequence":"3",
+"user_id":"USR150",
+"staff_name":"Simon Moor",
+"staff_job_title":"Managing Director"
+}
+
+]
+}

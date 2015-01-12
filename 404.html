@@ -1,0 +1,204 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>404 Page Not Found | Kobalt</title>
+    <link rel="stylesheet" href="/css/font-face.css" type="text/css" />
+<link rel="stylesheet" href="/css/main.css" type="text/css" />
+<link rel="stylesheet" href="/css/header.css" type="text/css" />
+<link rel="stylesheet" href="/css/footer.css" type="text/css" />
+<link rel="stylesheet" href="/css/pages.css" type="text/css" />
+<!--[if IE 7]>
+<link rel="stylesheet" href="/css/ie7.css" type="text/css" />
+<![endif]-->
+
+
+<!--[if IE 8]>
+<link rel="stylesheet" href="/css/ie8.css" type="text/css" />
+<![endif]-->
+    <link rel="stylesheet" href="/css/page-portal.css" type="text/css" />
+    <style type="text/css">
+    </style>
+  </head>
+  <script type="text/javascript" src="/js/ajax.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/jquery.text-overflow.js"></script>
+<script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript" src="/js/jquery.blockUI.js"></script>  <body>
+
+
+<div id="wrapper">
+  <div class="wrapper_bg">
+
+<link rel="stylesheet" media="screen" href="/js/superfish-1.4.8/css/superfish_kobalt.css" />
+<script type="text/javascript" src="/js/superfish-1.4.8/js/superfish.js"></script>
+
+<script type="text/javascript">
+  var headerDropNav = ["#header-dropdown-menu-home","#header-dropdown-menu-services","#header-dropdown-menu-roster","#header-dropdown-menu-about","#header-dropdown-menu-news","#header-dropdown-menu-contact"];
+  var headerDropNavJQuery = "#header-dropdown-menu-home,#header-dropdown-menu-services,#header-dropdown-menu-roster,#header-dropdown-menu-about,#header-dropdown-menu-news,#header-dropdown-menu-contact";
+  var headerDropDetect = "#header-dropdown-menu-off-top,#header-dropdown-menu-off-bottom,#header-dropdown-menu-off-left,#header-dropdown-menu-off-right";
+
+
+  function setDropDownNav(nav)
+  {
+    return;
+    $(headerDropNavJQuery).hide();
+    $(headerDropNav[nav]).show();
+    $(headerDropDetect).show();
+  }
+
+  function resetDropDownNav(){
+    $(headerDropNavJQuery).hide();
+    $(headerDropDetect).hide();
+  }
+
+  $(document).ready(function(){
+    var topNavMenuArrow = $('.top-nav-menu-arrow');
+
+    $(headerDropNavJQuery).hide();
+    $(headerDropDetect).hide();
+    topNavMenuArrow.show();
+    $("#top-nav-menu").superfish({
+      pathClass:  'current' ,
+      delay: 400,
+      speed: 200
+
+    });
+
+     preloadImage([
+       'images/header/btn_sync_rollover.png',
+       'images/header/button-portal_rollover.png'
+     ]);
+
+     var windowH = $(window).height();
+     var bodyH = $(document.body).height();
+
+      if(bodyH < windowH){
+          $('#main-container').height( $('#main-container').height() + (windowH - bodyH) );
+      }
+
+  });
+
+</script>
+
+
+
+
+<div id="header-container">
+  <div id="header-holder">
+    <div id="header-contents">
+
+      <div id="header-logo">
+        <a href="http://www.kobaltmusic.com/"><img src="/images/header/logo-main.png"/></a>
+      </div>
+
+
+          </div>
+  </div>
+</div>    <div id="main-container">
+
+
+
+      <div id="main-holder">
+        <div id="main-contents">
+
+
+          <div id="pages-portal-nav-contents">
+            <h1 id="pages-portal-header-nav-container">
+              <div id="pages-portal-header-nav-title">Page Not Found!</div>
+            </h1>
+          </div>
+
+       <p>
+           The page you've requested cannot be found.<br/><br/>
+
+           <a href="/">Return to Kobalt home page</a>
+       </p>
+          <div class="clear"></div>
+          <div>
+            <div id="pages-portal-footer-logo">
+
+            </div>
+                        </div>
+
+        </div>
+      </div>
+
+    </div>
+    <div id="footer-container">
+  <div class="footer-container-shadow">
+
+    <div class="footer-holder">
+      <div id="footer-contents">
+
+        <div id="footer-nav-categories">
+          <div class="footer-nav-category">SERVICES:</div>
+          <div class="footer-nav-list"><a href="page-services.php?section=0&page=0">Music Publishing</a></div>
+          <div class="footer-nav-list"><a href="page-services.php?section=2&page=0">Neighbouring Rights</a></div>
+          <div class="footer-nav-list"><a href="page-services.php?section=1&page=0">Label Services</a></div>
+        </div>
+        <div id="footer-nav-categories">
+          <div class="footer-nav-category">ROSTER:</div>
+          <div class="footer-nav-list"><a href="page-roster.php?roster=featured">Featured</a></div>
+          <div class="footer-nav-list"><a href="page-roster.php?roster=new">New Signings</a></div>
+          <div class="footer-nav-list"><a href="page-roster.php?roster=clients">All Clients</a></div>
+          <div class="footer-nav-list"><a href="page-roster.php?roster=companies">All Companies</a></div>
+        </div>
+        <div id="footer-nav-categories">
+          <div class="footer-nav-category">ABOUT:</div>
+          <div class="footer-nav-list"><a href="page-about-client-testimonials.php">Client Testimonials</a></div>
+                    <div class="footer-nav-list"><a href="page-about-global-management.php">Global Management</a></div>
+          <div class="footer-nav-list"><a href="page-about-board-of-directors.php">Board of Directors</a></div>
+
+          <div class="footer-nav-list"><a href="page-about-jobs.php">Jobs</a></div>
+        </div>
+        <div id="footer-nav-categories">
+          <div class="footer-nav-category">NEWS:</div>
+          <div class="footer-nav-list"><a href="page-news-news-archive.php">Kobalt in the News</a></div>
+          <div class="footer-nav-list"><a href="page-news-press-releases.php">Press Releases</a></div>
+          <div class="footer-nav-list"><a href="page-news-charts.php">Charts</a></div>
+          <div class="footer-nav-list"><a href="page-news-recent-upcoming-releases.php">Recent/Upcoming Releases</a></div>
+          <div class="footer-nav-list"><a href="page-news-news-archive.php">News Archive</a></div>
+        </div>
+        <div id="footer-nav-categories">
+          <div class="footer-nav-category">CONTACT:</div>
+          <div class="footer-nav-list"><a href="page-contact.php">Worldwide Directory</a></div>
+          <div class="footer-nav-list"><a href="page-contact-submissions.php">Submissions</a></div>
+          <div class="footer-nav-list"><a href="page-contact-media-inquiries.php">Media Inquiries</a></div>
+        </div>
+        <div id="footer-nav-categories">
+          <div class="footer-nav-category">SYNCH:</div>
+          <div class="footer-nav-list"><a href="page-news-recent-upcoming-releases.php">New Releases</a></div>
+          <div class="footer-nav-list"><a href="page-synch.php">Recent Placements</a></div>
+          <div class="footer-nav-list"><a href="page-synch.php">Playlists</a></div>
+          <div class="footer-nav-list"><a href="page-licensing-requests.php">Licensing Requests</a></div>
+          <div class="footer-nav-list"><a href="page-synch.php">Synch Services</a></div>
+        </div>
+
+
+
+        <div class="clear"></div>
+        <div id="footer-legal-terms"><a href="page-privacy.php">privacy policy</a> | <a href="page-tos.php">terms of use</a></div>
+
+
+      </div>
+    </div>
+
+
+  </div>
+
+</div>
+
+<div class="footer2">
+  <div id="footer-nav-bottom">
+    <div id="footer-legal-copy">&copy; Copyright 2012 Kobalt Music Group, Ltd.</div>
+    <div id="footer-legal-follow"><strong>Follow us</strong>
+      <a href="http://www.twitter.com/kobaltmusic" target="_blank"><img src="/images/footer/twitter.png" alt="Twiter"/></a>
+      <a href="http://www.facebook.com/kobaltmusic" target="_blank"><img src="/images/footer/facebook.png" alt="Facebook"/></a>
+    </div>
+  </div>
+</div>    </div><!--end wrapper bg -->
+</div>
+  </body>
+</html>

@@ -1,0 +1,28 @@
+{
+"job_description": {
+"display_date": "16 April 2014",
+"position": "A job",
+"company_name": "Kobalt Music Group",
+"location": "London",
+"job_summary": "It's a job, what more do you want?            ",
+"application_process": {
+"notes": "Here's the process        ",
+"steps": [
+"Step 1 - Process it all"
+],
+"details": [
+{
+"description": "Descipritondwqoq",
+"email": "jksal@hjisao.com"
+}
+]
+},
+"start_date": {
+"date": "4th September"
+},
+"closing_date": {
+"date": "24 April 2014"
+},
+"status": "Active"
+}
+}

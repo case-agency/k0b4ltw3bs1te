@@ -1,0 +1,5816 @@
+{
+"D":
+[{
+"sequence":"1",
+"roster_entry_id":"WR1621",
+"roster_name":"D Roc",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23281.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR2321",
+"roster_name":"D'Banj",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV40246.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/D/artist/D-:39:-Banj/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR126",
+"roster_name":"D. Woods",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21522.jpg",
+"roster_website_url":"http://www.missdwoods.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/D/artist/D-:46:- Woods/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR252",
+"roster_name":"DJ Premier",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12287.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/D/artist/DJ Premier/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR127",
+"roster_name":"DJ Shadow",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21594.jpg",
+"roster_website_url":"http://www.djshadow.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/D/artist/DJ Shadow/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR5623",
+"roster_name":"DJ White Shadow",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV99684.jpg",
+"roster_website_url":"http://djwhiteshadow.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR5583",
+"roster_name":"Dan Lancaster",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV99542.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR5761",
+"roster_name":"Dan Romer",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV100883.jpg",
+"roster_website_url":"http://www.danromer.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/D/artist/Dan Romer/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR1404",
+"roster_name":"Daniel Davidsen",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21881.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR254",
+"roster_name":"Danny Blume",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20883.jpg",
+"roster_website_url":"http://www.dannyblume.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/D/artist/Danny Blume/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR1412",
+"roster_name":"Dark Tranquillity",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21882.jpg",
+"roster_website_url":"http://www.darktranquillity.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/D/artist/Dark Tranquillity/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR312",
+"roster_name":"Darren Lighty",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21131.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR1541",
+"roster_name":"Daryl Hall",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV22382.jpg",
+"roster_website_url":"http://www.livefromdarylshouse.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/D/artist/Daryl Hall/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR2341",
+"roster_name":"Datsik",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV40981.jpg",
+"roster_website_url":"http://www.datsik.ca/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/D/artist/Datsik/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"15",
+"roster_entry_id":"WR2361",
+"roster_name":"Dave Grohl",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV41383.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"16",
+"roster_entry_id":"WR255",
+"roster_name":"Dave Stewart",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV457.jpg",
+"roster_website_url":"http://www.davestewart.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/D/artist/Dave Stewart/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"Y",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"17",
+"roster_entry_id":"WR2101",
+"roster_name":"David Hodges",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV24901.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"18",
+"roster_entry_id":"WR5881",
+"roster_name":"David Holmes",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101442.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"19",
+"roster_entry_id":"WR315",
+"roster_name":"David Jost",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21010.jpg",
+"roster_website_url":"http://www.tokiohotel.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"20",
+"roster_entry_id":"WR5942",
+"roster_name":"Deadmau5",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101683.jpg",
+"roster_website_url":"http://www.deadmau5.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/D/artist/Deadmau5/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"21",
+"roster_entry_id":"WR2625",
+"roster_name":"Deer Tracks",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV52246.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"22",
+"roster_entry_id":"WR1501",
+"roster_name":"Defend Music",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV22202.jpg",
+"roster_website_url":"http://www.defendmusic.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"23",
+"roster_entry_id":"WR256",
+"roster_name":"Dennis Matkosky",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21085.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/D/artist/Dennis Matkosky/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"24",
+"roster_entry_id":"WR257",
+"roster_name":"Devin Parker",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV53222.jpg",
+"roster_website_url":"http://www.dlpthegreat.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/D/artist/Devin Parker/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"25",
+"roster_entry_id":"WR1728",
+"roster_name":"Dew Process",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV66145.jpg",
+"roster_website_url":"http://www.dew-process.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"26",
+"roster_entry_id":"WR2502",
+"roster_name":"District Music Publishing, LLC",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV51464.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"27",
+"roster_entry_id":"WR314",
+"roster_name":"Doc McKinney",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12288.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"28",
+"roster_entry_id":"WR2281",
+"roster_name":"Don Jazzy",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV36364.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"29",
+"roster_entry_id":"WR3421",
+"roster_name":"Don Parma (Regal Republic)",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV58508.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"30",
+"roster_entry_id":"WR382",
+"roster_name":"Dr. Luke",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV68768.jpg",
+"roster_website_url":"http://www.aaminc.com/category.php?cat=3&id=46/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"Y",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"31",
+"roster_entry_id":"WR128",
+"roster_name":"Drapht",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21015.jpg",
+"roster_website_url":"http://www.drapht.com.au/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/D/artist/Drapht/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"32",
+"roster_entry_id":"WR962",
+"roster_name":"Dum Dum Girls",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV24664.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"#":
+[{
+"sequence":"1",
+"roster_entry_id":"WR338",
+"roster_name":"120 Music",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV20666.jpg",
+"roster_website_url":"http://www.120music.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR340",
+"roster_name":"8 Mile Style",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV19812.jpg",
+"roster_website_url":"http://www.8milestyle.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"E":
+[{
+"sequence":"1",
+"roster_entry_id":"WR130",
+"roster_name":"Eberg",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21381.jpg",
+"roster_website_url":"http://www.facebook.com/ebergmusic/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/E/artist/Eberg/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR944",
+"roster_name":"Eddie Vedder",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21016.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR131",
+"roster_name":"Editors",
+"roster_type":"Artists",
+"roster_image_url":"",
+"roster_website_url":"http://www.editorsofficial.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/E/artist/Editors/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR3381",
+"roster_name":"Eg White",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV58426.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/E/artist/Eg White/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR4643",
+"roster_name":"Elite",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV75021.jpg",
+"roster_website_url":"http://www.elitethatsme.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR132",
+"roster_name":"Emma Louise",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21020.jpg",
+"roster_website_url":"http://www.emmalouise.net/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/E/artist/Emma Louise/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"Y",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR2141",
+"roster_name":"Emperors of Wyoming",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV29876.jpg",
+"roster_website_url":"http://www.emperorsofwyoming.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/E/artist/Emperors of Wyoming/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR2382",
+"roster_name":"Erik Gilbert",
+"roster_type":"Artists",
+"roster_image_url":"",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR260",
+"roster_name":"Erika Nuri",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21017.jpg",
+"roster_website_url":"http://www.thewritingcamp.net/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/E/artist/Erika Nuri/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR2628",
+"roster_name":"Erin McCarley",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV52242.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR1414",
+"roster_name":"Esbj&ouml;rn Svensson",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21883.jpg",
+"roster_website_url":"http://www.est-music.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/E/artist/Esbj-:246:-rn Svensson/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR1406",
+"roster_name":"Europe (Joakim Larsson)",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21884.jpg",
+"roster_website_url":"http://www.europetheband.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/E/artist/Europe -:40:-Joakim Larsson-:41:-/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR4801",
+"roster_name":"Extensive Music",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV80043.jpg",
+"roster_website_url":"http://www.extensivemusic.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR5602",
+"roster_name":"Ezra Vine",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV99667.jpg",
+"roster_website_url":"http://www.ezravine.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"F":
+[{
+"sequence":"1",
+"roster_entry_id":"WR1842",
+"roster_name":"Faithless",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV24803.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/F/artist/Faithless/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR4226",
+"roster_name":"Fat Freddy's Drop",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV78318.jpg",
+"roster_website_url":"http://www.fatfreddysdrop.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/F/artist/Fat Freddy-:39:-s Drop/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR5741",
+"roster_name":"Fat Possum",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV100264.jpg",
+"roster_website_url":"http://fatpossum.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR5181",
+"roster_name":"Fearmore Music Publishing",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV92882.jpg",
+"roster_website_url":"http://www.fearmoremusic.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR134",
+"roster_name":"Feldberg",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21663.jpg",
+"roster_website_url":"http://www.feldbergmusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/F/artist/Feldberg/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR348",
+"roster_name":"First N' Gold",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV20665.jpg",
+"roster_website_url":"http://www.slipnslideworld.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR3990",
+"roster_name":"Flume",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV66146.jpg",
+"roster_website_url":"http://www.flumemusic.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"Y",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR3241",
+"roster_name":"Fred Jerkins",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV57341.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR316",
+"roster_name":"Fred Sargolini",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12290.jpg",
+"roster_website_url":"http://www.fredsargolini.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR135",
+"roster_name":"Free Energy",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV462.jpg",
+"roster_website_url":"http://www.freeenergymusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/F/artist/Free Energy/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR630",
+"roster_name":"Freescha",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV59591.jpg",
+"roster_website_url":"http://attacknine.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/F/artist/Freescha/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR262",
+"roster_name":"Full Force",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV24841.jpg",
+"roster_website_url":"http://www.forcefulworld.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/F/artist/Full Force/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR349",
+"roster_name":"Future Classic",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV27601.jpg",
+"roster_website_url":"http://www.futureclassic.com.au/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR1102",
+"roster_name":"Future Cut Productions",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV21499.jpg",
+"roster_website_url":"http://www.futurecut.co.uk/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"G":
+[{
+"sequence":"1",
+"roster_entry_id":"WR504",
+"roster_name":"Garbage",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20981.jpg",
+"roster_website_url":"http://garbage.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/G/artist/Garbage/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR137",
+"roster_name":"Gary Go",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12292.jpg",
+"roster_website_url":"http://www.garygo.tv/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/G/artist/Gary Go/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR5361",
+"roster_name":"Gary Lucas",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV97641.jpg",
+"roster_website_url":"http://www.garylucas.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR138",
+"roster_name":"Gary Numan",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21363.jpg",
+"roster_website_url":"http://www.numan.co.uk/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/G/artist/Gary Numan/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR3081",
+"roster_name":"Gaz Coombes",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV55862.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR356",
+"roster_name":"Getty Images",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV20542.jpg",
+"roster_website_url":"http://www.gettyimages.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR4341",
+"roster_name":"Glenn Keiles",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV66681.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/G/artist/Glenn Keiles/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR1222",
+"roster_name":"GoGoBot",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21662.jpg",
+"roster_website_url":"http://www.gogobot.co.uk/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/G/artist/GoGoBot/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR4743",
+"roster_name":"Goat",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101342.jpg",
+"roster_website_url":"http://goatsweden.blogspot.se/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/G/artist/Goat/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR4441",
+"roster_name":"Goddess Enterprises",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV68661.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR963",
+"roster_name":"Gogol Bordello",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21064.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR139",
+"roster_name":"Gomez",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV58782.jpg",
+"roster_website_url":"http://www.gomeztheband.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/G/artist/Gomez/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR1244",
+"roster_name":"Gomma",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV21785.jpg",
+"roster_website_url":"http://www.gomma.de/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR421",
+"roster_name":"Gotye",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20982.jpg",
+"roster_website_url":"http://gotye.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/G/artist/Gotye/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"Y",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"15",
+"roster_entry_id":"WR3522",
+"roster_name":"Grades",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV59171.jpg",
+"roster_website_url":"http://gradesofficial.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/G/artist/Grades/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"16",
+"roster_entry_id":"WR2641",
+"roster_name":"Graham Nash",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV52243.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"17",
+"roster_entry_id":"WR2901",
+"roster_name":"Grimes",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV56042.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/G/artist/Grimes/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"18",
+"roster_entry_id":"WR1661",
+"roster_name":"Guy Chambers",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23424.jpg",
+"roster_website_url":"http://www.guychambers.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/G/artist/Guy Chambers/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"19",
+"roster_entry_id":"WR140",
+"roster_name":"Gwen Stefani",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV465.jpg",
+"roster_website_url":"http://www.gwenstefani.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/G/artist/Gwen Stefani/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"20",
+"roster_entry_id":"WR1730",
+"roster_name":"Gypsy &amp; The Cat",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV29184.jpg",
+"roster_website_url":"http://www.gypsyandthecat.com.au/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/G/artist/Gypsy -:38:- The Cat/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"A":
+[{
+"sequence":"1",
+"roster_entry_id":"WR105",
+"roster_name":"AFI",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20885.jpg",
+"roster_website_url":"http://www.afireinside.net/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/AFI/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR1821",
+"roster_name":"AMF Publishing",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV52923.jpg",
+"roster_website_url":"http://www.amfmusicpublishing.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR5222",
+"roster_name":"AOSOON",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV93281.jpg",
+"roster_website_url":"http://www.facebook.com/AOSOON/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR238",
+"roster_name":"Aben Eubanks",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12281.jpg",
+"roster_website_url":"http://www.abeneubanks.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/Aben Eubanks/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR239",
+"roster_name":"Absolute",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV22241.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR4782",
+"roster_name":"Ace Wilder (Stereoscope Music Scandinavia)",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV79542.jpg",
+"roster_website_url":"http://www.facebook.com/AceWilder/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/Ace Wilder -:40:-Stereoscope Music Scandinavia-:41:-/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR2181",
+"roster_name":"Active Child",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV38261.jpg",
+"roster_website_url":"http://activechildmusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/Active Child/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR501",
+"roster_name":"Adam Lambert",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV441.jpg",
+"roster_website_url":"http://www.adamofficial.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/Adam Lambert/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR4982",
+"roster_name":"Adam Messinger",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV84822.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR107",
+"roster_name":"Against Me!",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV442.jpg",
+"roster_website_url":"http://www.againstme.net/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/Against Me!/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR2421",
+"roster_name":"Ah2",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV51018.jpg",
+"roster_website_url":"http://ah2music.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR2701",
+"roster_name":"Al Sherrod &quot;Arod&quot; Lambert",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV52313.jpg",
+"roster_website_url":"http://www.twitter.com/whoisarod/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR240",
+"roster_name":"Albert Hammond",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21790.jpg",
+"roster_website_url":"http://www.alberthammond.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/Albert Hammond/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR5541",
+"roster_name":"Alex Clare",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV98941.jpg",
+"roster_website_url":"http://alexclare.com/home/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"15",
+"roster_entry_id":"WR1681",
+"roster_name":"Alt-J",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV98167.jpg",
+"roster_website_url":"http://soundcloud.com/alt-j/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/Alt-J/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"16",
+"roster_entry_id":"WR3841",
+"roster_name":"Amy Foster",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV61042.jpg",
+"roster_website_url":"http://www.amysfoster.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"17",
+"roster_entry_id":"WR3722",
+"roster_name":"And Publishing",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV59590.jpg",
+"roster_website_url":"http://andpublishing.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"18",
+"roster_entry_id":"WR1843",
+"roster_name":"And So I Watch You From Afar",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV24801.jpg",
+"roster_website_url":"http://asiwyfa.tumblr.com/shows/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/And So I Watch You From Afar/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"19",
+"roster_entry_id":"WR241",
+"roster_name":"Anders Hansson",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21079.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/Anders Hansson/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"20",
+"roster_entry_id":"WR108",
+"roster_name":"Animal Kingdom",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21829.jpg",
+"roster_website_url":"http://www.weareanimalkingdom.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/Animal Kingdom/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"21",
+"roster_entry_id":"WR1416",
+"roster_name":"Annette Humpe",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21983.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"22",
+"roster_entry_id":"WR1368",
+"roster_name":"Antony and the Johnsons",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21913.jpg",
+"roster_website_url":"http://antonyandthejohnsons.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/Antony and the Johnsons/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"23",
+"roster_entry_id":"WR4821",
+"roster_name":"Arash (Extensive Music)",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV79562.jpg",
+"roster_website_url":"http://www.arash.se/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"24",
+"roster_entry_id":"WR1364",
+"roster_name":"Arch Enemy",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21911.jpg",
+"roster_website_url":"http://www.archenemy.net/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/Arch Enemy/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"25",
+"roster_entry_id":"WR3801",
+"roster_name":"Ariel Pink",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV60880.jpg",
+"roster_website_url":"http://www.facebook.com/arielpinkshauntedgraffiti/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/Ariel Pink/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"26",
+"roster_entry_id":"WR631",
+"roster_name":"Ariel Rechtshaid",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV59541.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/Ariel Rechtshaid/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"27",
+"roster_entry_id":"WR1461",
+"roster_name":"Aristotracks",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV22103.jpg",
+"roster_website_url":"http://www.aristotracks.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"28",
+"roster_entry_id":"WR306",
+"roster_name":"Arnthor Birgisson",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV444.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"29",
+"roster_entry_id":"WR2322",
+"roster_name":"Arrow Records",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV40247.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"30",
+"roster_entry_id":"WR110",
+"roster_name":"Art Vs. Science",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV66142.jpg",
+"roster_website_url":"http://www.artvsscience.net/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/Art Vs-:46:- Science/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"31",
+"roster_entry_id":"WR5921",
+"roster_name":"At The Gates",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101542.jpg",
+"roster_website_url":"http://atthegates.se/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"32",
+"roster_entry_id":"WR3761",
+"roster_name":"Avant",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV60002.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"B":
+[{
+"sequence":"1",
+"roster_entry_id":"WR2621",
+"roster_name":"B-52's",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV52244.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR342",
+"roster_name":"B-Unique Music",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV61506.jpg",
+"roster_website_url":"http://www.b-uniquerecords.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR5962",
+"roster_name":"B. Slade",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101802.jpg",
+"roster_website_url":"http://www.bsladenow.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR4361",
+"roster_name":"Badfinger (Ham/Evans)",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV67106.jpg",
+"roster_website_url":"http://www.badfingerlibrary.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR111",
+"roster_name":"Badly Drawn Boy",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23401.jpg",
+"roster_website_url":"http://www.badlydrawnboy.co.uk/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Badly Drawn Boy/control/Anywhere/",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR112",
+"roster_name":"Band Of Horses",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV446.jpg",
+"roster_website_url":"http://www.bandofhorses.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Band Of Horses/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR114",
+"roster_name":"Beck",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV447.jpg",
+"roster_website_url":"http://www.beck.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Beck/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR5501",
+"roster_name":"Becky Hill",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV98901.jpg",
+"roster_website_url":"http://https://www.facebook.com/Beckyhillofficial/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR4223",
+"roster_name":"Ben Gillies",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV66144.jpg",
+"roster_website_url":"http://chairpage.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR5822",
+"roster_name":"Ben Mink",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101123.jpg",
+"roster_website_url":"http://benmink.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR1701",
+"roster_name":"Ben Romans",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23702.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Ben Romans/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR5101",
+"roster_name":"Bernie Worrell",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV86762.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR4224",
+"roster_name":"Bic Runga",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV66147.jpg",
+"roster_website_url":"http://www.bicrunga.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Bic Runga/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR1121",
+"roster_name":"Big Life Publishing",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV21542.jpg",
+"roster_website_url":"http://www.biglifemusic.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"15",
+"roster_entry_id":"WR344",
+"roster_name":"Big World Publishing",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV21904.jpg",
+"roster_website_url":"http://www.bigworldpublishing.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"16",
+"roster_entry_id":"WR662",
+"roster_name":"Big and Rich",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12282.jpg",
+"roster_website_url":"http://www.bigandrich.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Big and Rich/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"17",
+"roster_entry_id":"WR245",
+"roster_name":"Billy Steinberg",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV22181.jpg",
+"roster_website_url":"http://www.billysteinberg.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Billy Steinberg/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"18",
+"roster_entry_id":"WR307",
+"roster_name":"Black The Beast",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20742.jpg",
+"roster_website_url":"http://www.blackthebeastmusic.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"19",
+"roster_entry_id":"WR1041",
+"roster_name":"Blue October",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21579.jpg",
+"roster_website_url":"http://www.blueoctober.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Blue October/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"20",
+"roster_entry_id":"WR115",
+"roster_name":"Bluejuice",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21081.jpg",
+"roster_website_url":"http://www.bluejuice.info/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Bluejuice/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"21",
+"roster_entry_id":"WR4443",
+"roster_name":"Bob Kretschmer",
+"roster_type":"Artists",
+"roster_image_url":"",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"22",
+"roster_entry_id":"WR116",
+"roster_name":"Bon Iver",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV450.jpg",
+"roster_website_url":"http://www.boniver.org/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Bon Iver/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"23",
+"roster_entry_id":"WR3601",
+"roster_name":"Bonobo",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV59401.jpg",
+"roster_website_url":"http://bonobomusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Bonobo/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"24",
+"roster_entry_id":"WR1361",
+"roster_name":"Boysnoize",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21905.jpg",
+"roster_website_url":"http://www.boysnoize.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"25",
+"roster_entry_id":"WR4861",
+"roster_name":"Bram Inscore",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV80001.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Bram Inscore/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"26",
+"roster_entry_id":"WR2041",
+"roster_name":"Brandon Hines",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV35261.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Brandon Hines/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"27",
+"roster_entry_id":"WR2623",
+"roster_name":"Branford Marsalis",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV52245.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"28",
+"roster_entry_id":"WR2624",
+"roster_name":"Brett Dennen",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV52240.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"29",
+"roster_entry_id":"WR5081",
+"roster_name":"Brian Kennedy",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV86941.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Brian Kennedy/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"30",
+"roster_entry_id":"WR118",
+"roster_name":"Brian Mcknight",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21141.jpg",
+"roster_website_url":"http://www.bmcknight.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Brian Mcknight/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"31",
+"roster_entry_id":"WR5121",
+"roster_name":"Brill Building",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV87703.jpg",
+"roster_website_url":"http://www.brillbuilding.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"32",
+"roster_entry_id":"WR784",
+"roster_name":"Burning Hotels",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20761.jpg",
+"roster_website_url":"http://burninghotels.net/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Burning Hotels/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"33",
+"roster_entry_id":"WR120",
+"roster_name":"Busta Rhymes",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12283.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Busta Rhymes/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"C":
+[{
+"sequence":"1",
+"roster_entry_id":"WR629",
+"roster_name":"C.C. Sheffield",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21405.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/C/artist/C-:46:-C-:46:- Sheffield/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR121",
+"roster_name":"Calaisa",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12284.jpg",
+"roster_website_url":"http://www.calaisa.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/C/artist/Calaisa/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR1402",
+"roster_name":"Caligola",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21861.jpg",
+"roster_website_url":"http://caligola.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/C/artist/Caligola/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR122",
+"roster_name":"Carolina Liar",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV22101.jpg",
+"roster_website_url":"http://www.carolinaliar.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/C/artist/Carolina Liar/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR543",
+"roster_name":"Cascada via Yanou",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21906.jpg",
+"roster_website_url":"http://www.cascada-music.de/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/C/artist/Cascada via Yanou/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR123",
+"roster_name":"Charlie Haden",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21041.jpg",
+"roster_website_url":"http://www.charliehadenmusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/C/artist/Charlie Haden/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR3501",
+"roster_name":"Chick Corea",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV59162.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR4941",
+"roster_name":"Christina Perri",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV81981.jpg",
+"roster_website_url":"http://www.christinaperri.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/C/artist/Christina Perri/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR309",
+"roster_name":"Cirkut",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV57047.jpg",
+"roster_website_url":"http://www.dreammachine.me/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR622",
+"roster_name":"City and Colour",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21548.jpg",
+"roster_website_url":"http://cityandcolour.ca/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/C/artist/City and Colour/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR2261",
+"roster_name":"Cloud Nothings",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV35829.jpg",
+"roster_website_url":"http://cloudnothings.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR3461",
+"roster_name":"CocoRosie",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV61237.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR250",
+"roster_name":"Cory Mo",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12286.jpg",
+"roster_website_url":"http://www.corymomusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/C/artist/Cory Mo/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR634",
+"roster_name":"Courtney Harrell",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21172.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/C/artist/Courtney Harrell/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"15",
+"roster_entry_id":"WR1801",
+"roster_name":"Craig David",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV24683.jpg",
+"roster_website_url":"http://www.craigdavid.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"16",
+"roster_entry_id":"WR124",
+"roster_name":"Cut Chemist",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21921.jpg",
+"roster_website_url":"http://www.cutchemist.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/C/artist/Cut Chemist/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"17",
+"roster_entry_id":"WR125",
+"roster_name":"Cut Copy",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV456.jpg",
+"roster_website_url":"http://www.cutcopy.net/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/C/artist/Cut Copy/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"L":
+[{
+"sequence":"1",
+"roster_entry_id":"WR5021",
+"roster_name":"L&amp;F (Bongo &amp; C4)",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV85882.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR164",
+"roster_name":"LCD Soundsystem",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV475.jpg",
+"roster_website_url":"http://www.lcdsoundsystem.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/L/artist/LCD Soundsystem/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR165",
+"roster_name":"LMFAO",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV477.jpg",
+"roster_website_url":"http://www.partyrockpeople.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/L/artist/LMFAO/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR353",
+"roster_name":"La Cosca",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV20662.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR3821",
+"roster_name":"Lateral",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV60902.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR5241",
+"roster_name":"Lauri Yl&ouml;nen",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV93202.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR1282",
+"roster_name":"Leah Haywood",
+"roster_type":"Artists",
+"roster_image_url":"",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR5961",
+"roster_name":"Lecrae",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101803.jpg",
+"roster_website_url":"http://www.lecrae.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/L/artist/Lecrae/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR721",
+"roster_name":"Lia Ices",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20521.jpg",
+"roster_website_url":"http://www.liaices.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/L/artist/Lia Ices/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR167",
+"roster_name":"Lights Resolve",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21132.jpg",
+"roster_website_url":"http://www.lightsresolve.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/L/artist/Lights Resolve/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR5861",
+"roster_name":"Lil Jon",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101281.jpg",
+"roster_website_url":"http://liljon.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/L/artist/Lil Jon/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR5884",
+"roster_name":"Lincoln Parish",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101448.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR273",
+"roster_name":"Lindy Robbins",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21168.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/L/artist/Lindy Robbins/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR1410",
+"roster_name":"Lisa Miskovsky",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21900.jpg",
+"roster_website_url":"http://lisamiskovsky.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/L/artist/Lisa Miskovsky/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"15",
+"roster_entry_id":"WR2301",
+"roster_name":"Little Boots",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV59163.jpg",
+"roster_website_url":"http://snd.sc/19ftlgo/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/L/artist/Little Boots/control/Anywhere/",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"16",
+"roster_entry_id":"WR1411",
+"roster_name":"Little Children",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21888.jpg",
+"roster_website_url":"http://www.littlechildrenmusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/L/artist/Little Children/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"17",
+"roster_entry_id":"WR1641",
+"roster_name":"Little Dragon",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23341.jpg",
+"roster_website_url":"http://www.little-dragon.se/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/L/artist/Little Dragon/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"18",
+"roster_entry_id":"WR2861",
+"roster_name":"Local Natives",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV53861.jpg",
+"roster_website_url":"http://www.thelocalnatives.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"M":
+[{
+"sequence":"1",
+"roster_entry_id":"WR170",
+"roster_name":"M. Ward",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20524.jpg",
+"roster_website_url":"http://www.mwardmusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/M-:46:- Ward/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR237",
+"roster_name":"MING",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23741.jpg",
+"roster_website_url":"http://mingsmusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/MING/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR4042",
+"roster_name":"MXM Music",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV63761.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR2441",
+"roster_name":"Machine Gun Kelly",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV51023.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR974",
+"roster_name":"Maile Misajon",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12297.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR171",
+"roster_name":"Mando Diao",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV22102.jpg",
+"roster_website_url":"http://www.mandodiao.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Mando Diao/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR1921",
+"roster_name":"Maratone",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV21890.jpg",
+"roster_website_url":"http://www.maratone.se/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR5841",
+"roster_name":"Markus Kruneg&aring;rd",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101161.jpg",
+"roster_website_url":"http://www.facebook.com/MarkusKrunegard/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Markus Krunegård/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR3922",
+"roster_name":"Maroon 5",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV62047.jpg",
+"roster_website_url":"http://www.maroon5.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR2461",
+"roster_name":"Martha Wainwright",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV51183.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR1241",
+"roster_name":"Martin and James",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21781.jpg",
+"roster_website_url":"http://www.martinandjames.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Martin and James/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR508",
+"roster_name":"Martina McBride",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV19802.jpg",
+"roster_website_url":"http://martinamcbride.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Martina McBride/control/Anywhere/",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR5141",
+"roster_name":"Mary Lambert",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV90786.jpg",
+"roster_website_url":"http://marylambertsings.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Mary Lambert/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR1727",
+"roster_name":"Mat McHugh",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV30932.jpg",
+"roster_website_url":"http://www.matmchughmusic.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"15",
+"roster_entry_id":"WR320",
+"roster_name":"Matt Rowe",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV22302.jpg",
+"roster_website_url":"http://www.mattrowe-music.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"16",
+"roster_entry_id":"WR5561",
+"roster_name":"Matthew Burnett",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV99522.jpg",
+"roster_website_url":"http://www.producermatthewburnett.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"17",
+"roster_entry_id":"WR5943",
+"roster_name":"Mau5trap Publishing",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV101685.jpg",
+"roster_website_url":"http://mau5trap.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"18",
+"roster_entry_id":"WR275",
+"roster_name":"Mauro Scocco",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21891.jpg",
+"roster_website_url":"http://www.mauroscocco.se/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Mauro Scocco/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"19",
+"roster_entry_id":"WR321",
+"roster_name":"Max Martin",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV479.jpg",
+"roster_website_url":"http://www.maratone.se/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"Y",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"20",
+"roster_entry_id":"WR173",
+"roster_name":"Maximo Park",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV478.jpg",
+"roster_website_url":"http://www.maximopark.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Maximo Park/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"21",
+"roster_entry_id":"WR1413",
+"roster_name":"Meja",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21892.jpg",
+"roster_website_url":"http://www.meja.net/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Meja/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"22",
+"roster_entry_id":"WR4229",
+"roster_name":"Mental As Anything",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV66152.jpg",
+"roster_website_url":"http://www.mentals.com.au/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Mental As Anything/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"23",
+"roster_entry_id":"WR3101",
+"roster_name":"Merchandise",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV56018.jpg",
+"roster_website_url":"http://merchandisetheband.wordpress.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Merchandise/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"24",
+"roster_entry_id":"WR277",
+"roster_name":"Michael Andrews",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12299.jpg",
+"roster_website_url":"http://www.elginpark.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Michael Andrews/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"25",
+"roster_entry_id":"WR801",
+"roster_name":"Michael Francis",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21544.jpg",
+"roster_website_url":"http://www.MichaelFrancisMusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Michael Francis/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"26",
+"roster_entry_id":"WR4181",
+"roster_name":"Michelle Bell",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV65421.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"27",
+"roster_entry_id":"WR2941",
+"roster_name":"Mick Fleetwood",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV54701.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"28",
+"roster_entry_id":"WR323",
+"roster_name":"Mike Hartnett",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12301.jpg",
+"roster_website_url":"http://www.milkmoneyconsulting.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"29",
+"roster_entry_id":"WR4601",
+"roster_name":"Miles Davis Catalogue",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV73064.jpg",
+"roster_website_url":"http://www.milesdavis.com/us/home/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"30",
+"roster_entry_id":"WR2501",
+"roster_name":"Mini Mansions",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV51463.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"31",
+"roster_entry_id":"WR2601",
+"roster_name":"Mint Condition",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV54902.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"32",
+"roster_entry_id":"WR4746",
+"roster_name":"Miriam Bryant (Stereoscope Music Scandinavia)",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV79505.jpg",
+"roster_website_url":"http://www.facebook.com/miriambryantmusic/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Miriam Bryant -:40:-Stereoscope Music Scandinavia-:41:-/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"33",
+"roster_entry_id":"WR104",
+"roster_name":"Moby",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23661.jpg",
+"roster_website_url":"http://www.moby.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Moby/control/Anywhere/",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"34",
+"roster_entry_id":"WR1363",
+"roster_name":"Moderat",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21909.jpg",
+"roster_website_url":"http://www.moderat.fm/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Moderat/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"35",
+"roster_entry_id":"WR174",
+"roster_name":"Modeselektor",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21908.jpg",
+"roster_website_url":"http://www.modeselektor.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Modeselektor/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"36",
+"roster_entry_id":"WR1729",
+"roster_name":"Modular Music",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV66143.jpg",
+"roster_website_url":"http://www.modularpeople.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"37",
+"roster_entry_id":"WR1482",
+"roster_name":"Mogwai",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV22201.jpg",
+"roster_website_url":"http://www.mogwai.co.uk/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Mogwai/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"38",
+"roster_entry_id":"WR1367",
+"roster_name":"Monkeytown",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV21912.jpg",
+"roster_website_url":"http://www.monkeytownrecords.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"39",
+"roster_entry_id":"WR4962",
+"roster_name":"Monza",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV83781.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"40",
+"roster_entry_id":"WR5901",
+"roster_name":"Mosco Rosco",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101482.jpg",
+"roster_website_url":"http://moscorosco.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Mosco Rosco/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"41",
+"roster_entry_id":"WR626",
+"roster_name":"Mother Falcon",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21261.jpg",
+"roster_website_url":"http://www.motherfalconmusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Mother Falcon/control/Anywhere/",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"42",
+"roster_entry_id":"WR1408",
+"roster_name":"Mr Radar",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV21893.jpg",
+"roster_website_url":"http://mrradarmusic.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"43",
+"roster_entry_id":"WR1242",
+"roster_name":"Munk (Via Gomma)",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21782.jpg",
+"roster_website_url":"http://www.gomma.de/munk/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Munk -:40:-Via Gomma-:41:-/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"44",
+"roster_entry_id":"WR339",
+"roster_name":"Music Rights Management",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV23262.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"N":
+[{
+"sequence":"1",
+"roster_entry_id":"WR281",
+"roster_name":"NO Joe",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV24780.jpg",
+"roster_website_url":"http://www.nojoemusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/N/artist/NO Joe/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR175",
+"roster_name":"Nadia Ali",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV25703.jpg",
+"roster_website_url":"http://www.nadiaali.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/N/artist/Nadia Ali/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR184",
+"roster_name":"Naked Eyes",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV24021.jpg",
+"roster_website_url":"http://www.nakedeyesmusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/N/artist/Naked Eyes/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR324",
+"roster_name":"Nasty Beatmakers",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21626.jpg",
+"roster_website_url":"http://www.nastybeatmakers.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR298",
+"roster_name":"Nat Geo Music",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV21022.jpg",
+"roster_website_url":"http://www.worldmusic.nationalgeographic.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR4506",
+"roster_name":"Natalie Sims",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV71344.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR176",
+"roster_name":"Neil Finn",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV68423.jpg",
+"roster_website_url":"http://www.crowdedhouse.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/N/artist/Neil Finn/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"Y",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR1322",
+"roster_name":"Nicole Morier",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV24001.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/N/artist/Nicole Morier/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR842",
+"roster_name":"Nicole Wray",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV64401.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR1281",
+"roster_name":"Nikki Leonti",
+"roster_type":"Artists",
+"roster_image_url":"",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/N/artist/Nikki Leonti/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR228",
+"roster_name":"Nine Inch Nails",
+"roster_type":"Artists",
+"roster_image_url":"",
+"roster_website_url":"http://www.nin.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/N/artist/Nine Inch Nails/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR326",
+"roster_name":"Noah &quot;40&quot; Shebib",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV481.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR4981",
+"roster_name":"Nolan Lambroza",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV84824.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"O":
+[{
+"sequence":"1",
+"roster_entry_id":"WR5622",
+"roster_name":"Of Montreal",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV99682.jpg",
+"roster_website_url":"http://www.ofmontreal.net/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR180",
+"roster_name":"OneRepublic",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV64854.jpg",
+"roster_website_url":"http://www.onerepublic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/O/artist/OneRepublic/control/Anywhere/",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"Y",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR966",
+"roster_name":"Ornette Coleman",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV483.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"H":
+[{
+"sequence":"1",
+"roster_entry_id":"WR141",
+"roster_name":"HIM (Ville Valo)",
+"roster_type":"Artists",
+"roster_image_url":"",
+"roster_website_url":"http://www.heartagram.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/H/artist/HIM -:40:-Ville Valo-:41:-/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR142",
+"roster_name":"Harry Connick Jr.",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV466.jpg",
+"roster_website_url":"http://www.harryconnickjr.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/H/artist/Harry Connick Jr-:46:-/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR1961",
+"roster_name":"Heather Nova",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV25181.jpg",
+"roster_website_url":"http://www.heathernova.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR317",
+"roster_name":"Henry Binns",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV24022.jpg",
+"roster_website_url":"http://www.solarmanagement.co.uk/Solar_Management/WHenry_Binns.html/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/H/artist/Henry Binns/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR144",
+"roster_name":"Herbert Groenemeyer",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21783.jpg",
+"roster_website_url":"http://www.groenemeyer.de/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/H/artist/Herbert Groenemeyer/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR145",
+"roster_name":"Herbie Hancock",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV22322.jpg",
+"roster_website_url":"http://www.herbiehancock.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/H/artist/Herbie Hancock/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR505",
+"roster_name":"Hercules and Love Affair",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12293.jpg",
+"roster_website_url":"http://www.myspace.com/herculesandloveaffair/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/H/artist/Hercules and Love Affair/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR1442",
+"roster_name":"Holy Ghost!",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV22084.jpg",
+"roster_website_url":"http://www.holyghostnyc.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/H/artist/Holy Ghost!/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR2541",
+"roster_name":"Home Brew Crew",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV51840.jpg",
+"roster_website_url":"http://homebrewcrew.co.nz/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR3621",
+"roster_name":"Hood Famous Music",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV59521.jpg",
+"roster_website_url":"http://hoodfamousmusic.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR2121",
+"roster_name":"Hook n Sling",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV29186.jpg",
+"roster_website_url":"http://www.hooknsling.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR148",
+"roster_name":"Howard Jones",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21642.jpg",
+"roster_website_url":"http://www.howardjones.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/H/artist/Howard Jones/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR1203",
+"roster_name":"Howler",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21643.jpg",
+"roster_website_url":"http://www.howlerband.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/H/artist/Howler/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR5965",
+"roster_name":"Hub Music Publishing",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV101809.jpg",
+"roster_website_url":"http://www.hubartistservices.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"15",
+"roster_entry_id":"WR149",
+"roster_name":"Hue And Cry",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21361.jpg",
+"roster_website_url":"http://www.hueandcry.co.uk/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/H/artist/Hue And Cry/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"16",
+"roster_entry_id":"WR5641",
+"roster_name":"Hyperdub Publishing",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV99902.jpg",
+"roster_website_url":"http://www.hyperdub.net/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"I":
+[{
+"sequence":"1",
+"roster_entry_id":"WR4421",
+"roster_name":"I Am Giant",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV68421.jpg",
+"roster_website_url":"http://www.iamgiant.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/I/artist/I Am Giant/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR150",
+"roster_name":"Iain Archer",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV59167.jpg",
+"roster_website_url":"http://www.iainarcher.co.uk/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/I/artist/Iain Archer/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR3561",
+"roster_name":"Iain James",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV59210.jpg",
+"roster_website_url":"http://365artists.com/producers/iain-james.php#.UgTMIqy0RWF/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/I/artist/Iain James/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR266",
+"roster_name":"Ian Dench",
+"roster_type":"Artists",
+"roster_image_url":"",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/I/artist/Ian Dench/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR151",
+"roster_name":"Ian McCulloch",
+"roster_type":"Artists",
+"roster_image_url":"",
+"roster_website_url":"http://www.myspace.com/ianmcculloch/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/I/artist/Ian McCulloch/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR1723",
+"roster_name":"Icehouse",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV19629.jpg",
+"roster_website_url":"http://www.icehouse-ivadavies.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR318",
+"roster_name":"Illfactor",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV468.jpg",
+"roster_website_url":"http://www.illfactormusic.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR152",
+"roster_name":"In Flames",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101341.jpg",
+"roster_website_url":"http://www.inflames.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/I/artist/In Flames/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR2561",
+"roster_name":"Inside Passage Music",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV51982.jpg",
+"roster_website_url":"http://www.insidepassagemusic.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR153",
+"roster_name":"Interpol",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23425.jpg",
+"roster_website_url":"http://www.interpolnyc.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/I/artist/Interpol/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR351",
+"roster_name":"Intrigue Music",
+"roster_type":"Companies",
+"roster_image_url":"",
+"roster_website_url":"http://www.intriguemusic.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR5661",
+"roster_name":"Italians Do It Better",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV99922.jpg",
+"roster_website_url":"http://italiansdoitbetter.bigcartel.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR1722",
+"roster_name":"Iva Davies",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV19629.jpg",
+"roster_website_url":"http://icehouse-ivadavies.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/I/artist/Iva Davies/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"Y",
+"roster_is_label_services":"N"
+}
+
+],
+"J":
+[{
+"sequence":"1",
+"roster_entry_id":"WR2627",
+"roster_name":"Jackson Browne",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV52247.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR4481",
+"roster_name":"Jackson Morgan",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV71082.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR3983",
+"roster_name":"Jake Bugg",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV64882.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Jake Bugg/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"Y",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR1642",
+"roster_name":"James Murphy",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23304.jpg",
+"roster_website_url":"http://lcdsoundsystem.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/James Murphy/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR269",
+"roster_name":"Janice Robinson",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV469.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Janice Robinson/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR1881",
+"roster_name":"Jaret Reddick",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV24962.jpg",
+"roster_website_url":"http://jaretreddick.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR154",
+"roster_name":"Jenny &amp; Johnny",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20882.jpg",
+"roster_website_url":"http://www.jennyandjohnnymusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Jenny -:38:- Johnny/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR155",
+"roster_name":"Jenny Lewis",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20526.jpg",
+"roster_website_url":"http://www.jennylewis.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Jenny Lewis/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR5462",
+"roster_name":"Jens Lekman",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV98561.jpg",
+"roster_website_url":"http://www.jenslekman.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Jens Lekman/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR3487",
+"roster_name":"Jessi Alexander",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV58902.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR5944",
+"roster_name":"Jimmy Buffett",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101689.jpg",
+"roster_website_url":"http://www.margaritaville.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Jimmy Buffett/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR156",
+"roster_name":"Jimmy Eat World",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV470.jpg",
+"roster_website_url":"http://www.jimmyeatworld.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Jimmy Eat World/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR5642",
+"roster_name":"John Carney",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV100262.jpg",
+"roster_website_url":"http://www.casarotto.co.uk/client/john-carney-11258/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR5941",
+"roster_name":"John Denver",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101681.jpg",
+"roster_website_url":"http://johndenver.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/John Denver/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"15",
+"roster_entry_id":"WR506",
+"roster_name":"John Rich",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV471.jpg",
+"roster_website_url":"http://www.johnrich.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/John Rich/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"16",
+"roster_entry_id":"WR5341",
+"roster_name":"Johnathan Rice",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV96382.jpg",
+"roster_website_url":"http://www.johnathanrice.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Johnathan Rice/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"17",
+"roster_entry_id":"WR270",
+"roster_name":"Johnny McDaid",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV19808.jpg",
+"roster_website_url":"http://www.johnnymcdaid.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Johnny McDaid/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"18",
+"roster_entry_id":"WR271",
+"roster_name":"Jon Brion",
+"roster_type":"Artists",
+"roster_image_url":"",
+"roster_website_url":"http://www.largo-la.com/2012/01/27/dont-miss-jon-brion-friday-february-24-224/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Jon Brion/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"19",
+"roster_entry_id":"WR5701",
+"roster_name":"Jon Lind",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV100265.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"20",
+"roster_entry_id":"WR1415",
+"roster_name":"Jonas Myrin",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21886.jpg",
+"roster_website_url":"http://www.jonasmyrin.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Jonas Myrin/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"21",
+"roster_entry_id":"WR272",
+"roster_name":"Josh Werner",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23706.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Josh Werner/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"22",
+"roster_entry_id":"WR157",
+"roster_name":"Joshua Redman",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV492.jpg",
+"roster_website_url":"http://www.joshuaredman.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Joshua Redman/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"23",
+"roster_entry_id":"WR158",
+"roster_name":"Joss Stone",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23624.jpg",
+"roster_website_url":"http://www.jossstone.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Joss Stone/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"24",
+"roster_entry_id":"WR2841",
+"roster_name":"Julian Lage",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV53801.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"25",
+"roster_entry_id":"WR1581",
+"roster_name":"Junkie XL",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV22442.jpg",
+"roster_website_url":"http://www.junkiexl.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Junkie XL/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"26",
+"roster_entry_id":"WR1901",
+"roster_name":"Justin Ellington",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV25121.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"27",
+"roster_entry_id":"WR507",
+"roster_name":"Justin Hawkins",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12294.jpg",
+"roster_website_url":"http://www.justinhawkinsrocks.co.uk/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Justin Hawkins/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"28",
+"roster_entry_id":"WR5582",
+"roster_name":"Jutty Ranx",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV99541.jpg",
+"roster_website_url":"http://www.juttyranx.com/wp/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"K":
+[{
+"sequence":"1",
+"roster_entry_id":"WR5882",
+"roster_name":"K7",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV101446.jpg",
+"roster_website_url":"http://www.k7.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR3486",
+"roster_name":"KS Rhoads",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV58901.jpg",
+"roster_website_url":"http://www.ksrhoads.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR2021",
+"roster_name":"Keaton Henson",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV25681.jpg",
+"roster_website_url":"http://www.keatonhenson.com//",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/K/artist/Keaton Henson/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR159",
+"roster_name":"Kelly Clarkson",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV472.jpg",
+"roster_website_url":"http://www.kellyclarkson.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/K/artist/Kelly Clarkson/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR2061",
+"roster_name":"Kelly Price",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV31262.jpg",
+"roster_website_url":"http://www.kellyprice.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/K/artist/Kelly Price/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR964",
+"roster_name":"Kev Carmody",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21065.jpg",
+"roster_website_url":"http://kevcarmody.com.au/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR5964",
+"roster_name":"Kevin Parker",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101808.jpg",
+"roster_website_url":"http://www.tameimpala.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"Y",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR160",
+"roster_name":"Kid Cudi",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV473.jpg",
+"roster_website_url":"http://www.kidcudi.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/K/artist/Kid Cudi/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR162",
+"roster_name":"Kid Rock",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12295.jpg",
+"roster_website_url":"http://www.kidrock.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/K/artist/Kid Rock/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR352",
+"roster_name":"Killing Moon Songs",
+"roster_type":"Companies",
+"roster_image_url":"",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR3181",
+"roster_name":"Killswitch Engage",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV56311.jpg",
+"roster_website_url":"http://www.killswitchengage.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR163",
+"roster_name":"Koop",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21887.jpg",
+"roster_website_url":"http://www.myspace.com/koop/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/K/artist/Koop/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR5005",
+"roster_name":"Kruder &amp; Dorfmeister",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV85286.jpg",
+"roster_website_url":"http://www.richarddorfmeister.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR3741",
+"roster_name":"Kurt Uenala",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV59583.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"T":
+[{
+"sequence":"1",
+"roster_entry_id":"WR207",
+"roster_name":"Tears For Fears",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23525.jpg",
+"roster_website_url":"http://www.tearsforfears.net/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/Tears For Fears/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR1243",
+"roster_name":"Telonius (Via Gomma)",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21784.jpg",
+"roster_website_url":"http://www.gomma.de/telonius/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/Telonius -:40:-Via Gomma-:41:-/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR4621",
+"roster_name":"Terry Sawchuk",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV74421.jpg",
+"roster_website_url":"http://www.papertownsongs.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR2626",
+"roster_name":"Testament",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV52241.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR4641",
+"roster_name":"Tha Bizness",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV75001.jpg",
+"roster_website_url":"http://thabizness.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR209",
+"roster_name":"The Antlers",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20527.jpg",
+"roster_website_url":"http://www.antlersmusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Antlers/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR901",
+"roster_name":"The Besnard Lakes",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23724.jpg",
+"roster_website_url":"http://www.thebesnardlakes.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR210",
+"roster_name":"The Bluetones",
+"roster_type":"Artists",
+"roster_image_url":"",
+"roster_website_url":"http://www.bluetones.info/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Bluetones/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR177",
+"roster_name":"The Cardigans",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21745.jpg",
+"roster_website_url":"http://www.cardigans.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Cardigans/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR211",
+"roster_name":"The Click Five",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23704.jpg",
+"roster_website_url":"http://www.theclickfive.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Click Five/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR1106",
+"roster_name":"The Coral",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12316.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Coral/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR213",
+"roster_name":"The Datsuns",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23261.jpg",
+"roster_website_url":"http://www.thedatsuns.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Datsuns/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR214",
+"roster_name":"The Dresden Dolls",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12317.jpg",
+"roster_website_url":"http://www.dresdendolls.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Dresden Dolls/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR1403",
+"roster_name":"The Haunted",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21898.jpg",
+"roster_website_url":"http://www.the-haunted.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Haunted/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"15",
+"roster_entry_id":"WR216",
+"roster_name":"The Head &amp; The Heart",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20886.jpg",
+"roster_website_url":"http://www.theheadandtheheart.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Head -:38:- The Heart/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"16",
+"roster_entry_id":"WR215",
+"roster_name":"The Hives",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21006.jpg",
+"roster_website_url":"http://www.TheHivesBroadcastingService.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Hives/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"17",
+"roster_entry_id":"WR217",
+"roster_name":"The Juan MacLean",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23723.jpg",
+"roster_website_url":"http://www.thejuanmaclean.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Juan MacLean/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"18",
+"roster_entry_id":"WR1221",
+"roster_name":"The Law",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21661.jpg",
+"roster_website_url":"http://www.thelawmusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Law/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"19",
+"roster_entry_id":"WR218",
+"roster_name":"The Levellers",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21362.jpg",
+"roster_website_url":"http://www.levellers.co.uk/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Levellers/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"20",
+"roster_entry_id":"WR219",
+"roster_name":"The Lonely Island",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20561.jpg",
+"roster_website_url":"http://www.thelonelyisland.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Lonely Island/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"21",
+"roster_entry_id":"WR973",
+"roster_name":"The Lumineers",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21170.jpg",
+"roster_website_url":"http://www.thelumineers.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Lumineers/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"22",
+"roster_entry_id":"WR623",
+"roster_name":"The M Machine",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21924.jpg",
+"roster_website_url":"http://www.facebook.com/themmachine/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The M Machine/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"23",
+"roster_entry_id":"WR336",
+"roster_name":"The Monarch",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV508.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"24",
+"roster_entry_id":"WR220",
+"roster_name":"The Offspring",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101602.jpg",
+"roster_website_url":"http://www.offspring.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Offspring/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"25",
+"roster_entry_id":"WR2581",
+"roster_name":"The Presidents of the USA",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV51984.jpg",
+"roster_website_url":"http://www.presidentsrock.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"26",
+"roster_entry_id":"WR1182",
+"roster_name":"The Raveonettes",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21593.jpg",
+"roster_website_url":"http://www.theraveonettes.com/#/ /",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Raveonettes/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"27",
+"roster_entry_id":"WR221",
+"roster_name":"The Rocket Summer",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20888.jpg",
+"roster_website_url":"http://www.therocketsummer.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Rocket Summer/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"28",
+"roster_entry_id":"WR2001",
+"roster_name":"The Saturdays",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV25643.jpg",
+"roster_website_url":"http://www.thesaturdays.co.uk/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Saturdays/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"29",
+"roster_entry_id":"WR2241",
+"roster_name":"The Secret Sisters",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV35615.jpg",
+"roster_website_url":"http://www.secretsistersband.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Secret Sisters/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"30",
+"roster_entry_id":"WR4082",
+"roster_name":"The Sounds",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV64442.jpg",
+"roster_website_url":"http://www.the-sounds.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Sounds/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"31",
+"roster_entry_id":"WR208",
+"roster_name":"The Tenderbox",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20682.jpg",
+"roster_website_url":"http://www.swinghouse.com/tenderbox/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Tenderbox/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"32",
+"roster_entry_id":"WR1201",
+"roster_name":"The Young Punx",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21625.jpg",
+"roster_website_url":"http://www.theyoungpunx.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Young Punx/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"33",
+"roster_entry_id":"WR3161",
+"roster_name":"Thom Yorke",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV55863.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/Thom Yorke/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"34",
+"roster_entry_id":"WR1725",
+"roster_name":"Tim Minchin",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV29182.jpg",
+"roster_website_url":"http://www.timminchin.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/Tim Minchin/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"35",
+"roster_entry_id":"WR632",
+"roster_name":"Tim Myers",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20687.jpg",
+"roster_website_url":"http://www.thetimmyers.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/Tim Myers/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"36",
+"roster_entry_id":"WR223",
+"roster_name":"Tina Dico",
+"roster_type":"Artists",
+"roster_image_url":"",
+"roster_website_url":"http://www.tinadico.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/Tina Dico/control/Anywhere/",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"37",
+"roster_entry_id":"WR222",
+"roster_name":"Ti&euml;sto",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV509.jpg",
+"roster_website_url":"http://www.tiesto.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/Ti-:235:-sto/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"38",
+"roster_entry_id":"WR1341",
+"roster_name":"Tobias Kuhn",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21823.jpg",
+"roster_website_url":"http://www.tobiaskuhn.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"39",
+"roster_entry_id":"WR226",
+"roster_name":"Toby Keith",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101546.jpg",
+"roster_website_url":"http://www.tobykeith.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/Toby Keith/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"40",
+"roster_entry_id":"WR5624",
+"roster_name":"Todd Edwards",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV99689.jpg",
+"roster_website_url":"http://https://www.facebook.com/toddedwards3000?ref=br_rs/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"41",
+"roster_entry_id":"WR227",
+"roster_name":"Tokio Hotel via Emma's Park",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21982.jpg",
+"roster_website_url":"http://www.tokiohotel.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/Tokio Hotel via Emma-:39:-s Park/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"42",
+"roster_entry_id":"WR292",
+"roster_name":"Tony Kanal",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23822.jpg",
+"roster_website_url":"http://www.nodoubt.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/Tony Kanal/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"43",
+"roster_entry_id":"WR4841",
+"roster_name":"Toro Y Moi",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV79921.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/Toro Y Moi/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"44",
+"roster_entry_id":"WR5002",
+"roster_name":"Tosca",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV85285.jpg",
+"roster_website_url":"http://www.toscamusic.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"45",
+"roster_entry_id":"WR3489",
+"roster_name":"Travis Meadows",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV58903.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"46",
+"roster_entry_id":"WR970",
+"roster_name":"Trent Reznor",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV513.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"47",
+"roster_entry_id":"WR2481",
+"roster_name":"Trevor Hall",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV51443.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"48",
+"roster_entry_id":"WR4231",
+"roster_name":"Trevor Steel",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV68663.jpg",
+"roster_website_url":"http://www.steelsongs.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"49",
+"roster_entry_id":"WR5721",
+"roster_name":"Tricky",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101125.jpg",
+"roster_website_url":"http://www.trickysite.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"50",
+"roster_entry_id":"WR1248",
+"roster_name":"Tyson",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21789.jpg",
+"roster_website_url":"http://www.t-y-s-o-n.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/Tyson/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"51",
+"roster_entry_id":"WR1781",
+"roster_name":"tUnE-yArDs",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV24042.jpg",
+"roster_website_url":"http://www.facebook.com/tuneyards/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"W":
+[{
+"sequence":"1",
+"roster_entry_id":"WR5261",
+"roster_name":"Wally Gagel",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV93982.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR230",
+"roster_name":"Wavves",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20525.jpg",
+"roster_website_url":"http://www.wavves.net/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/W/artist/Wavves/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR1246",
+"roster_name":"Waxploitation",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV54368.jpg",
+"roster_website_url":"http://www.waxploitation.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR3281",
+"roster_name":"Waylon Jennings",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV57581.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR2622",
+"roster_name":"Wayne Shorter",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV52239.jpg",
+"roster_website_url":"http://www.wayneshorter.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR231",
+"roster_name":"Wet Wet Wet",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21344.jpg",
+"roster_website_url":"http://www.wetwetwet.co.uk/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/W/artist/Wet Wet Wet/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR232",
+"roster_name":"When In Rome",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21899.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/W/artist/When In Rome/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR233",
+"roster_name":"Wild Flag",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20484.jpg",
+"roster_website_url":"http://www.mergerecords.com/artists/wild_flag/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/W/artist/Wild Flag/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR2401",
+"roster_name":"Will Sergeant",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV41581.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR234",
+"roster_name":"William Orbit",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12321.jpg",
+"roster_website_url":"http://www.williamorbit.com/blog/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/W/artist/William Orbit/control/Anywhere/",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR3721",
+"roster_name":"Willy Mason",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV59588.jpg",
+"roster_website_url":"http://www.willymasonmusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/W/artist/Willy Mason/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR5801",
+"roster_name":"Wintergatan",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV100982.jpg",
+"roster_website_url":"http://www.wintergatan.net/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/W/artist/Wintergatan/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR5481",
+"roster_name":"Wolf Alice",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV98641.jpg",
+"roster_website_url":"http://wolfalice.co.uk/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/W/artist/Wolf Alice/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR5681",
+"roster_name":"Wynton Marsalis",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV100255.jpg",
+"roster_website_url":"http://wyntonmarsalis.org/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"V":
+[{
+"sequence":"1",
+"roster_entry_id":"WR1782",
+"roster_name":"Veracity Entertainment",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV24061.jpg",
+"roster_website_url":"http://veracityentertainment.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR5061",
+"roster_name":"VerseChorusVerse",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV86082.jpg",
+"roster_website_url":"http://www.facebook.com/VerseChorusVerseVCV/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR229",
+"roster_name":"Vince Gill",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12319.jpg",
+"roster_website_url":"http://www.vincegill.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/V/artist/Vince Gill/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"Q":
+[{
+"sequence":"1",
+"roster_entry_id":"WR3881",
+"roster_name":"Queens of the Stone Age",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV61421.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/Q/artist/Queens of the Stone Age/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"P":
+[{
+"sequence":"1",
+"roster_entry_id":"WR181",
+"roster_name":"P-Money",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21023.jpg",
+"roster_website_url":"http://www.pmoneymusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/P-Money/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR182",
+"roster_name":"Pajama Party",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21088.jpg",
+"roster_website_url":"http://www.pajamaclubmusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/Pajama Party/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR4321",
+"roster_name":"Panic! At the Disco",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV66621.jpg",
+"roster_website_url":"http://www.panicatthedisco.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/Panic! At the Disco/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR329",
+"roster_name":"Pascal Gabriel",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12308.jpg",
+"roster_website_url":"http://www.melophobia.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR284",
+"roster_name":"Pat Metheny",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV22463.jpg",
+"roster_website_url":"http://www.patmetheny.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/Pat Metheny/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR1161",
+"roster_name":"Patrik Berger",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21584.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR967",
+"roster_name":"Patriot Games",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV21068.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR3301",
+"roster_name":"Paul Buchanan",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV58543.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR1762",
+"roster_name":"Paul McCartney",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV25086.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR4442",
+"roster_name":"Paul Wheeler",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV78317.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/Paul Wheeler/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR1521",
+"roster_name":"Paul van Dyk",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV22222.jpg",
+"roster_website_url":"http://www.paulvandyk.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/Paul van Dyk/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR183",
+"roster_name":"Peaches",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV484.jpg",
+"roster_website_url":"http://www.peachesrocks.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/Peaches/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR441",
+"roster_name":"Pearl Jam",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV19582.jpg",
+"roster_website_url":"http://www.pearljam.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/Pearl Jam/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR4745",
+"roster_name":"Per Magnusson",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV79504.jpg",
+"roster_website_url":"http://www.asideproductions.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"15",
+"roster_entry_id":"WR2629",
+"roster_name":"Perry Farrell",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV52248.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"16",
+"roster_entry_id":"WR286",
+"roster_name":"Peter Vettese",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV22204.jpg",
+"roster_website_url":"http://www.peterjohnvettese.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/Peter Vettese/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"17",
+"roster_entry_id":"WR1405",
+"roster_name":"Peter Wallevik",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21894.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"18",
+"roster_entry_id":"WR186",
+"roster_name":"Phantom Limb",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21541.jpg",
+"roster_website_url":"http://www.phantomlimbmusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/Phantom Limb/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"19",
+"roster_entry_id":"WR187",
+"roster_name":"Pharoahe Monch",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV488.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/Pharoahe Monch/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"20",
+"roster_entry_id":"WR561",
+"roster_name":"Philip Selway",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21796.jpg",
+"roster_website_url":"http://www.philipselway.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/Philip Selway/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"21",
+"roster_entry_id":"WR188",
+"roster_name":"Philipp Poisel",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21622.jpg",
+"roster_website_url":"http://www.philipp-poisel.de/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/Philipp Poisel/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"22",
+"roster_entry_id":"WR189",
+"roster_name":"Phoenix",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21069.jpg",
+"roster_website_url":"http://www.wearephoenix.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/Phoenix/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"23",
+"roster_entry_id":"WR1202",
+"roster_name":"Phonat",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21641.jpg",
+"roster_website_url":"http://www.phonat.net/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/Phonat/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"24",
+"roster_entry_id":"WR562",
+"roster_name":"Pink Martini",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV489.jpg",
+"roster_website_url":"http://pinkmartini.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/Pink Martini/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"25",
+"roster_entry_id":"WR1441",
+"roster_name":"Polar Patrol Publishing",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV22083.jpg",
+"roster_website_url":"http://www.polarpatrolpublishing.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"26",
+"roster_entry_id":"WR1483",
+"roster_name":"Poli&ccedil;a",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21797.jpg",
+"roster_website_url":"http://www.thisispolica.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/P/artist/Poliça/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"27",
+"roster_entry_id":"WR5521",
+"roster_name":"Prides",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV98902.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"28",
+"roster_entry_id":"WR1561",
+"roster_name":"Publishing Company Ten",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV22401.jpg",
+"roster_website_url":"http://www.ten.se/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"S":
+[{
+"sequence":"1",
+"roster_entry_id":"WR4701",
+"roster_name":"S. Carey",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV78541.jpg",
+"roster_website_url":"http://scarey.org/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR3441",
+"roster_name":"Saabira",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV58541.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR1101",
+"roster_name":"Saint Etienne",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21494.jpg",
+"roster_website_url":"http://www.saintetienne.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Saint Etienne/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR1061",
+"roster_name":"Saint Saviour",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21493.jpg",
+"roster_website_url":"http://www.saintsaviour.co.uk/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Saint Saviour/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR360",
+"roster_name":"San Remo",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV21074.jpg",
+"roster_website_url":"http://www.sanremo-live.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR1407",
+"roster_name":"Savan Kotecha (MXM)",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21896.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR3141",
+"roster_name":"Sayez",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV56309.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR332",
+"roster_name":"Scoop Deville",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV497.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR4681",
+"roster_name":"Scott Gold",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV78561.jpg",
+"roster_website_url":"http://www.twitter.com/ItsScottGold/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR4581",
+"roster_name":"Secret City",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV73022.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"N",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR2242",
+"roster_name":"Secretly Canadian Publishing",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV35618.jpg",
+"roster_website_url":"http://www.scmusicpub.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR2161",
+"roster_name":"Serj Tankian",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV33828.jpg",
+"roster_website_url":"http://www.serjtankian.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Serj Tankian/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR381",
+"roster_name":"Sharon Jones and The Dap Kings",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV498.jpg",
+"roster_website_url":"http://www.daptonerecords.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Sharon Jones and The Dap Kings/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR2661",
+"roster_name":"Shelby Lynne",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV52249.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"15",
+"roster_entry_id":"WR1141",
+"roster_name":"Shellback (MXM)",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21566.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"Y",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"16",
+"roster_entry_id":"WR288",
+"roster_name":"Shelly Peiken",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV98585.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Shelly Peiken/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"17",
+"roster_entry_id":"WR333",
+"roster_name":"Shep Solomon",
+"roster_type":"Artists",
+"roster_image_url":"",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"18",
+"roster_entry_id":"WR1245",
+"roster_name":"Shit Robot",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21786.jpg",
+"roster_website_url":"http://www.shitrobot.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Shit Robot/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"19",
+"roster_entry_id":"WR198",
+"roster_name":"Sick Puppies",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV500.jpg",
+"roster_website_url":"http://www.sickpuppies.net/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Sick Puppies/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"20",
+"roster_entry_id":"WR199",
+"roster_name":"Simian Mobile Disco",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21492.jpg",
+"roster_website_url":"http://www.simianmobiledisco.co.uk/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Simian Mobile Disco/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"21",
+"roster_entry_id":"WR3521",
+"roster_name":"Simon Aldred",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV59168.jpg",
+"roster_website_url":"http://outcoldofficial.tumblr.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"22",
+"roster_entry_id":"WR289",
+"roster_name":"Simon Climie",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV501.jpg",
+"roster_website_url":"http://www.simonclimie.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Simon Climie/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"23",
+"roster_entry_id":"WR1362",
+"roster_name":"Siriusmo",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21907.jpg",
+"roster_website_url":"http://www.monkeytownrecords.com/artists/view/2/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Siriusmo/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"24",
+"roster_entry_id":"WR4225",
+"roster_name":"Six60",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV66148.jpg",
+"roster_website_url":"http://www.six60.co.nz/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Six60/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"25",
+"roster_entry_id":"WR200",
+"roster_name":"Skrillex",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV502.jpg",
+"roster_website_url":"http://www.skrillex.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Skrillex/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"26",
+"roster_entry_id":"WR3341",
+"roster_name":"Smack Water Music",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV58161.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"27",
+"roster_entry_id":"WR5885",
+"roster_name":"Soko",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV101450.jpg",
+"roster_website_url":"http://www.s-o-k-o.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Soko/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"28",
+"roster_entry_id":"WR2081",
+"roster_name":"Sonic Youth",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV27222.jpg",
+"roster_website_url":"http://www.sonicyouth.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Sonic Youth/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"29",
+"roster_entry_id":"WR202",
+"roster_name":"Sonny Rollins",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV22462.jpg",
+"roster_website_url":"http://www.sonnyrollins.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Sonny Rollins/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"30",
+"roster_entry_id":"WR5963",
+"roster_name":"Specific Music",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV101807.jpg",
+"roster_website_url":"http://www.specificmusic.com.au/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"31",
+"roster_entry_id":"WR203",
+"roster_name":"Stanfour",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV22224.jpg",
+"roster_website_url":"http://www.stanfour.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Stanfour/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"32",
+"roster_entry_id":"WR4142",
+"roster_name":"Steel Panther",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV64897.jpg",
+"roster_website_url":"http://steelpantherrocks.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+,{
+"sequence":"33",
+"roster_entry_id":"WR204",
+"roster_name":"Steph Jones",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12314.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Steph Jones/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"34",
+"roster_entry_id":"WR4744",
+"roster_name":"Stereoscope Music Scandinavia",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV79503.jpg",
+"roster_website_url":"http://stereoscopemusic.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"35",
+"roster_entry_id":"WR205",
+"roster_name":"Steve Azar",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21985.jpg",
+"roster_website_url":"http://www.steveazarlive.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Steve Azar/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"36",
+"roster_entry_id":"WR969",
+"roster_name":"Steve Diamond",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21077.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"37",
+"roster_entry_id":"WR206",
+"roster_name":"Steve Moakler",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21089.jpg",
+"roster_website_url":"http://www.stevemoakler.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Steve Moakler/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"38",
+"roster_entry_id":"WR5883",
+"roster_name":"Steve Winwood",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV69183.jpg",
+"roster_website_url":"http://stevewinwood.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Steve Winwood/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"39",
+"roster_entry_id":"WR2681",
+"roster_name":"Stevie Nicks",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV52250.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"40",
+"roster_entry_id":"WR334",
+"roster_name":"Stew Jackson",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23363.jpg",
+"roster_website_url":"http://www.smoothside.com/robotclub/index.html/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"41",
+"roster_entry_id":"WR1247",
+"roster_name":"Stormblast Publishing",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV21788.jpg",
+"roster_website_url":"http://www.stormblast-publishing.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"42",
+"roster_entry_id":"WR5042",
+"roster_name":"Street Symphony",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV85974.jpg",
+"roster_website_url":"http://twitter.com/istreetsymphony/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"43",
+"roster_entry_id":"WR4781",
+"roster_name":"Style of Eye (MXM)",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV79541.jpg",
+"roster_website_url":"http://styleofeye.se/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"44",
+"roster_entry_id":"WR5422",
+"roster_name":"Sunset Sons",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV98067.jpg",
+"roster_website_url":"http://www.facebook.com/SunsetSons/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"45",
+"roster_entry_id":"WR5967",
+"roster_name":"Sweat It Out Music Publishing",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV101810.jpg",
+"roster_website_url":"http://sweatitoutmusic.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"R":
+[{
+"sequence":"1",
+"roster_entry_id":"WR1365",
+"roster_name":"Rammstein",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21910.jpg",
+"roster_website_url":"http://www.rammstein.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/R/artist/Rammstein/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR4182",
+"roster_name":"Ray Angry",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV65422.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR567",
+"roster_name":"Ray Conniff",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV19804.jpg",
+"roster_website_url":"http://www.rayconniff.info/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/R/artist/Ray Conniff/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"4",
+"roster_entry_id":"WR921",
+"roster_name":"Razor &amp; Tie",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV20922.jpg",
+"roster_website_url":"http://www.razorandtiemusicpublishing.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"5",
+"roster_entry_id":"WR1409",
+"roster_name":"Razor Boy Music Publishing",
+"roster_type":"Companies",
+"roster_image_url":"/images/IMGV21895.jpg",
+"roster_website_url":"http://razorboymusicpub.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"6",
+"roster_entry_id":"WR5383",
+"roster_name":"Redfoo",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV97786.jpg",
+"roster_website_url":"http://redfoo.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/R/artist/Redfoo/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"7",
+"roster_entry_id":"WR190",
+"roster_name":"Reptar",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV20522.jpg",
+"roster_website_url":"http://www.reptarmusic.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/R/artist/Reptar/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"8",
+"roster_entry_id":"WR4761",
+"roster_name":"Reptile Youth",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV79521.jpg",
+"roster_website_url":"http://www.reptileyouth.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"9",
+"roster_entry_id":"WR1321",
+"roster_name":"Rich Skillz",
+"roster_type":"Artists",
+"roster_image_url":"",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/R/artist/Rich Skillz/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"10",
+"roster_entry_id":"WR191",
+"roster_name":"Richard Ashcroft",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21500.jpg",
+"roster_website_url":"http://www.richardashcroft.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/R/artist/Richard Ashcroft/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"11",
+"roster_entry_id":"WR4227",
+"roster_name":"Ricki-Lee",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV66149.jpg",
+"roster_website_url":"http://www.ricki-lee.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/R/artist/Ricki-Lee/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"12",
+"roster_entry_id":"WR192",
+"roster_name":"Robert Miles",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23263.jpg",
+"roster_website_url":"http://www.robert-miles.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/R/artist/Robert Miles/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"13",
+"roster_entry_id":"WR1023",
+"roster_name":"Romans",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV25722.jpg",
+"roster_website_url":"http://www.iamromans.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/R/artist/Romans/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"14",
+"roster_entry_id":"WR193",
+"roster_name":"Rosi Golan",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12310.jpg",
+"roster_website_url":"http://www.rosigolan.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/R/artist/Rosi Golan/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"15",
+"roster_entry_id":"WR194",
+"roster_name":"Roxette",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV495.jpg",
+"roster_website_url":"http://www.roxette.se/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/R/artist/Roxette/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"16",
+"roster_entry_id":"WR303",
+"roster_name":"Royksopp",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV22082.jpg",
+"roster_website_url":"http://royksopp.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/R/artist/Royksopp/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"17",
+"roster_entry_id":"WR195",
+"roster_name":"Rufus Wainwright",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12311.jpg",
+"roster_website_url":"http://www.rufuswainwright.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/R/artist/Rufus Wainwright/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"18",
+"roster_entry_id":"WR287",
+"roster_name":"Ryan Tedder",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21073.jpg",
+"roster_website_url":"http://www.onerepublic.net/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/R/artist/Ryan Tedder/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"Y":
+[{
+"sequence":"1",
+"roster_entry_id":"WR293",
+"roster_name":"Yanou",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV25061.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/Y/artist/Yanou/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR235",
+"roster_name":"Yeasayer",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV516.jpg",
+"roster_website_url":"http://www.yeasayer.net/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/Y/artist/Yeasayer/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"3",
+"roster_entry_id":"WR337",
+"roster_name":"Yolanda Quartey",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV23364.jpg",
+"roster_website_url":"http://www.smoothside.com/robotclub/index.html/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"X":
+[{
+"sequence":"1",
+"roster_entry_id":"WR1301",
+"roster_name":"XXXChange",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV60241.jpg",
+"roster_website_url":"http://alexxxchange.tumblr.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/X/artist/XXXChange/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"Z":
+[{
+"sequence":"1",
+"roster_entry_id":"WR236",
+"roster_name":"Zedd",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21171.jpg",
+"roster_website_url":"http://www.facebook.com/Zedd/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/Z/artist/Zedd/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+]
+}

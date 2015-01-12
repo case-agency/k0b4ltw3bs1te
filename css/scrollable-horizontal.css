@@ -1,0 +1,96 @@
+
+/*
+  root element for the scrollable.
+  when scrolling occurs this element stays still.
+*/
+.scrollable {
+
+  /* required settings */
+  position:relative;
+  overflow:hidden;
+  width: 585px;
+  height:83px;
+
+}
+
+/*
+   root element for scrollable items. Must be absolutely positioned
+   and it should have a extremely large width to accomodate scrollable
+   items.  it's enough that you set the width and height for the root
+   element and not for this element.
+*/
+.scrollable .items {
+  /* this cannot be too large */
+  width:20000em;
+  position:absolute;
+  clear:both;
+}
+
+.items div {
+  float:left;
+  width:590px;
+}
+
+/* single scrollable item */
+.scrollable img {
+  float:left;
+  margin: 0 23px 0 0;
+  background-color:#fff;
+  padding:3px;
+  border:1px solid #ccc;
+
+  -moz-border-radius:4px;
+  -webkit-border-radius:4px;
+  cursor: pointer;
+}
+
+.scrollable img.last{
+  margin-right: 0;
+}
+
+/* active item */
+.scrollable .active {
+  border:2px solid #000;
+  position:relative;
+  cursor:default;
+}
+
+
+
+
+
+.video_scroller{
+  margin:0 auto; 
+  height: 83px;
+  position: relative;
+  padding: 0 0 0 25px;
+}
+
+
+.video_scroller .disabled{
+  visibility: hidden;
+}
+
+.video_scroller .left{
+  left: 0;
+}
+
+.video_scroller .right{
+  right: 0;
+} 
+
+.video_scroller .browse{
+  position: absolute;
+  top: 50%;
+  margin: -5px 0 0 0;
+}
+
+
+h3.scroller{
+  color: #484848;
+  font-family: BebasNeue,verdana,helvetica,sans-serif;
+  font-size: 20px;
+  margin: 59px 0 32px 0;
+  font-weight: normal;
+  text-transform: uppercase;
+}

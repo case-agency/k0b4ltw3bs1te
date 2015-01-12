@@ -1,0 +1,46 @@
+[
+{
+"sequence":"1",
+"feature_id":"WHOT81",
+"feature_headline":"GRAMMYs",
+"feature_subline":"Kobalt Clients Storm the GRAMMYs With 63 Nominations in 35 Different Categories!",
+"feature_image_url":"/images/IMGV101401.jpg",
+"feature_order_in_carousel":"1"
+}
+,
+{
+"sequence":"2",
+"feature_id":"WHOT2",
+"feature_headline":"Alt-J",
+"feature_subline":"A big week for Alt-J as their second album, This Is All Yours, was released on 22 September 2014 and just entered straight to number 1 in the UK charts.",
+"feature_image_url":"/images/IMGV97124.jpg",
+"feature_order_in_carousel":"2"
+}
+,
+{
+"sequence":"3",
+"feature_id":"WHOT41",
+"feature_headline":"Culture Club",
+"feature_subline":"Recently reformed global icons, Culture Club, set to release their first studio album &quot;Tribe&quot; in 15 years!",
+"feature_image_url":"/images/IMGV98964.jpg",
+"feature_order_in_carousel":"3"
+}
+,
+{
+"sequence":"4",
+"feature_id":"WHOT1",
+"feature_headline":"Foo Fighters",
+"feature_subline":"Listen to new music from the Foo Fighters now! The new album Sonic Highways will be out November 10th worldwide! Docu-series premieres on HBO October 17th!",
+"feature_image_url":"/images/IMGV98090.jpg",
+"feature_order_in_carousel":"4"
+}
+,
+{
+"sequence":"5",
+"feature_id":"WHOT63",
+"feature_headline":"Kobalt Berklee Partnership",
+"feature_subline":"Kobalt and the Berklee College of Music today announced an innovative collaboration for driving growth in the new music industry. Kobalt is providing a two-year grant for Berklee, Harvard and MIT students to work together to review the ways technology and transparency can help address global music licensing issues and bring artists, writers, publishers, labels and DSPs closer together.",
+"feature_image_url":"/images/IMGV100059.jpg",
+"feature_order_in_carousel":"5"
+}
+]

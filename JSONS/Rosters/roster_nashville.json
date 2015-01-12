@@ -1,0 +1,188 @@
+{
+"D":
+[{
+"sequence":"1",
+"roster_entry_id":"WR256",
+"roster_name":"Dennis Matkosky",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21085.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/D/artist/Dennis Matkosky/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"T":
+[{
+"sequence":"1",
+"roster_entry_id":"WR4621",
+"roster_name":"Terry Sawchuk",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV74421.jpg",
+"roster_website_url":"http://www.papertownsongs.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR3489",
+"roster_name":"Travis Meadows",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV58903.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"Y"
+}
+
+],
+"E":
+[{
+"sequence":"1",
+"roster_entry_id":"WR2628",
+"roster_name":"Erin McCarley",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV52242.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"V":
+[{
+"sequence":"1",
+"roster_entry_id":"WR229",
+"roster_name":"Vince Gill",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12319.jpg",
+"roster_website_url":"http://www.vincegill.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/V/artist/Vince Gill/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"A":
+[{
+"sequence":"1",
+"roster_entry_id":"WR3841",
+"roster_name":"Amy Foster",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV61042.jpg",
+"roster_website_url":"http://www.amysfoster.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"S":
+[{
+"sequence":"1",
+"roster_entry_id":"WR205",
+"roster_name":"Steve Azar",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21985.jpg",
+"roster_website_url":"http://www.steveazarlive.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Steve Azar/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR206",
+"roster_name":"Steve Moakler",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV21089.jpg",
+"roster_website_url":"http://www.stevemoakler.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Steve Moakler/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"B":
+[{
+"sequence":"1",
+"roster_entry_id":"WR662",
+"roster_name":"Big and Rich",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12282.jpg",
+"roster_website_url":"http://www.bigandrich.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/B/artist/Big and Rich/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"M":
+[{
+"sequence":"1",
+"roster_entry_id":"WR974",
+"roster_name":"Maile Misajon",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV12297.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"J":
+[{
+"sequence":"1",
+"roster_entry_id":"WR3487",
+"roster_name":"Jessi Alexander",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV58902.jpg",
+"roster_website_url":"",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+,{
+"sequence":"2",
+"roster_entry_id":"WR506",
+"roster_name":"John Rich",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV471.jpg",
+"roster_website_url":"http://www.johnrich.com/",
+"kobaltsynch_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/John Rich/control/Anywhere/",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+],
+"K":
+[{
+"sequence":"1",
+"roster_entry_id":"WR3486",
+"roster_name":"KS Rhoads",
+"roster_type":"Artists",
+"roster_image_url":"/images/IMGV58901.jpg",
+"roster_website_url":"http://www.ksrhoads.com/",
+"kobaltsynch_url":"",
+"roster_is_publishing":"Y",
+"roster_is_neighbouring":"N",
+"roster_is_label_services":"N"
+}
+
+]
+}

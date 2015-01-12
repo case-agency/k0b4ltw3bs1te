@@ -1,0 +1,41 @@
+{
+"job_description": {
+"display_date": "16 April 2014",
+"position": "Software",
+"company_name": "This one",
+"location": "London",
+"job_summary": "Programmer",
+"background": "Blue",
+"job_duties": {
+"duties": [
+"Lunch"
+]
+},
+"skills_experience": {
+"skills": [
+"7",
+"new2",
+"new3"
+]
+},
+"application_process": {
+"notes": "agsagd\n\nn\n\ngsdag",
+"steps": [
+"gadsga"
+],
+"details": [
+{
+"description": "this",
+"email": "southwark"
+}
+]
+},
+"start_date": {
+"date": "Today"
+},
+"closing_date": {
+"date": "26 April 2014"
+},
+"status": "Idle"
+}
+}

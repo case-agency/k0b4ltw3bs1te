@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xdb="http://xmlns.oracle.com/xdb">
+
+ <xsd:annotation>
+	  <xsd:documentation xml:lang="en">
+	  Schema for Digital Audio Database
+	  </xsd:documentation>
+ </xsd:annotation>
+
+<xsd:element name="digitaldatabase" type="digitaldatabaseType"  xdb:SQLName="XML_DIGITAL_PRODUCT_LOAD" xdb:defaultTable="XML_DIGITAL_PRODUCT_LOAD" />
+
+<xsd:complexType name="digitaldatabaseType"  xdb:SQLType="XML_DIGITAL_PRODUCT_LOAD_TYPE">
+  	<xsd:sequence >
+ 	 	<xsd:element name="product" type="productType" maxOccurs="unbounded"   />
+  	</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="productType" xdb:SQLType="PRODUCT_TYPE">
+ 	 <xsd:sequence >
+ 		  <xsd:element name="track" type="trackType" minOccurs="0" maxOccurs="unbounded" />
+ 		  <xsd:element name="bundle" type="bundleType" minOccurs="0" maxOccurs="unbounded" />
+ 	 </xsd:sequence>
+ 	            <xsd:attribute name="title" type="xsd:string" use="required" />
+ 	            <xsd:attribute name="artist" type="xsd:string" use="required" />
+ 	            <xsd:attribute name="genre" type="xsd:string" />
+ 	            <xsd:attribute name="subgenre" type="xsd:string" />
+</xsd:complexType>
+ 
+<xsd:complexType name="trackType" xdb:SQLType="TRACK_TYPE">
+	   <xsd:sequence >
+		   <xsd:element name="ISRC" type="ISRCType" minOccurs="1" maxOccurs="unbounded"/>
+	  </xsd:sequence>
+                   <xsd:attribute name="subtitle" type="xsd:string" />
+                   <xsd:attribute name="catnum" type="xsd:string" />
+                   <xsd:attribute name="dealerprice" type="xsd:string" use="required" />
+                   <xsd:attribute name="label" type="xsd:string" use="required" />
+                   <xsd:attribute name="company" type="xsd:string" use="required" />
+                   <xsd:attribute name="corgroup" type="xsd:string" use="required"/>
+                   <xsd:attribute name="distributor" type="xsd:string" use="required" />
+                   <xsd:attribute name="releasedate" type="xsd:string" use="required" />
+                   <xsd:attribute name="duration" type="xsd:string" use="required" />
+                   <xsd:attribute name="deleted" type="xsd:string" use="required" />
+                   <xsd:attribute name="physicalbarcode" type="xsd:string" />
+                   <xsd:attribute name="internalid" type="xsd:string" />
+</xsd:complexType>
+
+<xsd:complexType name="bundleType" xdb:SQLType="BUNDLE_TYPE">
+	 <xsd:sequence >
+	        <xsd:element name="UPC" type="xsd:string" minOccurs="1"/>
+	        <xsd:element name="TLISTING" type="TLISTINGType" minOccurs="0" maxOccurs="unbounded"/>
+	  </xsd:sequence>
+                  <xsd:attribute name="catnum" type="xsd:string" />
+                  <xsd:attribute name="dealerprice" type="xsd:string" use="required" />
+                  <xsd:attribute name="label" type="xsd:string" use="required" />
+                  <xsd:attribute name="company" type="xsd:string" use="required" />
+                  <xsd:attribute name="corgroup" type="xsd:string" use="required" />
+                  <xsd:attribute name="distributor" type="xsd:string" use="required" />
+                  <xsd:attribute name="releasedate" type="xsd:string" use="required" />
+                  <xsd:attribute name="deleted" type="xsd:string" use="required" />
+                  <xsd:attribute name="class" type="xsd:string" use="required" />
+                  <xsd:attribute name="numberoftracks" type="xsd:string" use="required" />
+                  <xsd:attribute name="type" type="xsd:string" use="required" />
+                  <xsd:attribute name="soundtrack" type="xsd:string" />
+                  <xsd:attribute name="live" type="xsd:string" />
+                  <xsd:attribute name="artistcomp" type="xsd:string" />
+                  <xsd:attribute name="physicalbarcode" type="xsd:string" />
+                  <xsd:attribute name="internalid" type="xsd:string" />
+</xsd:complexType>
+
+<xsd:complexType name="ISRCType" xdb:SQLType="ISRC_TYPE">
+  <xsd:simpleContent>
+   <xsd:extension base="xsd:string">
+   		<xsd:attribute name="primary" type="xsd:string" use="required" />
+   </xsd:extension>
+  </xsd:simpleContent>
+</xsd:complexType>
+ 
+<xsd:complexType name="TLISTINGType" xdb:SQLType="TLISTING_TYPE">
+  <xsd:simpleContent>
+   <xsd:extension base="xsd:string">
+		<xsd:attribute name="volume" type="xsd:string" use="required" />
+		<xsd:attribute name="side" type="xsd:string" use="required" />
+		<xsd:attribute name="sequence" type="xsd:string" use="required" />
+   </xsd:extension>
+  </xsd:simpleContent>
+</xsd:complexType>
+ 
+</xsd:schema>
