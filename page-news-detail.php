@@ -48,12 +48,22 @@ $newsData = $newsMeta['news'];
   <link rel="stylesheet" type="text/css" href="css/input.css" />
   <link rel="stylesheet" type="text/css" href="css/phase-two.css" />
   <?php include('includes/js.php'); ?>
+
+
+<meta property="og:title" content="<?php echo $newsData['entry_headline'] ?>">
+<meta property="og:description" content="<?php echo $newsData['entry_headline'] ?>">
+<meta property="og:image" content="http://www.kobaltmusic.com/images/json/News<?php echo $newsData['entry_article_img']  ?>">
+<meta property="og:image:secure_url" content="https://www.kobaltmusic.com/images/json/News<?php echo $newsData['entry_article_img']  ?>">
+<meta property="og:image:type" content="image/jpg">
+
+
 </head>
 
 <script type="text/javascript">var switchTo5x = true;</script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({
-    publisher:"ur-30602a89-d12d-f710-758a-b07ff59a12e0"}); </script>
+<script type="text/javascript">stLight.options({publisher:"ur-30602a89-d12d-f710-758a-b07ff59a12e0"}); </script>
+
+
 
 <body>
 
