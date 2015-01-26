@@ -35,12 +35,16 @@ section.main h1 {
 
 #roster-featured-wrapper {
   display: block;
-  width: 100%;
-  /* width: 960px; */
+  /* width: 100%; */
+  width: 960px;
   overflow: hidden;
   margin: 0 auto 0;
   padding-top: 25px;
   border-bottom: 2px solid #222;
+}
+
+#roster-featured .row {
+    overflow: auto;
 }
 
 div.featured-block {
@@ -566,7 +570,7 @@ a.rosterList:hover, a.rosterList.rosterToggle {
 
 #news .news-block a {
   font-size: 15px;
-  color: #000;
+  /*color: #000;*/
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: bold;
@@ -787,7 +791,7 @@ a.rosterList:hover, a.rosterList.rosterToggle {
 }
 
 #news-detail h2 {
-  color: 000;
+  color: #000;
   width: 75%;
   margin-bottom: 40px;
 }
@@ -846,7 +850,7 @@ a.rosterList:hover, a.rosterList.rosterToggle {
   margin-right: 8px;
 }
 
-#contact a.location-tab:hover, #contact a.location-tab.active {
+#contact a.location-tab:hover, #contact a.location-tab-active {
   color: #f93b2b;
 }
 
