@@ -21,7 +21,7 @@ $json_array_billboard = decodeFeed($json_string_billboard);
 if (count($json_array_billboard) < 6) {
   $BillboardMax = count($json_array_billboard);
 } else {
-  $BillboardMax = 6;
+  $BillboardMax = 5;
 }
 
 ?>
@@ -99,7 +99,7 @@ if (count($json_array_billboard) < 6) {
 		</div>
 		<a class="red button-right" href="page-news.php">See More</a>
 		<div id="hp-slider">
-		<?
+		<?php
 			$WhatsHotListCounter = 0;
 			foreach ($WhatsHotList as $WhatsHot):
 				$WhatsHotListCounter++;
@@ -124,9 +124,7 @@ if (count($json_array_billboard) < 6) {
 				</div>
 			</div>
 
-		<?
-			endforeach
-		?>
+		<?php endforeach; ?>
 
 		</div>
 	</div>
@@ -139,7 +137,7 @@ if (count($json_array_billboard) < 6) {
 		<a class="red button-right" href="page-news-key-releases.php">View more releases</a>
 
 		<ul id="releaseGrid">
-		<?
+		<?php
 			$newReleaseListCounter = 0;
 			foreach ($newReleaseList as $newRelease):
 				$newReleaseListCounter++;
@@ -150,7 +148,7 @@ if (count($json_array_billboard) < 6) {
 
            <li><a href="#"><img src="images/json/NewReleases/<?php echo $newRelease['release_image'] ?>" width=240 height=240 alt=""/></a></li>
 
-        <?php endforeach ?>
+        <?php endforeach; ?>
 		</ul>
 	</div>
 </div>

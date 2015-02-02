@@ -623,7 +623,6 @@ body {
 #chartGrid {
   clear: both;
   padding-top: 45px;
-  overflow: auto; 
 }
 
 #chartGrid li {
@@ -640,25 +639,25 @@ body {
 #chartGrid li a {
   display: block;
   float: left;
-  width: 121px;
-  height: 121px;
+  width: 153px;
+  height: 153px;
   padding: 15px;
   text-decoration: none;
-  background: black url("../img/chart-grid-rollover.png") no-repeat 50% 150px;
+  background: black url("../img/chart-grid-rollover.png") no-repeat 50% 179px;
   color: white;
   line-height: 1.2;
   cursor: pointer;
-  transition: background-position .5s;
-  -webkit-transition: background-position .5s;
-  -moz-transition: background-position .5s;
-  -o-transition: background-position .5s; }
+  transition: background-position .4s;
+  -webkit-transition: background-position .4s;
+  -moz-transition: background-position .4s;
+  -o-transition: background-position .4s; }
 
 #chartGrid li a:hover {
   background: #f93b2b url("../img/chart-grid-rollover.png") no-repeat 50% 55%;
-  transition: background-position .7s;
-  -webkit-transition: background-position .7s;
-  -moz-transition: background-position .7s;
-  -o-transition: background-position .7s; }
+  transition: background-position .6s;
+  -webkit-transition: background-position .6s;
+  -moz-transition: background-position .6s;
+  -o-transition: background-position .6s; }
 
 #chartGrid li a span {
   font-weight: bold;
@@ -916,7 +915,7 @@ span.twitter-icon {
   .pub07 p, .lab07 p, .nbr08 p {
     margin-top: 30px; }
   .pub07 p:first-child, .lab07 p:first-child, .nbr08 p:first-child {
-    margin-top: 50; }
+    margin-top: 50px; }
 
 #k-top {
   display: block;

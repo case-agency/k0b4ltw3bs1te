@@ -9,7 +9,6 @@ $json_images_default = 'images/pages/roster/No_image.png';
 $json_roster_data = decodeFeed(trim($json_string));
 
 
-
 function objectToArray($d)
 {
     if (is_object($d)) {
@@ -63,92 +62,110 @@ if ($rosterAlphaCurrentCount <= 50) {
     }
 }
 
-$rosterMaxRows = ceil($recordsOnPage / 3);
-$rosterLastCol = $recordsOnPage - (($rosterMaxRows - 1) * 3);
+$rosterMaxRows = ceil($recordsOnPage / 2);
+$rosterLastCol = $recordsOnPage - (($rosterMaxRows - 1) * 2);
 ?>
     <?php for ($currentRow = 0; $currentRow < $rosterMaxRows; $currentRow++) { ?>
         <?php
         if ($currentRow == $rosterMaxRows - 1) {
             $rosterMaxCols = $rosterLastCol;
         } else {
-            $rosterMaxCols = 3;
+            $rosterMaxCols = 2;
         }
-        for ($currentCol = 0; $currentCol < $rosterMaxCols; $currentCol++) {
-            $rosterCurrentRecord = ($currentRow * 3) + $currentCol + $startRecord;
-            $json_active_data_current = objectToArray($json_active_data[$rosterCurrentRecord]);
-
-            if (strlen($json_active_data_current['roster_image_url']) < 1) {
-                $json_active_data_current_image = $json_images_default;
-            } else {
-                $json_active_data_current_image = $json_images . '/' . $json_active_data_current['roster_image_url'];
-            } ?>
-
-            <?
-                $str = '';
-                  if($json_active_data_current['roster_name'] == 'Paul McCartney') {
-                     $str = 'PAUL McCARTNEY';
-                  } else {
-                    $str = strtoupper($json_active_data_current['roster_name']);
-                    $pattern = '/&([A-Z])(UML|ACUTE|CIRC|TILDE|RING|';
-                    $pattern .= 'ELIG|GRAVE|SLASH|HORN|CEDIL|TH);/e';
-                    $replace = "'&'.'\\1'.strtolower('\\2').';'"; //convert the important bit back to lower
-                    $str = preg_replace($pattern, $replace, $str);
-                  }
             ?>
+            <div class="row">
+            <?php
+            for ($currentCol = 0; $currentCol < $rosterMaxCols; $currentCol++) {
+                $rosterCurrentRecord = ($currentRow * 2) + $currentCol + $startRecord;
+                $json_active_data_current = objectToArray($json_active_data[$rosterCurrentRecord]);
 
-            <?php $randomBlockBefore = rand(1, 20);
-
-            if ($randomBlockBefore == 1 ) { ?>
-            <div class="featured-block one-column black"><p>kobalt</p></div>
-            <?php } elseif ($randomBlockBefore <= 2 ) { ?>
-            <div class="featured-block one-column triangle" data-block-color="#262626"><div>&nbsp;</div></div>
-            <?php } elseif ($randomBlockBefore > 3 && $randomBlockBefore < 5 ) { ?>
-            <div class="featured-block one-column triangle" data-block-color="white"><div>&nbsp;</div></div>
-            <?php } elseif ($randomBlockBefore == 5 ) { ?>
-            <div class="featured-block one-column red"><p>kobalt</p></div>
-            <?php } elseif ($randomBlockBefore > 5 && $randomBlockBefore < 6 ) { ?>
-            <div class="featured-block one-column flatblack"><p>kobalt</p></div>
-            <?php } elseif ($randomBlockBefore == 8 ) { ?>
-            <div class="featured-block one-column black"><p>kobalt</p></div>
-            <div class="featured-block one-column black"><p>kobalt</p></div>
-            <?php } else { ?>
-            <?php } ?>
-
-            <div class="featured-block artist">
-                <h2><?php echo $str; ?></h2>
-                <?php if (strlen($json_active_data_current['roster_website_url']) > 0): ?>
-                    <a href="<?php echo $json_active_data_current['roster_website_url'] ?>" target="_blank">Visit site</a>
-                <?php endif ?>
-                <?php 
-                if (strlen($json_active_data_current['roster_image_url']) > 1) {
-                    $json_active_data_current_image = $json_images . '/' . $json_active_data_current['roster_image_url'];
-                } else {
+                if (strlen($json_active_data_current['roster_image_url']) < 1) {
                     $json_active_data_current_image = $json_images_default;
+                } else {
+                    $json_active_data_current_image = $json_images . '/' . $json_active_data_current['roster_image_url'];
                 } ?>
-                <img src="<?php echo $json_active_data_current_image; ?>" alt="<?php echo strtoupper($json_active_data_current['roster_name']); ?>" width="100%" />
-                <div class="overlay">&nbsp;</div>
+
+                <?php
+                    $str = '';
+                      if($json_active_data_current['roster_name'] == 'Paul McCartney') {
+                         $str = 'PAUL McCARTNEY';
+                      } else {
+                        $str = strtoupper($json_active_data_current['roster_name']);
+                        $pattern = '/&([A-Z])(UML|ACUTE|CIRC|TILDE|RING|';
+                        $pattern .= 'ELIG|GRAVE|SLASH|HORN|CEDIL|TH);/e';
+                        $replace = "'&'.'\\1'.strtolower('\\2').';'"; //convert the important bit back to lower
+                        $str = preg_replace($pattern, $replace, $str);
+                      }
+
+                if ($currentRow % 2 == 0) { ?>
+
+                    <div class="featured-block artist">
+                        <h2><?php echo $str; ?></h2>
+                        <?php if (strlen($json_active_data_current['roster_website_url']) > 0): ?>
+                            <a href="<?php echo $json_active_data_current['roster_website_url'] ?>" target="_blank">Visit site</a>
+                        <?php endif ?>
+                        <?php
+                        if (strlen($json_active_data_current['roster_image_url']) > 1) {
+                            $json_active_data_current_image = $json_images . '/' . $json_active_data_current['roster_image_url'];
+                        } else {
+                            $json_active_data_current_image = $json_images_default;
+                        } ?>
+                        <img src="<?php echo $json_active_data_current_image; ?>" alt="<?php echo strtoupper($json_active_data_current['roster_name']); ?>" width="100%" />
+                        <div class="overlay">&nbsp;</div>
+                    </div>
+
+                    <?php $randomBlockAfter = rand(1, 6);
+
+                        if ($randomBlockAfter == 1 ) { ?>
+                        <div class="featured-block one-column flatblack"><p>&nbsp;</p></div>
+                        <?php } elseif ($randomBlockAfter == 2 ) { ?>
+                        <div class="featured-block one-column triangle" data-block-color="#262626"><div>&nbsp;</div></div>
+                        <?php } elseif ($randomBlockAfter == 3 ) { ?>
+                        <div class="featured-block one-column triangle" data-block-color="#262626"><div>&nbsp;</div></div>
+                        <?php } elseif ($randomBlockAfter == 4 ) { ?>
+                        <div class="featured-block one-column red"><p>kobalt</p></div>
+                        <?php } elseif ($randomBlockAfter == 5 ) { ?>
+                        <div class="featured-block one-column black"><p>kobalt</p></div>
+                        <?php } elseif ($randomBlockAfter == 6 ) { ?>
+                        <div class="featured-block one-column flatblack"><p>kobalt</p></div>
+                        <?php } else { ?>
+                        <?php } ?>
+
+                <?php } else { ?>
+
+                    <?php $randomBlockBefore = rand(1, 6);
+
+                        if ($randomBlockBefore == 1 ) { ?>
+                        <div class="featured-block one-column flatblack"><p>&nbsp;</p></div>
+                        <?php } elseif ($randomBlockBefore == 2 ) { ?>
+                        <div class="featured-block one-column triangle" data-block-color="#262626"><div>&nbsp;</div></div>
+                        <?php } elseif ($randomBlockBefore == 3 ) { ?>
+                        <div class="featured-block one-column triangle" data-block-color="white"><div>&nbsp;</div></div>
+                        <?php } elseif ($randomBlockBefore == 4 ) { ?>
+                        <div class="featured-block one-column red"><p>kobalt</p></div>
+                        <?php } elseif ($randomBlockBefore == 5 ) { ?>
+                        <div class="featured-block one-column black"><p>kobalt</p></div>
+                        <?php } elseif ($randomBlockBefore == 6 ) { ?>
+                        <div class="featured-block one-column white"><p>kobalt</p></div>
+                        <?php } else { ?>
+                        <?php } ?>
+
+                        <div class="featured-block artist">
+                            <h2><?php echo $str; ?></h2>
+                            <?php if (strlen($json_active_data_current['roster_website_url']) > 0): ?>
+                                <a href="<?php echo $json_active_data_current['roster_website_url'] ?>" target="_blank">Visit site</a>
+                            <?php endif ?>
+                            <?php
+                            if (strlen($json_active_data_current['roster_image_url']) > 1) {
+                                $json_active_data_current_image = $json_images . '/' . $json_active_data_current['roster_image_url'];
+                            } else {
+                                $json_active_data_current_image = $json_images_default;
+                            } ?>
+                            <img src="<?php echo $json_active_data_current_image; ?>" alt="<?php echo strtoupper($json_active_data_current['roster_name']); ?>" width="100%" />
+                            <div class="overlay">&nbsp;</div>
+                        </div>
+                <?php } ?>
+                <?php } ?>
             </div>
-
-            <?php $randomBlockAfter = rand(1, 20);
-
-            if ($randomBlockAfter == 1 ) { ?>
-            <div class="featured-block one-column black"><p>kobalt</p></div>
-            <?php } elseif ($randomBlockAfter <= 2 ) { ?>
-            <div class="featured-block one-column triangle" data-block-color="#262626"><div>&nbsp;</div></div>
-            <?php } elseif ($randomBlockAfter > 3 && $randomBlockAfter < 5 ) { ?>
-            <div class="featured-block one-column triangle" data-block-color="white"><div>&nbsp;</div></div>
-            <?php } elseif ($randomBlockAfter == 5 ) { ?>
-            <div class="featured-block one-column red"><p>kobalt</p></div>
-            <?php } elseif ($randomBlockAfter > 5 && $randomBlockAfter < 8 ) { ?>
-            <div class="featured-block one-column flatblack"><p>kobalt</p></div>
-            <?php } elseif ($randomBlockAfter == 8 ) { ?>
-            <div class="featured-block one-column black"><p>kobalt</p></div>
-            <?php } elseif ($randomBlockAfter == 9 ) { ?>
-            <div class="featured-block one-column flatblack"><p>kobalt</p></div>
-            <div class="featured-block one-column flatblack"><p>kobalt</p></div>
-            <?php } else { ?>
-            <?php } ?>
     <?php } ?>
-    <?php } ?>
-
 </div>
