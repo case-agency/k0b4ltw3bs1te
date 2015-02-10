@@ -9,6 +9,7 @@ include("includes/data.php");
   <link rel="stylesheet" type="text/css" href="css/input.css" />
   <link rel="stylesheet" type="text/css" href="css/phase-two.css" />
   <?php include('includes/js.php'); ?>
+	<?php include('includes/analyticstracking.php'); ?>
 </head>
 <body>
 <?php
@@ -26,20 +27,20 @@ include('includes/header.php'); ?>
 
         <li>This website is owned and operated by, or on behalf of, Kobalt Music Group Limited ("we" or "us"). We are registered in England and Wales under company number 04018752 and our registered office is at 4 Valentine Place, London SE1 8QH. Our VAT registration number is GB774150334. For the purpose of the Data Protection Act 1998, the data controller in respect of any personal data that you submit to us or that we collect from you is Kobalt Music Group Limited.
         </li>
-        
+
         <h3>Information we<br />collect from you</h3>
 
-        <li>This includes information that you provide by filling in forms on the website, details of your visits to the website and the resources that you access, and information you supply if you report a problem with the website to us. If you contact us, we may keep a record of that correspondence. We may use any contact details you give us to respond to or otherwise contact you. This may include emailing you where you have provided your email address, and by providing your address you agree to us making such contact with you. We will only use any such information in accordance with the terms of this privacy policy. 
-        </li>    
+        <li>This includes information that you provide by filling in forms on the website, details of your visits to the website and the resources that you access, and information you supply if you report a problem with the website to us. If you contact us, we may keep a record of that correspondence. We may use any contact details you give us to respond to or otherwise contact you. This may include emailing you where you have provided your email address, and by providing your address you agree to us making such contact with you. We will only use any such information in accordance with the terms of this privacy policy.
+        </li>
 
         <li>By submitting your personal information, you consent to the collection, use and transfer of your information in accordance with the terms of this privacy policy.</li>
 
         <li>Certain personal information that you provide to us is defined as personal data by the Data Protection Act 1998. We do not seek any personal data other than that which is reasonable and necessary for the purposes sought.</li>
-    
+
         <h3>How we use your information</h3>
 
         <li>We may use your information to enable you to have full access to the website, to contact you when you have requested us to do so, to produce anonymous reports, statistics and analysis of the types of users who access the website, to contact you for your opinions on the website and notify you about important changes to the website and to administer and improve the website.</li>
-    
+
         <li>We will retain your information for a reasonable period as required or as long as the law permits.
         Disclosure of your information</li>
 
@@ -52,10 +53,10 @@ include('includes/header.php'); ?>
 
         <h3>Accessing your Information</h3>
 
-        <li>You are entitled to see the information we hold about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.</li> 
+        <li>You are entitled to see the information we hold about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.</li>
 
         <h3>Cookies</h3>
-    
+
         <li>"Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about how we use cookies <a href="page-tos.php#cookie">here</a>.</li>
     </ol>
 

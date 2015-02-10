@@ -10,8 +10,9 @@ $job = getJobs(getGet("id", null));
   <?php include('includes/js.php'); ?>
   <link rel="stylesheet" type="text/css" href="css/input.css" />
   <link rel="stylesheet" type="text/css" href="css/phase-two.css" />
-</head>
 <?php include("includes/js.php"); ?>
+	<?php include('includes/analyticstracking.php'); ?>
+</head>
 <script type="text/javascript">
 
     function showClick(activeDiv) {

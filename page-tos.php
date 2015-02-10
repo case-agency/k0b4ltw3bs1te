@@ -9,6 +9,7 @@ include("includes/data.php");
   <link rel="stylesheet" type="text/css" href="css/input.css" />
   <link rel="stylesheet" type="text/css" href="css/phase-two.css" />
   <?php include('includes/js.php'); ?>
+	<?php include('includes/analyticstracking.php'); ?>
 </head>
 <body>
 <?php
@@ -36,10 +37,10 @@ include('includes/header.php'); ?>
 
         <li>You may download, save and print extracts from the website for your personal reference only but specifically excluding audio and video tracks which are made available for streaming for personal use only. All such use is subject to the following conditions:</li>
 
-        <ul> 
+        <ul>
             <li>(a)&nbsp;&nbsp;&nbsp;the material and information may only be used for your personal and non-commercial purposes;</li>
             <li>(b)&nbsp;&nbsp;&nbsp;the material and information shall not be reproduced, republished, redistributed or included in any other work or publication in any medium;</li>
-            <li>(c)&nbsp;&nbsp;&nbsp;the material and information may not be modified or altered in any way;</li> 
+            <li>(c)&nbsp;&nbsp;&nbsp;the material and information may not be modified or altered in any way;</li>
             <li>(d)&nbsp;&nbsp;&nbsp;the material and information may not be distributed or sold to any third party;</li>
             <li>(e)&nbsp;&nbsp;&nbsp;you may not remove any copyright or other proprietary notices contained in the material or the information;</li>
             <li>(f)&nbsp;&nbsp;&nbsp;you may not frame or link (including deep link) to this website or any of the material included on the website.</li>
@@ -64,7 +65,7 @@ include('includes/header.php'); ?>
         </li>
 
         <li>This website may contain links to websites and microsites operated by third parties that are not under our control and are provided to you for your convenience only. We make no warranties or representations whatsoever about any other website which you may access through this website or any services that they may provide. Without limiting the foregoing, these sites are in no way approved, vetted, checked or endorsed by us and you agree that we shall not be responsible or in any way liable for the content, accuracy, compliance with relevant laws or accessibility of any information, data, advice or statements or for the quality of any products or services available on such sites. If you choose to access a website beyond our control, you do so at your own risk. In addition, use of any such third party website or microsite may be subject to your acceptance of additional terms and conditions.
-        </li> 
+        </li>
 
         <li>We will not be liable for (1) any economic loss or damage (including loss of profit, revenue, business, contract, goodwill, or other financial loss) or (2) any special, indirect or consequential loss or damage however caused arising out of or in connection with the website.
         </li>
@@ -80,7 +81,7 @@ include('includes/header.php'); ?>
         <li>"Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about cookies on http://www.allaboutcookies.org/. We may use cookies on this website for a number of purposes, for instance to simplify the logging on process, to help ensure the security and authenticity of registered users and to enable traffic monitoring.
         </li>
 
-        <li>We use cookies to ensure that we give you the best experience on our website. If you continue to use the website, we'll assume that you are happy to receive all cookies on the website and by using this site you give your consent to the use of these cookies. 
+        <li>We use cookies to ensure that we give you the best experience on our website. If you continue to use the website, we'll assume that you are happy to receive all cookies on the website and by using this site you give your consent to the use of these cookies.
         </li>
 
         <li>The website may include content embedded from external sites, including social media sites. When visiting pages with content embedded from third parties you may be presented with cookies from these websites. We have no control over these cookies and we suggest that you check the information available on the relevant websites if you wish to learn more.
@@ -90,27 +91,27 @@ include('includes/header.php'); ?>
         </li>
 
         <li>We may change these terms at any time. Any changes will take effect on the date they are posted onto the site.</li>
-        
+
         <li>If, at any time, we do not require you to comply with any part of these terms, this will not prevent us from doing so in the future and will not to be taken as or deemed to be a waiver of any of our rights unless we acknowledge and agree to such a waiver in writing.
         </li>
 
         <li>If any part of these terms is disallowed or held to be ineffective by any court or other competent body, the rest of these terms shall not be affected.</li>
-        
+
         <li>The warranties, exclusions and the other express provisions of these terms and the privacy policy set out the full extent of our obligations and liabilities concerning its subject matter and supersede any previous agreements between us and you.
         </li>
-            
+
         <li>We may assign, transfer or sub-contract any of our rights or obligations under these terms to any third party. You may only assign or sub-contract any of your rights or obligations under the terms to a third party with our written consent.
         </li>
-        
+
         <li>These terms are governed by English law and any disputes arising out of or in connection with these terms shall be subject to the exclusive jurisdiction of the English Courts.</li>
-        
+
         <li>If you have any questions and comments about these terms or the website, we would be happy to hear from you. Please send e-mails to <a class="email" href="mailto:webmaster@kobaltmusic.com">webmaster@kobaltmusic.com</a></li>
 <ol>
 
 </div>
 
 </section>
-            
+
 <?php include("includes/footer.php"); ?>
 
 </body>

@@ -14,6 +14,7 @@ include("includes/data.php");
 
 <link rel="stylesheet" type="text/css" href="js/fancybox/source/jquery.fancybox.css" />
 <?php include('includes/js.php'); ?>
+	<?php include('includes/analyticstracking.php'); ?>
 
 </head>
 

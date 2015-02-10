@@ -22,6 +22,7 @@ $googleCrawlerSelectedLetter = getGoogleCrawlingParameter('artist_letter');
   <link rel="stylesheet" type="text/css" href="js/fancybox/source/jquery.fancybox.css" />
   <?php include('includes/js.php'); ?>
   <script type="text/javascript" src="js/roster-featured.js"></script>
+	<?php include('includes/analyticstracking.php'); ?>
 </head>
 <?php include("includes/js.php"); ?>
 <body>
@@ -35,7 +36,7 @@ include('includes/header.php'); ?>
 
     <h1>ROSTER<br /><span>FEATURED</span></h1>
     <a href="page-roster.php">See our full roster</a>
-  
+
 </div>
 
   <div id="roster-featured-wrapper">
@@ -51,7 +52,7 @@ include('includes/header.php'); ?>
     ?>
   </div>
 </section>
-            
+
 <?php include("includes/footer.php"); ?>
 </body>
 </html>

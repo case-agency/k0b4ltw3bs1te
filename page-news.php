@@ -57,6 +57,7 @@ usort($mainNewsList, 'sortNewsByPositionDate');
   <?php include('includes/js.php'); ?>
   <link rel="stylesheet" type="text/css" href="css/jquery.bxslider.css" />
   <script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
+	<?php include('includes/analyticstracking.php'); ?>
 </head>
 <body>
 <?php
@@ -108,10 +109,10 @@ include('includes/header.php'); ?>
     </div>
 </div>
 <div class="wrapper" id="press-releases">
-    
+
   <a href="#"><h2>In The News</h2></a>
   <a class="red button-right" href="page-news-press-releases.php">See all</a>
-  
+
   <?php
     $pressReleaseListCounter = 0;
     foreach ($pressReleaseList as $news):
@@ -150,7 +151,7 @@ include('includes/header.php'); ?>
     $newReleaseListCounter++;
 
     if ($newReleaseListCounter > 5 ) {
-      break; 
+      break;
     }
   ?>
 
@@ -171,7 +172,7 @@ include('includes/header.php'); ?>
     <div class="full-width module">
         <h2>On the Charts<br /><span>The Billboard Hot 100</span></h2>
         <a class="button-right red" href="page-news-charts.php">View more charts</a>
-      
+
       <!-- I thought that these 'li a' chart tiles could link to each respective song on Synch. If the track isn't available, it could just link through to the Charts page with the News section. I left the link targets blank, as I'm not sure what standard practice is for linking to tracks within Synch. 09.3.14 pb -->
       <ul id="chartGrid">
       <?php
@@ -201,7 +202,7 @@ include('includes/header.php'); ?>
 </div>
 
 </section>
-            
+
 <?php include("includes/footer.php"); ?>
 <script type="text/javascript">
   $(document).ready( function(){
@@ -217,13 +218,13 @@ include('includes/header.php'); ?>
   });
 
   $('.hp-controls .wrapper').mouseenter(function() {
-        _slider.stopAuto();      
+        _slider.stopAuto();
      }).mouseleave(function() {
         _slider.startAuto();
      });
 
   $('.bx-wrapper').mouseenter(function() {
-        _slider.stopAuto();      
+        _slider.stopAuto();
      }).mouseleave(function() {
         _slider.startAuto();
      });

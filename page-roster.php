@@ -20,6 +20,7 @@ $googleCrawlerSelectedLetter = getGoogleCrawlingParameter('artist_letter');
   <link rel="stylesheet" type="text/css" href="js/fancybox/source/jquery.fancybox.css" />
   <?php include('includes/js.php'); ?>
   <script type="text/javascript" src="js/roster-featured.js"></script>
+	<?php include('includes/analyticstracking.php'); ?>
 </head>
 <?php include("includes/js.php"); ?>
 <script type="text/javascript">
@@ -78,7 +79,7 @@ include('includes/header.php'); ?>
 
     <a href="#" onclick="javscript: updateRosterDisplay('artists', 'all' ,1);" class="switch rosterGrid rosterToggle">Grid</a>
     <a href="#" onclick="javscript: updateRosterDisplayList('artists', 'all' ,1);" class="switch rosterList">List</a>
-    
+
 
   <div id="roster-wrapper">
     <?php
@@ -93,7 +94,7 @@ include('includes/header.php'); ?>
   </div>
   </div>
 </section>
-            
+
 <?php include("includes/footer.php"); ?>
 <script type="text/javascript">
 
