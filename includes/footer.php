@@ -66,39 +66,8 @@
 	</div>
 </footer>
 
-<!-- Google Code for Main List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 969416105;
-var google_conversion_label = "6mjvCN-J8wQQqbugzgM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/969416105/?value=0&amp;label=6mjvCN-J8wQQqbugzgM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
 
-<!-- Google Code for KobaltMusic.com Conversion Page -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 995789839;
-var google_conversion_label = "IU7_CICOnVYQj5jq2gM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/995789839/?value=1.00&label=IU7_CICOnVYQj5jq2gM&guid=ON&script=0"/>
-</div>
-</noscript>
+
 <script type="text/javascript">
 $(document).ready (function(){
 	$('input').each(function() {
