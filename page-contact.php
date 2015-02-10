@@ -13,7 +13,7 @@ $isGoogleCrawling = isGoogleCrawling();
   <?php include('includes/js.php'); ?>
   <link rel="stylesheet" type="text/css" href="css/input.css" />
   <link rel="stylesheet" type="text/css" href="css/phase-two.css" />
-	<?php include('includes/analyticstracking.php'); ?>
+
 </head>
 
   <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>

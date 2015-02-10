@@ -20,7 +20,7 @@ function requireToVar($file){
 <script type="text/javascript" src="js/waypoints.min.js"></script>
 <script type="text/javascript" src="js/pub.js"></script>
 <script type="text/javascript" src="js/video-js/video.js"></script>
-	<?php include('includes/analyticstracking.php'); ?>
+
 
 
 </head>

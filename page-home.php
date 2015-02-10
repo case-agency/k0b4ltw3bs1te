@@ -39,7 +39,7 @@ if (count($json_array_billboard) < 6) {
 <?php include('includes/js.php'); ?>
 <link rel="stylesheet" type="text/css" href="css/jquery.bxslider.css" />
 <script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
-	<?php include('includes/analyticstracking.php'); ?>
+
 
 
 </head>

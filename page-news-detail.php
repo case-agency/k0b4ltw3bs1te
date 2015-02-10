@@ -55,7 +55,7 @@ $newsData = $newsMeta['news'];
 <meta property="og:image" content="http://www.kobaltmusic.com/images/json/News<?php echo $newsData['entry_article_img']  ?>">
 <meta property="og:image:secure_url" content="https://www.kobaltmusic.com/images/json/News<?php echo $newsData['entry_article_img']  ?>">
 <meta property="og:image:type" content="image/jpg">
-	<?php include('includes/analyticstracking.php'); ?>
+
 
 
 </head>

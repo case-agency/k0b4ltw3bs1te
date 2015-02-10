@@ -66,7 +66,7 @@
 	</div>
 </footer>
 
-
+<?php include('includes/analyticstracking.php'); ?>
 
 <script type="text/javascript">
 $(document).ready (function(){

@@ -9,7 +9,7 @@ include("includes/data.php");
   <?php include('includes/js.php'); ?>
   <link rel="stylesheet" type="text/css" href="css/input.css" />
   <link rel="stylesheet" type="text/css" href="css/phase-two.css" />
-	<?php include('includes/analyticstracking.php'); ?>
+
 <?php include("includes/js.php"); ?>
 
 </head>

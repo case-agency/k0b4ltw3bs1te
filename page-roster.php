@@ -20,7 +20,7 @@ $googleCrawlerSelectedLetter = getGoogleCrawlingParameter('artist_letter');
   <link rel="stylesheet" type="text/css" href="js/fancybox/source/jquery.fancybox.css" />
   <?php include('includes/js.php'); ?>
   <script type="text/javascript" src="js/roster-featured.js"></script>
-	<?php include('includes/analyticstracking.php'); ?>
+
 </head>
 <?php include("includes/js.php"); ?>
 <script type="text/javascript">

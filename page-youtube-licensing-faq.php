@@ -13,7 +13,7 @@
   <link rel="stylesheet" type="text/css" href="css/input.css" />
   <link rel="stylesheet" type="text/css" href="css/phase-two.css" />
 <?php include("includes/js.php"); ?>
-	<?php include('includes/analyticstracking.php'); ?>
+
 </head>
 <body>
 <?php include("includes/header.php"); ?>
