@@ -69,11 +69,18 @@ include('includes/header.php'); ?>
           <p><span>Christiaan Winchester</span><br />General Counsel</p>
           <a class="bio-link" href="#bio-christiaan-winchester">Read bio</a>
         </div>
+<?
+/*
+?>
         <div class="gm-bio">
           <img src="img/phase2/ericsson.jpg" alt="Tomas Ericsson" />
           <p><span>Tomas Ericsson</span><br />President, Society Relations</p>
           <a class="bio-link" href="#bio-tomas-ericsson">Read bio</a>
         </div>
+<?
+*/
+?>
+
         <div class="gm-bio">
           <img src="img/phase2/hitchman.jpg" alt="Paul Hitchman" />
           <p><span>Paul Hitchman</span><br />Managing Director, KLS</p>
@@ -139,10 +146,16 @@ include('includes/header.php'); ?>
   <br />Previously with the Music Group at Harbottle &amp; Lewis, specialising in music industry clients.
   <br />Trained at Clifford Chance. Qualified UK Solicitor in 1999. LLB Durham University, LLM Kings College London.</p>
 </div>
+<?
+/*
+?>
 <div class="bio-box" id="bio-tomas-ericsson" style="display:none;">
   <h3><span>Tomas Ericsson</span><br />President, Society Relations</h3>
   <p>Bio coming soon.</p>
 </div>
+<?
+*/
+?>
 <div class="bio-box" id="bio-paul-hitchman" style="display:none;">
   <h3><span>Paul Hitchman</span><br />Managing Director, KLS</h3>
   <p>Joined Kobalt in 2011.
