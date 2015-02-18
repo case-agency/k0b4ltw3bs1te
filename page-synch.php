@@ -67,6 +67,7 @@ $playListComposers = decodeFeed(file_get_contents(DATA_PLAYLIST_COMPOSERS));
 
         /*]]>*/
     </script>
+
 </head>
 
 <body>

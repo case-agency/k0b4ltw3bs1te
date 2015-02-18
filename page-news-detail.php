@@ -57,6 +57,7 @@ $newsData = $newsMeta['news'];
 <meta property="og:image:type" content="image/jpg">
 
 
+
 </head>
 
 <script type="text/javascript">var switchTo5x = true;</script>

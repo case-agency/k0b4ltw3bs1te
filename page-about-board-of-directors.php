@@ -25,6 +25,7 @@ function getYearsExperienceSince($year) {
   <link rel="stylesheet" type="text/css" href="css/phase-two.css" />
   <link rel="stylesheet" type="text/css" href="js/fancybox/source/jquery.fancybox.css" />
   <?php include('includes/js.php'); ?>
+
 </head>
 <body>
 <?php

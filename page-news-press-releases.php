@@ -28,6 +28,7 @@ usort($pressReleaseList, 'sortNewsByDate');
   <?php include('includes/js.php'); ?>
   <link rel="stylesheet" type="text/css" href="css/jquery.bxslider.css" />
   <script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
+
 </head>
 <body>
 <?php
@@ -54,7 +55,7 @@ include('includes/header.php'); ?>
 </div>
 
 </section>
-            
+
 <?php include("includes/footer.php"); ?>
 </body>
 </html>

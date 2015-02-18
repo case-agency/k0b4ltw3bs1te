@@ -11,8 +11,9 @@ $jobs = getJobs("current_jobs");
   <?php include('includes/js.php'); ?>
   <link rel="stylesheet" type="text/css" href="css/input.css" />
   <link rel="stylesheet" type="text/css" href="css/phase-two.css" />
-</head>
+
     <?php include("includes/js.php"); ?>
+</head>
 <body>
 <?php include("includes/header.php"); ?>
 <section class="main" id="jobs">

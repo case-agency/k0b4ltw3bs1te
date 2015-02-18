@@ -41,6 +41,7 @@ if (count($json_array_billboard) < 6) {
 <script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
 
 
+
 </head>
 
 <body>
