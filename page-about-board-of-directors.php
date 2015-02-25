@@ -45,7 +45,7 @@ include('includes/header.php'); ?>
         </div>
         <div class="gm-bio">
           <img src="img/phase2/board-ekelund.jpg" alt="Johan Ekelund" />
-          <p><span>Johan Ekelund</span><br />Co-Founder, Diesel Music &amp; Kobalt Music Group<br />Board Member, STIM</p>
+          <p><span>Johan Ekelund</span><br />Co-Founder, Diesel Music &amp; Kobalt Music Group</p>
           <a class="bio-link" href="#bio-johan-ekelund">Read bio</a>
         </div>
         <div class="gm-bio">

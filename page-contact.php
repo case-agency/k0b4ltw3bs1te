@@ -2,6 +2,7 @@
 include("includes/data.php");
 
 $locationList = getLocationList();
+$default_location = 2;
 
 $isGoogleCrawling = isGoogleCrawling();
 ?>
@@ -122,7 +123,7 @@ $isGoogleCrawling = isGoogleCrawling();
       initialize();
 
 
-      tabClickHandler(getPrettyFragment('tab', 2));
+      tabClickHandler(getPrettyFragment('tab', <?= $default_location?>));
     });
 
   </script>
@@ -148,7 +149,7 @@ $isGoogleCrawling = isGoogleCrawling();
     $locationCounter = 0;
     foreach ($locationList as $locationKey => $location):
       $locationCounter++;
-      if ( $locationKey == 2 ) { ?>
+      if ( $locationKey == $default_location ) { ?>
 
         <a href="#!tab=<?php echo $locationKey ?>" id="location_tab_<?php echo $locationKey ?>" class="<?php echo $locationCounter == $totalLocation ? ' location_tab_last' : '' ?> location-tab location-tab-active" onclick="javascript: tabClickHandler('<?php echo $locationKey ?>');">
           <?php echo $location['name'] ?>
@@ -177,7 +178,7 @@ $isGoogleCrawling = isGoogleCrawling();
     <?php if ($isGoogleCrawling): ?>
       <?php
       echo loadTemplateFile(APP_DIR . '/includes/contact-location.php', array(
-          'locationId' => getGoogleCrawlingParameter('tab', 2)
+          'locationId' => getGoogleCrawlingParameter('tab', $default_location)
       ));
       ?>
     <?php endif ?>
