@@ -6,8 +6,8 @@ include("includes/data.php");
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <title><?php echo formatPageTitle('Privacy Policy') ?></title>
-  <link rel="stylesheet" type="text/css" href="css/input.css" />
-  <link rel="stylesheet" type="text/css" href="css/phase-two.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <?php include('includes/css.php'); ?>
   <?php include('includes/js.php'); ?>
 
 </head>

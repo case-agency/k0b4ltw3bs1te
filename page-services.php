@@ -8,10 +8,8 @@ include("includes/data.php");
 <head>
 <title><?php echo formatPageTitle('Services') ?></title>
 
-<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/44fce422-70e0-4a38-9fc9-11cf02f17686.css"/>
-<link rel="stylesheet" type="text/css" href="css/input.css" />
+<?php include('includes/css.php'); ?>
 <link rel="stylesheet" type="text/css" href="css/cookiecuttr.css" />
-
 <link rel="stylesheet" type="text/css" href="js/fancybox/source/jquery.fancybox.css" />
 <?php include('includes/js.php'); ?>
 

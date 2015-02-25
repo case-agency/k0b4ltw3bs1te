@@ -12,9 +12,9 @@ function requireToVar($file){
 <html>
 <head>
 <title><?php echo formatPageTitle('Label Services') ?></title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/44fce422-70e0-4a38-9fc9-11cf02f17686.css"/>
-<link rel="stylesheet" type="text/css" href="css/input.css" />
+<?php include('includes/css.php'); ?>
 <link rel="stylesheet" type="text/css" href="js/fancybox/source/jquery.fancybox.css" />
 <link rel="stylesheet" type="text/css" href="css/cookiecuttr.css" />
 
@@ -40,7 +40,7 @@ function requireToVar($file){
 	<div class="wrapper services">
 		<div class="module seven">
 			<h1>Kobalt<br />Label<br />Services</h1>
-			<ol class="services-anchor waypoint" id="">
+			<ol class="services-anchor waypoint desktop" id="">
 				<li><a data-target="lab01" href="#flexible-contracts">Flexible contracts</a></li>
 				<li><a data-target="lab02" href="#kobalt-portal">Powerful, transparent reporting</a></li>
 				<li><a data-target="lab03" href="#global-administration-distribution-and-manufacturing">Global administration, Distribution, &amp; manufacturing</a></li>
@@ -60,7 +60,8 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
-				<h3 class="white">KOBALT'S "NEW MODEL" CONTRACTS ENSURE THAT ARTISTS RETAIN OWNERSHIP OF THEIR MASTER RIGHTS AND THE MAJORITY OF REVENUE AFTER RECOUPMENT.</h3>
+				<h4 class="mobile white">Flexible Contracts</h4>
+				<h3 class="white">Kobalt's "new model" contracts ensure that artists retain ownership of their master rights and the majority of revenue after recoupment.</h3>
 			</div>
 			<div class="module clear five">
 				<p>Flexible contracts mean artists and writers have more control over their work&mdash;and their future. With no commitment to deliver a minimum number of recordings and no lock-in, clients are free to make the artistic choices that are right for them.</p>
@@ -73,6 +74,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
+				<h4 class="mobile"><span>The Kobalt Portal</span><br />Powerful, transparent reporting</h4>
 				<h3 class="red">Every piece of info collected by Kobalt's advanced technology platform feeds into<br />the Kobalt Portal.</h3>
 			</div>
 			<img class="fancybox portalVideo" href="#portalVideo" src="img/portal_video_thumb.png" style="margin: 50px 0 30px;" />
@@ -86,7 +88,8 @@ function requireToVar($file){
 	<div class="wrapper services">
 		<div class="long-column">
 			<div class="module left-img">
-				<img src="img/lab-portal-img.png" alt="Kobalt Portal" />
+				<img class="desktop" src="img/lab-portal-img.png" alt="Kobalt Portal" />
+				<img class="mobile" src="img/lab02b_mobile_img.png" alt="Kobalt Portal" />
 			</div>
 			<div class="module portal-cat three">
 				<h4 class="red">Dashboard</h4>
@@ -105,6 +108,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
+				<h4 class="mobile">Global administration, Distribution, &amp; manufacturing</h4>
 				<h3 class="red">We enable artists to achieve the full potential of their releases around<br />the world. </h3>
 			</div>
 			<div class="module five clear">
@@ -188,11 +192,12 @@ function requireToVar($file){
 		</div>
 	</div>
 </div>
-<div class="service-container black lab-quote-01"></div>
+<div class="service-container black lab-quote-01 desktop"></div>
 <div class="container red lab04 waypoint" id="worldwide-marketing">
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
+				<h4 class="mobile">Worldwide marketing</h4>
 				<h3 class="white">We are committed to helping artists do what they do best.</h3>
 			</div>
 			<div class="clear module five">
@@ -211,7 +216,7 @@ function requireToVar($file){
 		</div>
 	</div>
 </div>
-<div class="service-container red lab-quote-02"></div>
+<div class="service-container red lab-quote-02 desktop"></div>
 <div class="service-container red lab04b">
 	<div class="wrapper services">
 		<div class="long-column">
@@ -229,6 +234,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
+				<h4 class="mobile">Proactive Synch &amp; brand deals</h4>
 				<h3 class="red">At Kobalt, we pride ourselves in our quick turnaround and personalized, hands-on approach to Synch.</h3>
 			</div>
 			<div class="clear module five">
@@ -244,6 +250,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
+				<h4 class="mobile">YouTube Maximization</h4>
 				<h3 class="red">Kobalt is a YouTube certified partner, monetizing over one billion YouTube streams per month.</h3>
 			</div>
 			<div class="module five clear">
@@ -256,7 +263,7 @@ function requireToVar($file){
 		</div>
 	</div>
 </div>
-<div class="service-container black lab-quote-03"></div>
+<div class="service-container black lab-quote-03 desktop"></div>
 <div class="container white lab06b">
 	<div class="wrapper services">
 		<div class="long-column">
@@ -282,6 +289,7 @@ function requireToVar($file){
 		<div class="long-column">
 			<div class="module eight">
 				<div class="module six">
+					<img class="kobalt-k mobile" src="img/kobalt_k.png" />
 					<h3 class="white">The future of music<br />really is this simple.</h3>
 				</div>
 				<div class="module five clear">

@@ -13,7 +13,7 @@
 				</form>
 			</div>
 			<div class="social-right">
-				<h6>Follow Kobalt</h6>
+				<h6 class="desktop">Follow Kobalt</h6>
 				<a target="_blank" class="facebook" href="http://www.facebook.com/kobaltmusic">Facebook</a>
 				<a target="_blank" class="twitter" href="http://www.twitter.com/kobalt">Twitter</a>
 				<a target="_blank" class="linkedin" href="https://www.linkedin.com/company/kobalt-music-group">LinkedIn</a>
@@ -26,34 +26,34 @@
 		</div>
 	</div>
 	<div class="wrapper">
-		<ul>
+		<ul class="desktop">
 			<li><a class="menu-title" href="page-services.php">Services</a></li>
 			<li><a href="page-services-music-publishing.php">Music Publishing</a></li>
 			<li><a href="page-services-neighbouring-rights.php">Neighbouring Rights</a></li>
 			<li><a href="page-services-label-services.php">Label Services</a></li>
 		</ul>
-		<ul>
+		<ul class="desktop">
 			<li><a class="menu-title" href="page-roster-featured.php">Roster</a></li>
 			<li><a href="page-roster-featured.php" onclick="rosterLinkHandler(this)">Featured</a></li>
 			<li><a href="page-roster.php#!roster=all" onclick="rosterLinkHandler(this)">All</a></li>
 		</ul>
-		<ul>
+		<ul class="desktop">
 			<li><a class="menu-title" href="page-about.php">About</a></li>
 			<li><a href="page-about.php">About Kobalt</a></li>
 			<li><a href="page-about-global-management.php">Global Management</a></li>
 			<li><a href="page-about-board-of-directors.php">Board of Directors</a></li>
 		</ul>
-		<ul>
+		<ul class="desktop">
 			<li><a class="menu-title" href="page-news.php">News</a></li>
 			<li><a href="page-news-press-releases.php">Press Releases</a></li>
 			<li><a href="page-news-key-releases.php">Key Releases</a></li>
 			<li><a href="page-news-charts.php">Charts</a></li>
 		</ul>
-		<ul>
+		<ul class="desktop">
 			<li><a class="menu-title" href="page-synch.php">Synch</a></li>
 			<li><a href="page-licensing-requests.php">Licensing Requests</a></li>
 		</ul>
-		<ul>
+		<ul class="desktop">
 			<li ><a class="menu-title" href="page-contact.php">Contact</a></li>
 			<li><a href="page-contact.php">Contact Us</a></li>
 			<li><a href="page-contact-submissions.php">Submissions</a></li>
@@ -61,10 +61,12 @@
 			<li><a href="page-youtube-licensing-faq.php">YouTube Licensing FAQ</a></li>
 			<li><a href="page-contact-jobs.php">Jobs</a></li>
 		</ul>
-		<p id="copyright">&copy; Copyright 2014 Kobalt Music Group, Ltd.</p>
+		<p id="copyright">&copy; Copyright <?php echo date("Y") ?> Kobalt Music Group, Ltd.</p>
 		<p id="tos"><a href="page-privacy.php">Privacy Policy</a> &#124; <a href="page-tos.php#cookie">Cookie Policy</a> &#124; <a href="page-tos.php">Terms of Service</a></p>
 	</div>
 </footer>
+<!-- END #main -->
+</div>
 
 <?php include('includes/analyticstracking.php'); ?>
 

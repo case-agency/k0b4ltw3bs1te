@@ -1,6 +1,53 @@
-<div id="header">
+<div id="mobile-menu" class="mobile">
+	<ul id="first-level">
+		<li><a href="page-home.php">HOME</a></li>
+		<li class="subnav" data-menu-item="services">SERVICES</li>
+		<li class="subnav" data-menu-item="roster">ROSTER</li>
+		<li class="subnav" data-menu-item="about">ABOUT</li>
+		<li class="subnav" data-menu-item="news">NEWS</li>
+		<li class="subnav" data-menu-item="contact">CONTACT</li>
+		<li><a href="page-synch.php">SYNCH</a></li>
+		<li><a href="https://portal.kobaltmusic.com" target="_new" class="portal">PORTAL LOGIN</a></li>
+	</ul>
+	<div id="second-level">
+		<ul class="subnav-services" style="display:none;">
+			<li class="close">Services</li>
+			<li><a href="page-services-music-publishing.php">Music Publishing</a></li>
+			<li><a href="page-services-label-services.php">Label Services</a></li>
+			<li><a href="page-services-neighbouring-rights.php">Neighbouring Rights</a></li>
+		</ul>
+		<ul class="subnav-roster" style="display:none">
+			<li class="close">Roster</li>
+			<li><a href="page-roster-featured.php">Featured</a></li>
+			<li><a href="page-roster.php#!roster=all" onclick="rosterLinkHandler(this)">All</a></li>
+		</ul>
+		<ul class="subnav-about" style="display:none">
+			<li class="close">About</li>
+			<li><a href="page-about.php">About Kobalt</a></li>
+			<li><a href="page-about-global-management.php">Global Management</a></li>
+			<li><a href="page-about-board-of-directors.php">Board of Directors</a></li>
+		</ul>
+		<ul class="subnav-news" style="display:none">
+			<li class="close">News</li>
+			<li><a href="page-news-press-releases.php">Press Releases</a></li>
+			<li><a href="page-news-key-releases.php">Key Releases</a></li>
+			<li><a href="page-news-charts.php">Charts</a></li>
+		</ul>
+		<ul class="subnav-contact" style="display:none">
+			<li class="close">Contact</li>
+			<li><a href="page-contact.php">Contact Us</a></li>
+			<li><a href="page-contact-submissions.php">Submissions</a></li>
+			<li><a href="page-licensing-requests.php">Licensing Requests</a></li>
+			<li><a href="page-youtube-licensing-faq.php">YouTube Licensing FAQ</a></li>
+			<li><a href="page-contact-jobs.php">Jobs</a></li>
+		</ul>
+	</div>
+</div>
+<div id="main">
+<header>
 	<div id="reg-nav" class="container">
 		<div class="wrapper">
+			<h6 id="mobile-menu-icon">menu</h6>
 			<a id="logo" href="index.php"><h1>Kobalt Music Group</h1></a>
 			<ul id="main-nav">
 				<li><a class="subnav" href="page-services.php" data-menu-item="services">SERVICES</a></li>
@@ -15,6 +62,7 @@
 	</div>
 	<div style="display: none;" class="container" id="sticky-nav">
 		<div class="wrapper">
+			<h6 id="mobile-menu-icon">menu</h6>
 			<a id="sticky-logo" href="index.php"><h1>Kobalt Music Group</h1></a>
 			<ul id="sticky-nav-ul">
 				<li><a class="portal" target="_new" href="https://portal.kobaltmusic.com">PORTAL LOGIN</a></li>
@@ -57,4 +105,4 @@
 			</ul>
 		</div>
 	</div>
-</div>
+</header>

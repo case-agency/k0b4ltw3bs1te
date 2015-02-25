@@ -9,10 +9,10 @@ $isGoogleCrawling = isGoogleCrawling();
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title><?php echo formatPageTitle('Contact') ?></title>
   <?php include('includes/js.php'); ?>
-  <link rel="stylesheet" type="text/css" href="css/input.css" />
-  <link rel="stylesheet" type="text/css" href="css/phase-two.css" />
+  <?php include('includes/css.php'); ?>
 
 </head>
 
@@ -122,7 +122,7 @@ $isGoogleCrawling = isGoogleCrawling();
       initialize();
 
 
-      tabClickHandler(getPrettyFragment('tab', 5));
+      tabClickHandler(getPrettyFragment('tab', 2));
     });
 
   </script>
@@ -148,11 +148,11 @@ $isGoogleCrawling = isGoogleCrawling();
     $locationCounter = 0;
     foreach ($locationList as $locationKey => $location):
       $locationCounter++;
-      if ( $locationKey == 5 ) { ?>
+      if ( $locationKey == 2 ) { ?>
 
-      <a href="#!tab=<?php echo $locationKey ?>" id="location_tab_<?php echo $locationKey ?>" class="<?php echo $locationCounter == $totalLocation ? ' location_tab_last' : '' ?> location-tab active" onclick="javascript: tabClickHandler('<?php echo $locationKey ?>');">
-        <?php echo $location['name'] ?>
-      </a>
+        <a href="#!tab=<?php echo $locationKey ?>" id="location_tab_<?php echo $locationKey ?>" class="<?php echo $locationCounter == $totalLocation ? ' location_tab_last' : '' ?> location-tab location-tab-active" onclick="javascript: tabClickHandler('<?php echo $locationKey ?>');">
+          <?php echo $location['name'] ?>
+        </a>
 
       <?php } else { ?>
 
@@ -166,7 +166,7 @@ $isGoogleCrawling = isGoogleCrawling();
 
   <div class="map_wrapper">
     <div id="pages-contact-map-all">
-      <div id="map">
+      <div id="map" class="desktop">
         <div id="pages-contact-map-canvas"><p>test</p></div>
       </div>
     </div>
@@ -177,7 +177,7 @@ $isGoogleCrawling = isGoogleCrawling();
     <?php if ($isGoogleCrawling): ?>
       <?php
       echo loadTemplateFile(APP_DIR . '/includes/contact-location.php', array(
-          'locationId' => getGoogleCrawlingParameter('tab', 5)
+          'locationId' => getGoogleCrawlingParameter('tab', 2)
       ));
       ?>
     <?php endif ?>
@@ -187,99 +187,10 @@ $isGoogleCrawling = isGoogleCrawling();
 <script type="text/javascript">
   $(document).ready( function() {
     $('.location-tab').click(function() {
-      $('.location-tab.active').removeClass('active');
-      $(this).addClass('active');
+      $('.location-tab-active').removeClass('location-tab-active');
+      $(this).addClass('location-tab-active');
     });
   });
 </script>
 </body>
 </html>
-
-<?php return ?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<?php
-$pagesContactDiv = array("pages-contact-london", "pages-contact-newyork", "pages-contact-losangeles", "pages-contact-berlin", "pages-contact-nashville", "pages-contact-sydney", "pages-contact-stockholm");
-$pagesContactLocation = array("LONDON", "NEW YORK", "LOS ANGELES", "BERLIN", "NASHVILLE", "SYDNEY", "STOCKHOLM");
-$pagesContactArrays = array("London", "New York", "Los Angeles", "Berlin", "Nashville", "Sydney", "Stockholm");
-
-for ($divContactTab = 0; $divContactTab < 7; $divContactTab++) {
-  echo '<div id="' . $pagesContactDiv[$divContactTab] . '" class="pages-contact-main">';
-  echo '<div class="pages-contact-main-container">';
-  echo '<div class="pages-contact-address">';
-  echo '<div class="pages-contact-address-title">' . $pagesContactLocation[$divContactTab] . '</div>';
-  echo '<div class="pages-contact-address-location">';
-  if ($json_array_locations[$pagesContactArrays[$divContactTab]][0]['address1'] != "") {
-    echo $json_array_locations[$pagesContactArrays[$divContactTab]][0]['address1'] . '<br>';
-  }
-  if ($json_array_locations[$pagesContactArrays[$divContactTab]][0]['address2'] != "") {
-    echo $json_array_locations[$pagesContactArrays[$divContactTab]][0]['address2'] . '<br>';
-  }
-  if ($json_array_locations[$pagesContactArrays[$divContactTab]][0]['address3'] != "") {
-    echo $json_array_locations[$pagesContactArrays[$divContactTab]][0]['address3'] . '<br>';
-  }
-  if ($json_array_locations[$pagesContactArrays[$divContactTab]][0]['address4'] != "") {
-    echo $json_array_locations[$pagesContactArrays[$divContactTab]][0]['address4'] . '<br>';
-  }
-  if ($json_array_locations[$pagesContactArrays[$divContactTab]][0]['address5'] != "") {
-    echo $json_array_locations[$pagesContactArrays[$divContactTab]][0]['address5'] . '<br>';
-  }
-  echo '<br>';
-  //echo '<strong>Directions</strong><br>';
-  //echo '<strong>Print Map</strong><br>';
-  echo '<br>';
-  if ($json_array_locations[$pagesContactArrays[$divContactTab]][0]['phone'] != "") {
-    echo '<strong>Phone:</strong> ' . $json_array_locations[$pagesContactArrays[$divContactTab]][0]['phone'] . '<br>';
-  }
-  if ($json_array_locations[$pagesContactArrays[$divContactTab]][0]['fax'] != "") {
-    echo '<strong>AAA Fax:</strong> ' . $json_array_locations[$pagesContactArrays[$divContactTab]][0]['fax'] . '<br>';
-  }
-  echo '</div>';
-  echo '</div>';
-  /*
-  echo '<div class="pages-contact-staff">';
-  echo '<div class="pages-contact-staff-title">' . $pagesContactLocation[$divContactTab] . ' STAFF AAAA</div>';
-  for ($i = 0; $i < 4; $i++) {
-    echo '<div class="pages-contact-staff-column">';
-    for ($j = 0; $j < 5; $j++) {
-      $k = ($i * 5) + $j;
-      echo '<strong>' . $json_array[$pagesContactArrays[$divContactTab]][$k]['staff_name'] . '</strong><br>' . $json_array[$pagesContactArrays[$divContactTab]][$k]['staff_job_title'] . '<br><br>';
-    }
-    echo '</div>';
-  }
-  echo '</div>';
-  echo '<div class="clear"></div>';
-  echo '</div>';
-  */
-
-  echo '</div>';
-}
-?>

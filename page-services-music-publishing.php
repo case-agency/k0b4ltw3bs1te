@@ -11,23 +11,20 @@ function requireToVar($file){
 <!DOCTYPE html>
 <html>
 <head>
-<title>Music Publishing | Kobalt</title>
-
-<!-- <link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/44fce422-70e0-4a38-9fc9-11cf02f17686.css"/> -->
-<link rel="stylesheet" type="text/css" href="css/input.css" />
+<title><?php echo formatPageTitle('Music Publishing') ?></title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<?php include('includes/css.php'); ?>
 <link rel="stylesheet" type="text/css" href="js/fancybox/source/jquery.fancybox.css" />
 <?php include('includes/js.php'); ?>
 <script type="text/javascript" src="js/waypoints.min.js"></script>
 <script type="text/javascript" src="js/pub.js"></script>
 <script type="text/javascript" src="js/video-js/video.js"></script>
 
-
-
 </head>
 
 <body>
 <?php include('includes/header.php'); ?>
-<div id="services-nav" class="pub">
+<div id="services-nav" class="pub desktop">
 	<div class="wrapper">
 		<h1>1</h1>
 		<h4>Collecting<br />20&ndash;30%more money, faster</h4>
@@ -38,7 +35,7 @@ function requireToVar($file){
 	<div class="wrapper services">
 		<div class="module seven">
 			<h1>Kobalt<br />Music<br />Publishing</h1>
-			<ol class="services-anchor waypoint" id="">
+			<ol class="services-anchor waypoint desktop" id="">
 				<li><a data-target="pub01" href="#more-money">Collecting 20&ndash;30% more money, faster</a></li>
 				<li><a data-target="pub02" href="#kobalt-portal">Powerful, transparent reporting</a></li>
 				<li><a data-target="pub03" href="#flexible-contracts">Flexible contracts</a></li>
@@ -58,6 +55,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module five">
+				<h4 class="mobile red">Collecting 20&ndash;30%<br />more money, faster</h4>
 				<h3 class="red">Fewer fees, less time, more money.</h3>
 				<p>Each step in the collection process costs more time and more money&mdash;leaving more room for error and revenue unaccounted for.</p>
 				<p>Kobalt's pioneering collection technology platform bypasses the middleman and collects directly from societies, iTunes, Spotify, YouTube and most major distributors resulting in 20&ndash;30% higher revenues for our artists and writers.</p>
@@ -78,6 +76,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
+				<h4 class="mobile"><span>The Kobalt Portal</span><br />Powerful, transparent reporting</h4>
 				<h3 class="red">Every piece of info collected by Kobalt's advanced technology platform feeds into<br />the Kobalt Portal.</h3>
 			</div>
 			<img class="fancybox portalVideo" href="#portalVideo" src="img/portal_video_thumb.png" style="margin: 50px 0 30px;" />
@@ -115,12 +114,14 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module eight">
+				<h4 class="mobile white">Flexible Contracts</h4>
 				<h3 class="white">Artists and writers have more<br />control over their work&mdash;and their future.</h3>
 			</div>
 			<div class="module five">
 				<p class="black">With no commitment to deliver a minimum number<br />of songs and no lock-in, clients are free to make the artistic choices that are right for them.</p>
 			</div>
-			<img src="img/pub_contract_ph.png" style="margin-top: 50px;" />
+			<img class="desktop" src="img/pub_contract_ph.png" style="margin-top: 50px;" />
+			<img class="mobile" src="img/pub03_mobile_img.png" />
 		</div>
 	</div>
 </div>
@@ -128,6 +129,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
+				<h4 class="mobile black">Synch &amp; Brand Deals</h4>
 				<h3 class="red">At Kobalt, we pride ourselves in our quick turnaround and personalized, hands-on approach to Synch.</h3>
 			</div>
 			<div class="clear module five">
@@ -142,6 +144,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module seven">
+				<h4 class="mobile red">Creative Services</h4>
 				<h3 class="white">Our priority is to create both songwriting and networking opportunities for our writers around<br />the world.</h3>
 			</div>
 		</div>
@@ -164,6 +167,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
+				<h4 class="mobile black">YouTube Maximization</h4>
 				<h3 class="red">Kobalt is a YouTube certified partner, monetizing over one billion YouTube streams per month.</h3>
 			</div>
 			<div class="module five clear">
@@ -176,7 +180,7 @@ function requireToVar($file){
 		</div>
 	</div>
 </div>
-<div class="service-container black pub-quote"></div>
+<div class="service-container black pub-quote desktop"></div>
 <div class="container white pub06b">
 	<div class="wrapper services">
 		<div class="long-column">
@@ -202,6 +206,7 @@ function requireToVar($file){
 		<div class="long-column">
 			<div class="module eight">
 				<div class="module six">
+					<img class="kobalt-k mobile" src="img/kobalt_k.png" />
 					<h3 class="white">The future of music<br />really is this simple.</h3>
 				</div>
 				<div class="module five clear">
@@ -227,6 +232,7 @@ function requireToVar($file){
 </div>
 
 <?php include('includes/footer.php'); ?>
+
 <script type="text/javascript">
 	$(' document ').ready( function() {
 <?
@@ -258,6 +264,7 @@ $videos = str_replace("'", "\'", $videos);
 		});
 	});
 </script>
+
 
 </body>
 </html>

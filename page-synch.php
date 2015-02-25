@@ -18,11 +18,20 @@ $playListComposers = decodeFeed(file_get_contents(DATA_PLAYLIST_COMPOSERS));
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <title><?php echo formatPageTitle('SYNCH') ?></title>
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="css/new-elements.css" type="text/css" />
+    <link rel="stylesheet" href="css/font-face.css" type="text/css" />
+    <link rel="stylesheet" href="css/main.css" type="text/css" />
+    <link rel="stylesheet" href="css/header.css" type="text/css" />
+    <link rel="stylesheet" href="css/footer.css" type="text/css" />
+    <link rel="stylesheet" href="css/pages.css" type="text/css" />
+
     <?php include("includes/css.php"); ?>
 
     <link rel="stylesheet" href="css/page-synch.css" type="text/css"/>
-    <link rel="stylesheet" type="text/css" href="css/input.css" />
-    <link rel="stylesheet" type="text/css" href="css/phase-two.css" />
+
+
 
     <link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet" type="text/css">
 

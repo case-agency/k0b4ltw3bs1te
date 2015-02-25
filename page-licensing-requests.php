@@ -5,11 +5,10 @@ include("includes/data.php");
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title><?php echo formatPageTitle('Contact') ?></title>
   <?php include('includes/js.php'); ?>
-  <link rel="stylesheet" type="text/css" href="css/input.css" />
-  <link rel="stylesheet" type="text/css" href="css/phase-two.css" />
-<?php include("includes/js.php"); ?>
+  <?php include('includes/css.php'); ?>
 
 </head>
 <body>
@@ -21,25 +20,25 @@ include("includes/data.php");
 <h1>LICENSING<br />REQUESTS</h1>
 
 <h3 class="black">US &amp; CANADIAN MECHANICAL<br />LICENSING REQUESTS</h3>
-<p class="black">Please send requests to <a  class="email" href="mailto:licensing@kobaltmusic.com">licensing@kobaltmusic.com</a>.</p>
+<p class="black">Please send requests to <a  class="email" href="mailto:licensing@kobaltmusic.com">licensing@kobaltmusic.com</a></p>
 
 <ul class="file_list">
     <li><a href="http://www.kobaltmusic.com/doc/MECHANICAL%20REQUEST%20FORM.doc">Click here to download the Mechanical request form</a></li>
 </ul>
 
 <h3 class="black">Adaptation Requests</h3>
-<p class="black">Please send Adaptation requests to <a class="email" href="mailto:adaptations@kobaltmusic.com">adaptations@kobaltmusic.com</a>.</p>
+<p class="black">Please send Adaptation requests to <a class="email" href="mailto:adaptations@kobaltmusic.com">adaptations@kobaltmusic.com</a></p>
 
 <ul class="file_list">
     <li><a href="http://www.kobaltmusic.com/doc/Kobalt%20Music%20-%20Adaptation%20Request%20Form.docx">Click here to download the Adaptation request form</a></li>
 </ul>
 
 <h3 class="black">Synch Licensing Requests</h3>
-<p class="black">Please send US + Canadian requests to <a class="email" href="mailto:SynchUSA@kobaltmusic.com">SynchUSA@kobaltmusic.com</a>.<br/>
-                Please send German, Swiss and Austrian requests to <a class="email" href="mailto:SynchGSA@kobaltmusic.com">SynchGSA@kobaltmusic.com</a>.<br/>
-                Please send Italian requests to Sandor Von Mallasz: <a class="email" href="mailto:SynchItaly@kobaltmusic.com">SynchItaly@kobaltmusic.com</a>.<br/>
-                Please send French requests to Stephanie Giraud: <a class="email" href="mailto:SynchFrance@kobaltmusic.com">SynchFrance@kobaltmusic.com</a>.<br/>
-                Please send Rest of World requests to <a class="email" href="mailto:Synch@kobaltmusic.com">Synch@kobaltmusic.com</a>.</p>
+<p class="black">Please send US + Canadian requests to <a class="email" href="mailto:SynchUSA@kobaltmusic.com">SynchUSA@kobaltmusic.com</a><br/>
+                Please send German, Swiss and Austrian requests to <a class="email" href="mailto:SynchGSA@kobaltmusic.com">SynchGSA@kobaltmusic.com</a><br/>
+                Please send Italian requests to Sandor Von Mallasz: <a class="email" href="mailto:SynchItaly@kobaltmusic.com">SynchItaly@kobaltmusic.com</a><br/>
+                Please send French requests to Stephanie Giraud: <a class="email" href="mailto:SynchFrance@kobaltmusic.com">SynchFrance@kobaltmusic.com</a><br/>
+                Please send Rest of World requests to <a class="email" href="mailto:Synch@kobaltmusic.com">Synch@kobaltmusic.com</a></p>
 
 <ul class="file_list">
     <li><a href="http://www.kobaltmusic.com/doc/ADVERT%20REQUEST%20FORM.doc">Click here to download the Advert request form</a></li>

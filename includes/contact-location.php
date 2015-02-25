@@ -26,7 +26,9 @@ $locationData = $locationList[$locationId];
     <?php if (strlen($locationData['address5']) > 0): ?>
       <?php echo $locationData['address5'] ?><br/>
     <?php endif ?>
-
+    <?php if (strlen($locationData['google-map-link']) > 0): ?>
+      <a class="mobile" target="_blank" href="<?php echo $locationData['google-map-link'] ?>">Open in Google Maps</a>
+    <?php endif ?>
 
     <br/>
 

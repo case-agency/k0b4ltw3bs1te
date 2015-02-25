@@ -49,10 +49,9 @@ usort($mainNewsList, 'sortNewsByPositionDate');
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title><?php echo formatPageTitle('News') ?></title>
-  <link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/44fce422-70e0-4a38-9fc9-11cf02f17686.css"/>
-  <link rel="stylesheet" type="text/css" href="css/input.css" />
-  <link rel="stylesheet" type="text/css" href="css/phase-two.css" />
+  <?php include('includes/css.php'); ?>
   <link rel="stylesheet" type="text/css" href="js/fancybox/source/jquery.fancybox.css" />
   <?php include('includes/js.php'); ?>
   <link rel="stylesheet" type="text/css" href="css/jquery.bxslider.css" />

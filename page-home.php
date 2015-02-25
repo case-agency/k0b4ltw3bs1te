@@ -31,11 +31,8 @@ if (count($json_array_billboard) < 6) {
 <html>
 <head>
 <title><?php echo formatPageTitle('') ?></title>
-
-
-<link rel="stylesheet" type="text/css" href="css/input.css" />
-<link rel="stylesheet" type="text/css" href="css/cookiecuttr.css" />
-<link rel="stylesheet" type="text/css" href="js/fancybox/source/jquery.fancybox.css" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<?php include('includes/css.php'); ?>
 <?php include('includes/js.php'); ?>
 <link rel="stylesheet" type="text/css" href="css/jquery.bxslider.css" />
 <script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
@@ -49,7 +46,7 @@ if (count($json_array_billboard) < 6) {
 <div class="container slider black">
 	<div class="wrapper">
 		<a class="homepage-video-link" href="#brandVideo">Play Video</a>
-		<a class="homepage-portal-link" style="visibility:hidden" href="#portalVideo">Play Video</a>
+		<a class="homepage-portal-link" style="visibility:hidden; display: block; height: 0;" href="#portalVideo">Play Video</a>
 		<div class="module six">
 			<h1>It really is this simple</h1>
 			<p>Kobalt offers artists, songwriters, and publishers an alternative to the traditional music business model. Through technology, Kobalt empowers creators with transparency, flexibility, ownership and control. The future of music made simple.</p>
@@ -63,31 +60,37 @@ if (count($json_array_billboard) < 6) {
 		<div class="module three">
 			<h3 class="homepage">Kobalt<br />Music Publishing</h3>
 			<p>Kobalt Music Publishing is the largest independent music publisher in the world. Using our proprietary technology platform, we provide unparalleled transparency with seamless online copyright administration, royalty tracking, and digital collections.</p>
+			<a class="button black mobile" href="page-services-music-publishing.php">Learn More</a>
+			<a class="button black mobile" href="media/pdf/KobaltMusic_Music-Publishing.pdf">Download PDF</a>
 		</div>
 		<div class="module one clear-col"></div>
 		<div class="module three">
 			<h3 class="homepage">Kobalt<br />Label Services</h3>
 			<p>Kobalt Label Services (KLS) was established in 2012 for independent artists as an alternative to the traditional Major Label regime. We provide the team and expertise, the global network and infrastructure, and the funding that enables artists to achieve the full potential of their releases around the globe.</p>
+			<a class="button black mobile" href="page-services-label-services.php">Learn More</a>
+			<a class="button black mobile" href="media/pdf/KobaltMusic_Label-Services.pdf">Download PDF</a>
 		</div>
 		<div class="module one clear-col"></div>
 		<div class="module three">
 			<h3 class="homepage">Kobalt<br />Neighbouring Rights</h3>
 			<p>Kobalt's unique, modern, and transparent approach to Neighbouring Rights is geared to simplify a very complex process, maximize earnings, and speed up payments. Our direct relationships with key global collection societies reduces repetition, minimizes potential errors, and provides a substantial uplift in revenue.</p>
+			<a class="button black mobile" href="page-services-neighbouring-rights.php">Learn More</a>
+			<a class="button black coming-soon mobile" href="#coming-soon">Download PDF</a>
 		</div>
 		<div class="full-width module">
 			<div class="module three">
-				<a class="button black" href="page-services-music-publishing.php">Learn More</a>
-				<a class="button black" href="media/pdf/KobaltMusic_Music-Publishing.pdf">Download PDF</a>
+				<a class="button black desktop" href="page-services-music-publishing.php">Learn More</a>
+				<a class="button black desktop" href="media/pdf/KobaltMusic_Music-Publishing.pdf">Download PDF</a>
 			</div>
 			<div class="module one clear-col"></div>
 			<div class="module three">
-				<a class="button black" href="page-services-label-services.php">Learn More</a>
-				<a class="button black" href="media/pdf/KobaltMusic_Label-Services.pdf">Download PDF</a>
+				<a class="button black desktop" href="page-services-label-services.php">Learn More</a>
+				<a class="button black desktop" href="media/pdf/KobaltMusic_Label-Services.pdf">Download PDF</a>
 			</div>
 			<div class="module one clear-col"></div>
 			<div class="module three">
-				<a class="button black" href="page-services-neighbouring-rights.php">Learn More</a>
-				<a class="button black coming-soon" href="#coming-soon">Download PDF</a>
+				<a class="button black desktop" href="page-services-neighbouring-rights.php">Learn More</a>
+				<a class="button black coming-soon desktop" href="#coming-soon">Download PDF</a>
 			</div>
 		</div>
 	</div>
@@ -98,7 +101,7 @@ if (count($json_array_billboard) < 6) {
 		<div class="module seven">
 			<h2>What's Hot</h2>
 		</div>
-		<a class="red button-right" href="page-news.php">See More</a>
+		<a class="red button-right desktop" href="page-news.php">See More</a>
 		<div id="hp-slider">
 		<?php
 			$WhatsHotListCounter = 0;
@@ -128,39 +131,44 @@ if (count($json_array_billboard) < 6) {
 		<?php endforeach; ?>
 
 		</div>
+		<a class="red button mobile" href="page-news-press-releases.php">See More</a>
 	</div>
 </div>
 <div class="container black">
-	<div class="wrapper">
+	<div class="wrapper no-padding">
 		<div class="module seven">
 			<h2>KEY<br /> Releases</h2>
 		</div>
-		<a class="red button-right" href="page-news-key-releases.php">View more releases</a>
+		<a class="red button-right desktop" href="page-news-key-releases.php">View more releases</a>
 
 		<ul id="releaseGrid">
-		<?php
-			$newReleaseListCounter = 0;
-			foreach ($newReleaseList as $newRelease):
-				$newReleaseListCounter++;
-				if ($newReleaseListCounter > 8) {
-					break;
-				}
-        ?>
+			<div class="swipeable">
+				<?php
+					$newReleaseListCounter = 0;
+					foreach ($newReleaseList as $newRelease):
+						$newReleaseListCounter++;
+						if ($newReleaseListCounter > 8) {
+							break;
+						}
+				?>
 
-           <li><a href="#"><img src="images/json/NewReleases/<?php echo $newRelease['release_image'] ?>" width=240 height=240 alt=""/></a></li>
+				   <li><a href="#"><img src="images/json/NewReleases/<?php echo $newRelease['release_image'] ?>" width=240 height=240 alt=""/></a></li>
 
-        <?php endforeach; ?>
+				<?php endforeach; ?>
+        	</div>
 		</ul>
+		<a class="red button mobile" href="page-news-key-releases.php">View more releases</a>
 	</div>
 </div>
 <div class="container patterned">
-	<div class="wrapper-padding white">
+	<div class="wrapper-padding white no-padding">
 		<div class="full-width module">
 			<div class="module five">
 				<h2>On the Charts<br /><span>The Billboard Hot 100</span></h2>
 			</div>
-			<a class="button-right red" href="page-news-charts.php">View more charts</a>
+			<a class="button-right red desktop" href="page-news-charts.php">View more charts</a>
 			<ul id="chartGrid">
+				<div class="swipeable">
       <?php
 		for ($currentRecord = 0; $currentRecord < $BillboardMax; $currentRecord++) {
 			$billboard_rank = $json_array_billboard[$currentRecord]['entry_this_week_position'];
@@ -170,9 +178,9 @@ if (count($json_array_billboard) < 6) {
 	?>
 				<li><a href="<?= $billboard_uri?>"><span>#<?= $billboard_rank?></span><span><?= $billboard_title?></span><br/><?= $billboard_artist?></a></li>
     <?php } ?>
-
+    		</div>
 			</ul>
-
+			<a class="button red mobile" href="page-news-charts.php">View more charts</a>
 		</div>
 	</div>
 </div>
@@ -181,8 +189,9 @@ if (count($json_array_billboard) < 6) {
 		<div class="module six">
 			<h2>@KOBALT</h2>
 		</div>
-		<a class="button-right black twitter-button" target="_new" href="http://www.twitter.com/kobalt"><span class="twitter-icon">Follow</span></a>
+		<a class="button-right black twitter-button desktop" target="_new" href="http://www.twitter.com/kobalt"><span class="twitter-icon">Follow</span></a>
 		<?php echo loadTemplateFile(APP_DIR . '/includes/_twitter.php'); ?>
+		<a class="button black twitter-button mobile" target="_new" href="http://www.twitter.com/kobalt"><span class="twitter-icon">Follow</span></a>
 	</div>
 </div>
 
@@ -258,7 +267,6 @@ $(' document ').ready( function() {
 	/* initialize homepage slideshow */
 
 	var _slider = $('#hp-slider').bxSlider({
-		slideWidth: 960,
 		slideSelector: 'div.slide',
 		adaptiveHeight: false,
 		nextSelector: '.control-next',

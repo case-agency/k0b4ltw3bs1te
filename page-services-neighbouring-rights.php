@@ -12,9 +12,9 @@ function requireToVar($file){
 <html>
 <head>
 <title><?php echo formatPageTitle('Neighbouring Rights') ?></title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- <link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/44fce422-70e0-4a38-9fc9-11cf02f17686.css"/> -->
-<link rel="stylesheet" type="text/css" href="css/input.css" />
+<?php include('includes/css.php'); ?>
 <link rel="stylesheet" type="text/css" href="js/fancybox/source/jquery.fancybox.css" />
 <link rel="stylesheet" type="text/css" href="css/cookiecuttr.css" />
 
@@ -40,7 +40,7 @@ function requireToVar($file){
 	<div class="wrapper services">
 		<div class="module nine">
 			<h1>Kobalt<br />Neighbouring<br />Rights</h1>
-			<ol class="services-anchor waypoint" id="">
+			<ol class="services-anchor waypoint desktop" id="">
 				<li><a data-target="nbr01" href="#expert-personal-service">Expert personal service, globally</a></li>
 				<li><a data-target="nbr02" href="#pre-distribution-analysis">Pre-distribution analysis</a></li>
 				<li><a data-target="nbr03" href="#global-performance-tracking">Global performance tracking</a></li>
@@ -61,6 +61,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module five">
+				<h4 class="mobile white">Expert personal service, globally</h4>
 				<h3 class="red">We work directly with collection societies around the world.</h3>
 				<p>Kobalt's team has expert local knowledge and long established relationships with collection societies, ensuring all rights are administered to the highest standard.</p>
 				<p>Kobalt's direct interfaces with global societies reduce the number of links in the chain, increase collection value and reduce collection times.</p>
@@ -75,6 +76,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
+				<h4 class="mobile white">Pre-distribution analysis</h4>
 				<h3 class="white">We ensure all of your data is cross-checked and accurate.</h3>
 			</div>
 			<div class="clear module five">
@@ -99,6 +101,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
+				<h4 class="mobile black">Expert personal service, globally</h4>
 				<h3 class="red">We collect up to 20&ndash;30% more revenue for artists and writers.</h3>
 			</div>
 			<div class="module five clear">
@@ -107,11 +110,12 @@ function requireToVar($file){
 		</div>
 	</div>
 </div>
-<div class="service-container black nbr-quote-01"></div>
+<div class="service-container black nbr-quote-01 desktop"></div>
 <div class="container black nbr04 waypoint" id="kobalt-portal">
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
+				<h4 class="mobile"><span>The Kobalt Portal</span><br />Powerful, transparent reporting</h4>
 				<h3 class="red">Every piece of info collected by Kobalt's advanced technology platform feeds into<br />the Kobalt Portal.</h3>
 			</div>
 			<img class="fancybox portalVideo" href="#portalVideo" src="img/portal_video_thumb.png" style="margin: 50px 0 30px;" />
@@ -147,6 +151,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
+				<h4 class="mobile red">Monthly Payments</h4>
 				<h3 class="red">Say that again?<br />Yes, monthly payments.</h3>
 			</div>
 			<div class="module two clear"><img src="img/payment-icon.png" alt="Monthly payments" /></div>
@@ -160,6 +165,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
+				<h4 class="mobile">Retroactive payment search</h4>
 				<h3 class="white">We find and collect as much income as far back as the law allows.</h3>
 			</div>
 			<div class="module five clear">
@@ -174,6 +180,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
+				<h4 class="mobile">Dedicated client service team</h4>
 				<h3 class="red">We work for you.</h3>
 			</div>
 			<div class="module five clear">
@@ -187,6 +194,7 @@ function requireToVar($file){
 		<div class="long-column">
 			<div class="module eight">
 				<div class="module six">
+					<img class="kobalt-k mobile" src="img/kobalt_k.png" />
 					<h3 class="white">The future of music<br />really is this simple.</h3>
 				</div>
 				<div class="module five clear">

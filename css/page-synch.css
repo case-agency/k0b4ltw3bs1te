@@ -489,3 +489,50 @@ p.pages-synch-bot-right-body {
     height: 465px;
     background-color: #000;
 }
+
+@media only screen 
+and (max-width : 550px) {
+
+    #main-holder {
+        width: 94%;
+        padding: 3%;
+    }
+
+    #main-contents {
+        width: 100%;
+        padding-top: 40px;
+    }
+
+    .title_con h1 {
+        font-size: 40px;
+    }
+
+    #pages-synch-top-left-col, #pages-synch-bot-left-col, #pages-synch-big-col, #pages-synch-top-divide, p.pages-synch-recent-body, .pages-synch-top-header, .search_con {
+        width: 100%;
+    }
+
+    .pages-synch-top-header {
+        padding-top: 40px;
+    }
+
+    .scrollable, .pages-synch-recent-body {
+        width: 100%!important;
+    }
+
+    .search_con {
+        margin-top: 40px;
+    }
+
+    #pages-synch-top-video {
+        width: 100%;
+        height: auto;
+        background-color: #000;
+    }
+
+    #pages-synch-top-video #video_tag {
+        width: 100%!important;
+        height: 219px!important;
+
+    }
+
+}
