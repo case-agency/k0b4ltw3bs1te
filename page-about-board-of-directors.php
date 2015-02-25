@@ -112,7 +112,7 @@ include('includes/header.php'); ?>
   <br />Previous roles include developing major media rights platforms for Sky Digital, projects at Nat West and at the UK Ministry of Defense.</p>
 </div>
 <div class="bio-box" id="bio-johan-ekelund" style="display:none;">
-  <h3><span>Johan Ekelund</span><br />Co-Founder, Diesel Music &amp; Kobalt Music Group<br />Board Member, STIM</h3>
+  <h3><span>Johan Ekelund</span><br />Co-Founder, Diesel Music &amp; Kobalt Music Group</h3>
   <p>Bio coming soon.</p>
 </div>
 <div class="bio-box" id="bio-tim-bunting" style="display:none;">
