@@ -54,7 +54,8 @@ function requireToVar($file){
 </div>
 <div class="video-tout-bar service-container nbr white">
 	<div class="wrapper">
-		<h5 class="black fancybox brandVideo" href="#brandVideo"><span>Remember when music was simple?</span> Watch to learn more about the Kobalt solution. <span class="video-link">Play video</span></h5>
+		<h5 class="white fancybox brandVideo desktop" href="#brandVideo"><span>Remember when music was simple?</span> Watch to learn more about the Kobalt solution. <span class="video-link">Play video</span></h5>
+		<h5 class="white fancybox brandVideo mobile" href="#brandVideo"><span>Remember when music was simple?</span> Watch to learn more about the Kobalt solution. <span class="video-link">Play video</span></h5>
 	</div>
 </div>
 <div class="container black nbr01 waypoint" id="expert-personal-service">
@@ -118,7 +119,9 @@ function requireToVar($file){
 				<h4 class="mobile"><span>The Kobalt Portal</span><br />Powerful, transparent reporting</h4>
 				<h3 class="red">Every piece of info collected by Kobalt's advanced technology platform feeds into<br />the Kobalt Portal.</h3>
 			</div>
-			<img class="fancybox portalVideo" href="#portalVideo" src="img/portal_video_thumb.png" style="margin: 50px 0 30px;" />
+			<img class="fancybox portalVideo desktop" href="#portalVideo" src="img/portal_video_thumb.png" style="margin: 50px 0 30px;" />
+			<img class="fancybox portalVideo mobile" href="#portalVideo" src="img/portal_video_thumb.png" style="margin: 50px 0 30px;" />
+			<div class="module five clear">
 			<div class="module five clear">
 				<p>With Kobalt, you have access to all your data, at any time. Our industry-defining Kobalt Portal provides full transparency with real-time updates, powerful reporting, and user-friendly analysis tools that make it easy to review and understand complex Neighbouring Rights data and income.</p>
 			</div>
@@ -225,7 +228,7 @@ $videos = str_replace(PHP_EOL, "   ", $videos);
 $videos = str_replace("'", "\'", $videos);
 ?>
 
-		$( '.fancybox.brandVideo' ).fancybox({
+		$( '.fancybox.brandVideo.desktop' ).fancybox({
 	        afterShow   : function() {
 	           $('#brandVideo').html('<?= $videos?>');
 	        },
@@ -238,7 +241,7 @@ $videos=requireToVar('includes/portal_video.php');
 $videos = str_replace(PHP_EOL, "   ", $videos);
 $videos = str_replace("'", "\'", $videos);
 ?>
-		$( '.fancybox.portalVideo' ).fancybox({
+		$( '.fancybox.portalVideo.desktop' ).fancybox({
 	        afterShow   : function() {
 	           $('#portalVideo').html('<?= $videos?>');
 	        },
@@ -246,6 +249,24 @@ $videos = str_replace("'", "\'", $videos);
 	        	$('#portalVideo').html('');
 	        }
 		});
+
+ 	$( '.brandVideo.mobile' ).fancybox({
+        afterShow   : function() {
+           $('#brandVideo').html('<iframe src="https://www.youtube.com/embed/hhlQ74R8LUI" frameborder="0" allowfullscreen></iframe>');
+        },
+        afterClose	: function() {
+           $('#brandVideo').html('');
+       }
+	});
+
+	$( '.portalVideo.mobile' ).fancybox({
+        afterShow   : function() {
+           $('#portalVideo').html('<iframe src="https://www.youtube.com/embed/Qyu_cU_NYKg" frameborder="0" allowfullscreen></iframe>');
+        },
+        afterClose	: function() {
+        	$('#portalVideo').html('');
+        }
+	});
 	});
 </script>
 

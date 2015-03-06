@@ -45,7 +45,8 @@ if (count($json_array_billboard) < 6) {
 <?php include('includes/header.php'); ?>
 <div class="container slider black">
 	<div class="wrapper">
-		<a class="homepage-video-link" href="#brandVideo">Play Video</a>
+		<a class="homepage-video-link desktop" href="#brandVideo">Play Video</a>
+		<a class="homepage-video-link mobile" href="#brandVideo">Play Video</a>
 		<a class="homepage-portal-link" style="visibility:hidden; display: block; height: 0;" href="#portalVideo">Play Video</a>
 		<div class="module six">
 			<h1>It really is this simple</h1>
@@ -150,11 +151,11 @@ if (count($json_array_billboard) < 6) {
 						if ($newReleaseListCounter > 8) {
 							break;
 						}
-				?>
+		        ?>
 
-				   <li><a href="#"><img src="images/json/NewReleases/<?php echo $newRelease['release_image'] ?>" width=240 height=240 alt=""/></a></li>
+		           <li><a href="#"><img src="images/json/NewReleases/<?php echo $newRelease['release_image'] ?>" width=240 height=240 alt=""/></a></li>
 
-				<?php endforeach; ?>
+		        <?php endforeach; ?>
         	</div>
 		</ul>
 		<a class="red button mobile" href="page-news-key-releases.php">View more releases</a>
@@ -190,7 +191,12 @@ if (count($json_array_billboard) < 6) {
 			<h2>@KOBALT</h2>
 		</div>
 		<a class="button-right black twitter-button desktop" target="_new" href="http://www.twitter.com/kobalt"><span class="twitter-icon">Follow</span></a>
-		<?php echo loadTemplateFile(APP_DIR . '/includes/_twitter.php'); ?>
+		<!-- this twitter integration code was breaking thing — noted in my file delivery email on 2.20 -pb 2.20.15 -->
+		<?php // echo loadTemplateFile(APP_DIR . '/includes/_twitter.php'); ?>
+		<!-- the static code inserted here is only placeholder — when the twitter integration above is working, this should be removed -->
+		<div class="homepage-twitter full-width module">
+			<h3><span><a href="#">RT @themusicnetwork: - @kobalt expands film music repertoire with CEG purchase. http://t.co/ef0DlURL5q</a></span></h3>
+		</div>
 		<a class="button black twitter-button mobile" target="_new" href="http://www.twitter.com/kobalt"><span class="twitter-icon">Follow</span></a>
 	</div>
 </div>
@@ -229,18 +235,37 @@ $portalVideos = str_replace("'", "\'", $portalVideos);
 ?>
 
 $(' document ').ready( function() {
-	$( '.homepage-video-link' ).fancybox({
+
+ 	$( '.homepage-video-link.desktop' ).fancybox({
         afterShow   : function() {
            $('#brandVideo').html('<?= $brandVideos?>');
         },
         afterClose	: function() {
-        	$('#brandVideo').html('');
+           $('#brandVideo').html('');
+       }
+	});
+
+	$( '.homepage-portal-link.desktop' ).fancybox({
+        afterShow   : function() {
+           $('#portalVideo').html('<?= $portalVideos?>');
+        },
+        afterClose	: function() {
+        	$('#portalVideo').html('');
         }
 	});
 
-	$( '.homepage-portal-link' ).fancybox({
+ 	$( '.homepage-video-link.mobile' ).fancybox({
         afterShow   : function() {
-           $('#portalVideo').html('<?= $portalVideos?>');
+           $('#brandVideo').html('<iframe src="https://www.youtube.com/embed/hhlQ74R8LUI" frameborder="0" allowfullscreen></iframe>');
+        },
+        afterClose	: function() {
+           $('#brandVideo').html('');
+       }
+	});
+
+	$( '.homepage-portal-link.mobile' ).fancybox({
+        afterShow   : function() {
+           $('#portalVideo').html('<iframe src="https://www.youtube.com/embed/Qyu_cU_NYKg" frameborder="0" allowfullscreen></iframe>');
         },
         afterClose	: function() {
         	$('#portalVideo').html('');
@@ -273,7 +298,7 @@ $(' document ').ready( function() {
 		prevSelector: '.control-prev',
 		auto: true,
 		pause: 3500,
-		speed: 500
+		speed: 500,
 	});
 
 	$('.hp-controls .wrapper').mouseenter(function() {

@@ -103,7 +103,7 @@ include('includes/header.php'); ?>
   <h3><span>James Fitzherbert-Brockholes</span><br />Chief Financial Officer</h3>
   <p>Joined Kobalt in 2001.
   <br /><?= getYearsExperienceSince(2000)?> of music publishing experience.
-  <br />Formerly Consultant with L.E.K Consulting, focusing on M&amp; strategy and corporate strategy. MA from Cambridge University.</p>
+  <br />Formerly Consultant with L.E.K Consulting, focusing on M&amp;A strategy and corporate strategy. MA from Cambridge University.</p>
 </div>
 <div class="bio-box" id="bio-richard-thompson" style="display:none;">
   <h3><span>Richard Thompson</span><br />Chief Technical Officer</h3>
