@@ -106,7 +106,7 @@
     height: 1px;
     margin-bottom: 35px;
     margin-left: 0;
-    margin-top: 35px;
+    margin-top: 15px;
     position: relative;
     width: 960px;
     background: url(../images/background/divider.png)
@@ -308,7 +308,7 @@ p.pages-synch-recent-body {
     font-size: 12px;
     line-height: 1.5;
     width: 645px;
-    margin: 25px 0;
+    margin: 15px 0 05px 0;
     height: 35px;
 }
 
@@ -413,7 +413,7 @@ p.pages-synch-bot-right-body {
     font-family: helvetica, sans-serif;
     display: block;
     font-size: 13px;
-    margin: 0 0 2px 12px;
+    margin: 15px 0 2px 12px;
     float: left;
     width: 135px;
 }

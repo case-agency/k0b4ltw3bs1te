@@ -281,9 +281,7 @@ $playListComposers = decodeFeed(file_get_contents(DATA_PLAYLIST_COMPOSERS));
             ?>
             <div class="pages-synch-brick">
             	<img alt="" src="<?php echo $playList['playlist_thumbnail_image_url'] ?>">
-                <strong><a
-                    href="<?php echo $playList['playlist_url'] ?>"><?php echo $playList['playlist_description'] ?></a></strong>
-                <em><?php echo $playList['playlist_composer_name'] ?></em>
+                <strong><?php echo $playList['playlist_composer_name'] ?></strong>
             </div>
             <?php if ($playListStaffCounter % 4 == 0): ?>
             <div class="clear"></div>
