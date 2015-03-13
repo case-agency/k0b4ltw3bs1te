@@ -1,24 +1,24 @@
-<h3 class="scroller">More Recent Placements</h3>
+<h3 class="scroller"><br /></h3>
 
 <div class="video_scroller">
-  <!-- "previous page" action -->
-  <a href="javascript:void(0)" class="prev browse left">
-    <img src="images/arrow-scroller-left.png" alt="left"/>
-  </a>
 
   <!-- root element for scrollable -->
-  <div class="scrollable" id="scrollable">
+  <!-- div class="scrollable" id="scrollable" -->
 
     <!-- root element for the items -->
     <div class="items">
 
       <?php
       $totalVideo = count($videoList);
-      $numPerRow = 4;
+      if($totalVideo > 18) {
+          $totalVideo = 18;
+      }
+      $numPerRow = 3;
       for ($i = 0; $i < $totalVideo; $i = $i + $numPerRow):
         ?>
         <!-- 1-5 -->
-        <div>
+
+        <div class="row">
           <?php
           for ($j = $i; $j < $i + $numPerRow && $j < $totalVideo; $j++):
             $video = $videoList[$j];
@@ -32,12 +32,6 @@
 
   </div>
 
-  <!-- "next page" action -->
-  <a href="javascript:void(0)" class="next browse right">
-    <img src="images/arrow-scroller-right.png" alt="right"/>
-  </a>
-</div>
-
 
 <script type="text/javascript">
   /*<![CDATA[*/
@@ -46,7 +40,7 @@
     // initialize scrollable
     $('.scrollable').scrollable();
 
-    $('.scrollable .items img').click(function(){
+    $('.items .row img').click(function(){
       var index = $(this).attr('rel');
       playVideo(index, false);
 

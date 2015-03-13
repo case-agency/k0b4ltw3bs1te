@@ -1,3 +1,172 @@
 [
-
+{
+"sequence":"1",
+"release_id":"WNR1521",
+"release_title":"Bang Bang",
+"release_artist_name":"Jessie J feat. Ariana Grande &amp; Nicki Minaj",
+"release_date":"21/9/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Jessie J feat-:46:- Ariana Grande -:38:- Nicki Minaj/control/Anywhere",
+"release_type":"Single",
+"release_image":"/images/IMGV93241.jpg"
+},
+{
+"sequence":"2",
+"release_id":"WNR1545",
+"release_title":"Thank You",
+"release_artist_name":"MKTO",
+"release_date":"05/10/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/MKTO/control/Anywhere",
+"release_type":"Single",
+"release_image":"/images/IMGV97109.jpg"
+},
+{
+"sequence":"3",
+"release_id":"WNR1553",
+"release_title":"Tyranny",
+"release_artist_name":"Julian Casablancas+The Voidz",
+"release_date":"13/10/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Julian Casablancas+The Voidz/control/Anywhere",
+"release_type":"Album",
+"release_image":"/images/IMGV97104.jpg"
+},
+{
+"sequence":"4",
+"release_id":"WNR1552",
+"release_title":"Commune",
+"release_artist_name":"Goat",
+"release_date":"22/9/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/G/artist/Goat/control/Anywhere",
+"release_type":"Album",
+"release_image":"/images/IMGV97033.jpg"
+},
+{
+"sequence":"5",
+"release_id":"WNR1509",
+"release_title":"Strut",
+"release_artist_name":"Lenny Kravitz",
+"release_date":"22/9/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/L/artist/Lenny Kravitz/control/Anywhere",
+"release_type":"Album",
+"release_image":"/images/IMGV89910.jpg"
+},
+{
+"sequence":"6",
+"release_id":"WNR1547",
+"release_title":"Bo$$",
+"release_artist_name":"Fifth Harmony",
+"release_date":"19/10/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/F/artist/Fifth Harmony/control/Anywhere",
+"release_type":"Single",
+"release_image":"/images/IMGV97107.jpg"
+},
+{
+"sequence":"7",
+"release_id":"WNR1554",
+"release_title":"The Way",
+"release_artist_name":"Macy Gray",
+"release_date":"06/10/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/M/artist/Macy Gray/control/Anywhere",
+"release_type":"Album",
+"release_image":"/images/IMGV97105.jpg"
+},
+{
+"sequence":"8",
+"release_id":"WNR1505",
+"release_title":"Black Widow",
+"release_artist_name":"Iggy Azalea feat. Rita Ora",
+"release_date":"14/9/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/I/artist/Iggy Azalea feat-:46:- Rita Ora/control/Anywhere",
+"release_type":"Album",
+"release_image":"/images/IMGV89907.jpg"
+},
+{
+"sequence":"9",
+"release_id":"WNR1549",
+"release_title":"The Violet Flame",
+"release_artist_name":"Erasure",
+"release_date":"22/9/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/E/artist/Erasure/control/Anywhere",
+"release_type":"Album",
+"release_image":"/images/IMGV97030.jpg"
+},
+{
+"sequence":"10",
+"release_id":"WNR1550",
+"release_title":"No Sound Without Silence",
+"release_artist_name":"The Script",
+"release_date":"15/9/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/T/artist/The Script/control/Anywhere",
+"release_type":"Album",
+"release_image":"/images/IMGV97031.jpg"
+},
+{
+"sequence":"11",
+"release_id":"WNR1548",
+"release_title":"This Is All Yours",
+"release_artist_name":"Alt-J",
+"release_date":"22/9/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/A/artist/Alt-J/control/Anywhere",
+"release_type":"Album",
+"release_image":"/images/IMGV97029.jpg"
+},
+{
+"sequence":"12",
+"release_id":"WNR1507",
+"release_title":"Unmissable",
+"release_artist_name":"Gorgon City feat. Zak Abel",
+"release_date":"28/9/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/G/artist/Gorgon City feat-:46:- Zak Abel/control/Anywhere",
+"release_type":"Single",
+"release_image":"/images/IMGV89908.jpg"
+},
+{
+"sequence":"13",
+"release_id":"WNR1524",
+"release_title":"Blame",
+"release_artist_name":"Calvin Harris feat. John Newman",
+"release_date":"19/10/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/C/artist/Calvin Harris feat-:46:- John Newman/control/Anywhere",
+"release_type":"Single",
+"release_image":"/images/IMGV97103.jpg"
+},
+{
+"sequence":"14",
+"release_id":"WNR1543",
+"release_title":"Say You Love Me",
+"release_artist_name":"Jessie Ware",
+"release_date":"28/9/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/J/artist/Jessie Ware/control/Anywhere",
+"release_type":"Single",
+"release_image":"/images/IMGV97024.jpg"
+},
+{
+"sequence":"15",
+"release_id":"WNR1551",
+"release_title":"24 Karat Gold - Songs From The Vault",
+"release_artist_name":"Stevie Nicks",
+"release_date":"06/10/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/S/artist/Stevie Nicks/control/Anywhere",
+"release_type":"Album",
+"release_image":"/images/IMGV97114.jpg"
+},
+{
+"sequence":"16",
+"release_id":"WNR1544",
+"release_title":"English Kids In America",
+"release_artist_name":"Lower Than Atlantis",
+"release_date":"29/9/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/L/artist/Lower Than Atlantis/control/Anywhere",
+"release_type":"Single",
+"release_image":"/images/IMGV97111.jpg"
+},
+{
+"sequence":"17",
+"release_id":"WNR1546",
+"release_title":"Wait On Me",
+"release_artist_name":"Rixton",
+"release_date":"12/10/2014",
+"release_website_url":"https://synch.kobaltmusic.com/#!/browse/R/artist/Rixton/control/Anywhere",
+"release_type":"Single",
+"release_image":"/images/IMGV97116.jpg"
+}
 ]

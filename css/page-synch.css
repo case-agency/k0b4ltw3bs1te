@@ -191,7 +191,7 @@
 }
 
 .pages-synch-album-container {
-    clear: both;
+    #clear: both;
     float: left;
     padding-bottom: 19px;
     width: 290px
@@ -213,6 +213,7 @@
 .pages-synch-album-text-hold {
     float: left;
     margin-left: 16px;
+    padding-top: 10px;
     height: 75px
 }
 

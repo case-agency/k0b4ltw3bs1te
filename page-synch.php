@@ -4,7 +4,7 @@ $videoList = decodeFeed(file_get_contents(DATA_RECENT_SYNCH_VIDEOS));
 $videoFeed = getVideoFeed();
 
 
-$newReleaseListBoth = splitRecentReleases(DATA_SYNC_NEW_RELEASES);
+$newReleaseListBoth = splitRecentReleases(DATA_NEW_RELEASES);
 $newReleaseList = $newReleaseListBoth['recentList'];
 usort($newReleaseList, 'sortReleaseByDate');
 
@@ -90,40 +90,9 @@ $playListComposers = decodeFeed(file_get_contents(DATA_PLAYLIST_COMPOSERS));
 
 <div class="title_con">
     <h1>KOBALT<br />SYNCH</h1>
-
-    <div class="search_con">
-        <form action="https://synch.kobaltmusic.com/#!/adv-search/searchTerm/" method="get"
-              onsubmit="doSearch(this); return false;">
-            <input type="image" class="search_button" src="images/pages/synch/btn_search.png" alt="Search"
-                   title="Search Kobalt"/>
-            <input type="text" name="keyword" class="search_field defaultText" value=""
-                   title="Title, Artist, Writer, Album..."/>
-
-
-
-            <div class="search_options">
-                <?php /*
-                <label>Show Easy to Clear Only <input class="radio" type="radio"
-                                                      name="search_type"/></label>
-                &nbsp;&nbsp;&nbsp;
-                <label>One Stop Only<input type="radio" class="radio" name="search_type"/></label>
-
-                &nbsp;&nbsp;&nbsp;
-                <input type="submit" value="Search"/>*/?>
-            </div>
-
-
-        </form>
-        <?php /*
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            Advanced Search
- */ ?>
-
-
-    </div>
-
 </div>
 
+    <div style="float:left">
 <div id="pages-synch-top-header-search">
 
     <div class="pages-synch-recent-body"
@@ -132,9 +101,7 @@ $playListComposers = decodeFeed(file_get_contents(DATA_PLAYLIST_COMPOSERS));
         <div class="pages-synch-top-header">RECENT PLACEMENTS</div>
     </div>
 
-
 </div>
-
 
 <div id="pages-synch-top-left-col">
     <div id="pages-synch-top-video">
@@ -150,9 +117,11 @@ $playListComposers = decodeFeed(file_get_contents(DATA_PLAYLIST_COMPOSERS));
 
 
     <?php
+    /*
     echo loadTemplateFile('includes/scrollable.php', array(
         'videoList' => $videoList
     ))
+    */
     ?>
 </div>
 
@@ -209,19 +178,26 @@ $playListComposers = decodeFeed(file_get_contents(DATA_PLAYLIST_COMPOSERS));
     });
 
 </script>
-
+</div>
 
 <div id="pages-synch-top-right-col">
+<?php
+    echo loadTemplateFile('includes/scrollable.php', array(
+    'videoList' => $videoList
+    ))
+?>
+</div>
 
-    <div id="pages-synch-top-new-releases">
+<div class="clear"></div>
 
+<div id="pages-synch-top-divide"></div>
+
+
+<div id="pages-synch-bot-left-col">
+    <div id="pages-synch-bot-staff-picks">
         <div id="pages-synch-releases-top">
-            <div class="pages-synch-releases-top-header">NEW RELEASES</div>
-            <div class="pages-synch-releases-top-viewall"><a href="page-news-key-releases.php">VIEW MORE</a>
-
-
-            </div>
-            <div id="pages-synch-releases-divide"></div>
+            <div class="pages-synch-releases-bot-header">NEW RELEASES</div>
+            <div id="pages-synch-bot-left-divide"></div>
         </div>
 
         <?php
@@ -252,77 +228,7 @@ $playListComposers = decodeFeed(file_get_contents(DATA_PLAYLIST_COMPOSERS));
                         <?php echo  formateKobaltDate($newRelease['release_date']) ?></div>
                 </div>
             </div>
-            <?php endforeach ?>
-
-
-        <div class="clear"></div>
-    </div>
-
-    <div id="pages-synch-top-featured-playlists">
-        <div id="pages-synch-releases-top">
-            <div class="pages-synch-releases-featured-top-header">FEATURED PLAYLISTS</div>
-            <div class="pages-synch-releases-top-viewall"><a href="https://synch.kobaltmusic.com/#!/playlists">VIEW
-                MORE</a>
-
-
-            </div>
-            <div id="pages-synch-releases-divide"></div>
-        </div>
-
-
-
-        <?php
-        $playListFeaturedCounter = 0;
-        foreach ($playListFeatured as $playList):
-            $playListFeaturedCounter++;
-            ?>
-            <div class="pages-synch-featured-playlists-hold">
-                <div class="pages-synch-featured-playlists-header"><a
-                    href="<?php echo $playList['playlist_url'] ?>"><strong><?php echo $playList['playlist_title'] ?></strong></a>
-                </div>
-
-                <div
-                    class="pages-synch-featured-playlists-tagline"><?php echo $playList['playlist_description'] ?></div>
-            </div>
-
-            <?php if ($playListFeaturedCounter % 2 == 0): ?>
-            <div class="clear"></div>
-            <?php endif ?>
-            <?php endforeach ?>
-
-
-        <div class="clear"></div>
-    </div>
-</div>
-
-<div class="clear"></div>
-
-<div id="pages-synch-top-divide"></div>
-
-
-<div id="pages-synch-bot-left-col">
-    <div id="pages-synch-bot-staff-picks">
-        <div id="pages-synch-releases-top">
-            <div class="pages-synch-releases-bot-header">STAFF PLAYLIST PICKS</div>
-            <div id="pages-synch-bot-left-divide"></div>
-        </div>
-
-        <?php
-        $playListStaffCounter = 0;
-        foreach ($playListStaff as $playList):
-            $playListStaffCounter++;
-            ?>
-            <div class="pages-synch-brick">
-                <img alt="" src="<?php echo $playList['playlist_thumbnail_image_url'] ?>">
-                <strong><a
-                    href="<?php echo $playList['playlist_url'] ?>"><?php echo $playList['playlist_title'] ?></a></strong>
-                <em><?php echo $playList['playlist_staff_name'] ?></em>
-
-            </div>
-            <?php if ($playListStaffCounter % 3 == 0): ?>
-            <div class="clear"></div>
-            <?php endif ?>
-            <?php endforeach; ?>
+        <?php endforeach ?>
 
         <div class="clear"></div>
     </div>

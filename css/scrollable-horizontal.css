@@ -8,7 +8,7 @@
   /* required settings */
   position:relative;
   overflow:hidden;
-  width: 585px;
+  width: 100%;
   height:83px;
 
 }
@@ -26,17 +26,17 @@
   clear:both;
 }
 
-.items div {
+.items .row {
   float:left;
   width:590px;
 }
 
 /* single scrollable item */
-.scrollable img {
+.items img {
   float:left;
-  margin: 0 23px 0 0;
+  margin: 0 0px 0 0;
   background-color:#fff;
-  padding:3px;
+  padding:0px;
   border:1px solid #ccc;
 
   -moz-border-radius:4px;
@@ -63,7 +63,7 @@
   margin:0 auto; 
   height: 83px;
   position: relative;
-  padding: 0 0 0 25px;
+  padding: 0 0 0 0px;
 }
 
 
@@ -90,7 +90,7 @@ h3.scroller{
   color: #484848;
   font-family: BebasNeue,verdana,helvetica,sans-serif;
   font-size: 20px;
-  margin: 59px 0 32px 0;
+  margin: 53px 0 15px 0;
   font-weight: normal;
   text-transform: uppercase;
 }
