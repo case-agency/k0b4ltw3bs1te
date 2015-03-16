@@ -153,7 +153,7 @@ if (count($json_array_billboard) < 6) {
 						}
 		        ?>
 
-		           <li><a href="#"><img src="images/json/NewReleases/<?php echo $newRelease['release_image'] ?>" width=240 height=240 alt=""/></a></li>
+		           <li><img src="images/json/NewReleases/<?php echo $newRelease['release_image'] ?>" width=240 height=240 alt=""/></li>
 
 		        <?php endforeach; ?>
         	</div>
@@ -177,7 +177,7 @@ if (count($json_array_billboard) < 6) {
 			$billboard_title = $json_array_billboard[$currentRecord]['entry_title'];
 			$billboard_artist = $json_array_billboard[$currentRecord]['entry_artist'];
 	?>
-				<li><a href="<?= $billboard_uri?>"><span>#<?= $billboard_rank?></span><span><?= $billboard_title?></span><br/><?= $billboard_artist?></a></li>
+				<li><span class="chartItem"><span>#<?= $billboard_rank?></span><span><?= $billboard_title?></span><br/><?= $billboard_artist?></span></li>
     <?php } ?>
     		</div>
 			</ul>
@@ -191,11 +191,7 @@ if (count($json_array_billboard) < 6) {
 			<h2>@KOBALT</h2>
 		</div>
 		<a class="button-right black twitter-button desktop" target="_new" href="http://www.twitter.com/kobalt"><span class="twitter-icon">Follow</span></a>
-		<!-- this twitter integration code was breaking thing — noted in my file delivery email on 2.20 -pb 2.20.15 -->
-		<?php // echo loadTemplateFile(APP_DIR . '/includes/_twitter.php'); ?>
-		<!-- the static code inserted here is only placeholder — when the twitter integration above is working, this should be removed -->
-		<div class="homepage-twitter full-width module">
-			<h3><span><a href="#">RT @themusicnetwork: - @kobalt expands film music repertoire with CEG purchase. http://t.co/ef0DlURL5q</a></span></h3>
+		<?php  echo loadTemplateFile(APP_DIR . '/includes/_twitter.php'); ?>
 		</div>
 		<a class="button black twitter-button mobile" target="_new" href="http://www.twitter.com/kobalt"><span class="twitter-icon">Follow</span></a>
 	</div>

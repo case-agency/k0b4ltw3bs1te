@@ -1670,20 +1670,36 @@ margin-left:0;
 }
 
 #chartGrid li a {
-display:block;
-float:left;
-width:153px;
-height:153px;
-padding:15px;
-text-decoration:none;
-background:url(../img/chart-grid-rollover.png) no-repeat 50% 179px #000;
-color:#fff;
-line-height:1.2;
-cursor:pointer;
-transition:background-position .4s;
--webkit-transition:background-position .4s;
--moz-transition:background-position .4s;
--o-transition:background-position .4s;
+    display:block;
+    float:left;
+    width:153px;
+    height:153px;
+    padding:15px;
+    text-decoration:none;
+    background:url(../img/chart-grid-rollover.png) no-repeat 50% 179px #000;
+    color:#fff;
+    line-height:1.2;
+    cursor:pointer;
+    transition:background-position .4s;
+    -webkit-transition:background-position .4s;
+    -moz-transition:background-position .4s;
+    -o-transition:background-position .4s;
+}
+
+#chartGrid li span.chartItem {
+    display:block;
+    float:left;
+    width:153px;
+    height:153px;
+    padding:15px;
+    text-decoration:none;
+    background:url(../img/chart-grid-rollover.png) no-repeat 50% 179px #000;
+    color:#fff;
+    line-height:1.2;
+    transition:background-position .4s;
+    -webkit-transition:background-position .4s;
+    -moz-transition:background-position .4s;
+    -o-transition:background-position .4s;
 }
 
 #chartGrid li a:hover {
@@ -1695,14 +1711,25 @@ transition:background-position .6s;
 }
 
 #chartGrid li a span {
-font-weight:700;
-letter-spacing:.3px;
+    font-weight:700;
+    letter-spacing:.3px;
+}
+
+#chartGrid li span.chartItem span {
+    font-weight:700;
+    letter-spacing:.3px;
+}
+
+#chartGrid li span.chartItem span:first-child {
+    display:block;
+    width:100%;
+    padding-bottom:15px;
 }
 
 #chartGrid li a span:first-child {
-display:block;
-width:100%;
-padding-bottom:15px;
+    display:block;
+    width:100%;
+    padding-bottom:15px;
 }
 
 .homepage-twitter {

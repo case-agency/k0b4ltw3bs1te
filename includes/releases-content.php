@@ -6,7 +6,7 @@ $newsListSpl = splitRecentReleases();
 $newsList = $newsListSpl['upcomingList'];
 $newsList = array_merge($newsList, $newsListSpl['recentList']);
 
-        $future = true;
+        $future = false;
         $headline = "Recent Releases";
         /*
 switch ($release) {
@@ -34,7 +34,7 @@ $newsCounter= 0;
 
     <?php
         $newsCounter++;
-        if($newsCounter <= 9) {
+        if($newsCounter <= 18) {
     ?>
 
     <div class="releaseBlock">

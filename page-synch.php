@@ -244,22 +244,13 @@ $playListComposers = decodeFeed(file_get_contents(DATA_PLAYLIST_COMPOSERS));
     <div id="pages-synch-bot-right-divide"></div>
 
     <p class="pages-synch-bot-right-body">
-        Kobalt has 40 global synch staff, agents & sub-publishers pitching and licensing songs for high-profile uses in
+        Kobalt has 45  global synch staff, agents & sub-publishers pitching and licensing songs for high-profile uses in
         advertising, film, TV, games and other mediums. The extensive team works across borders to find the right
         partners for your music and to maximize your synch income. With Kobalt's online portal, clients can view real
         time updates on synch requests for works and follow the licensing process from the initial quote to payment and
         completion of the synch.
     </p>
 
-
-
-    <?php /*
-    <div class="pages-synch-releases-right-header-2">LICENSING REQUEST</div>
-
-    <p class="pages-synch-bot-right-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
-        pulvinar, erat sit amet bibendum sagittis, quam tortor posuere felis, sed congue nisi sem vehicula
-        tellus. Vestibulum ante ipsum primis in faucibus orci luctus.</p>
-*/?>
 
     <div id="pages-synch-bot-request">
         <a href="page-licensing-requests.php" class="pages-synch-make-a-request">MAKE A LICENSING REQUEST</a>
