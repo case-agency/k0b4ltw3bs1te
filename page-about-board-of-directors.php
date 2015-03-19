@@ -69,8 +69,8 @@ include('includes/header.php'); ?>
           <a class="bio-link" href="#bio-tim-bunting">Read bio</a>
         </div>
         <div class="gm-bio">
-          <img src="img/phase2/board-cairo.jpg" alt="David Cairo" />
-          <p><span>David Caro</span><br />MSD Capital, L.P</p>
+            <img src="img/phase2/board-cairo.jpg" alt="David Cairo" />
+            <p><span>David Cairo</span><br />MSD Capital, L.P</p>
         </div>
         <div class="gm-bio">
           <img src="img/phase2/board-anders.jpg" alt="Anders Palm" />

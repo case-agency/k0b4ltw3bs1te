@@ -36,8 +36,10 @@
 				<p class="black">And we're fortunate to work with some of the world's greatest artists and songwriters, representing on average over 40% of the top 100 songs and albums in both the US and UK.</p>
 			</div>
 			<div class="module aboutVideos">
-				<a class="brandThumb" href="#brandVideo"><img src="img/phase2/about_thumbnail_brandVideo.jpg" /><p class="red"><span>Remember when music was simple?<br /></span>Watch to learn more about the Kobalt solution.</p><h6 class="red">Play video</h6></a>
-				<a class="portalThumb" href="#portalVideo"><img src="img/phase2/about_thumbnail_portalVideo.jpg" /><p class="red"><span>The new Kobalt Portal.</span><br />Real time data.<br />Total transparency.</p><h6 class="red">Play video</h6></a>
+				<a class="brandThumb desktop" href="#brandVideo"><img src="img/phase2/about_thumbnail_brandVideo.jpg" /><p class="red"><span>Remember when music was simple?<br /></span>Watch to learn more about the Kobalt solution.</p><h6 class="red">Play video</h6></a>
+				<a class="brandThumb mobile" href="#brandVideo"><img src="img/phase2/about_thumbnail_brandVideo.jpg" /><p class="red"><span>Remember when music was simple?<br /></span>Watch to learn more about the Kobalt solution.</p><h6 class="red">Play video</h6></a>
+				<a class="portalThumb desktop" href="#portalVideo"><img src="img/phase2/about_thumbnail_portalVideo.jpg" /><p class="red"><span>The new Kobalt Portal.</span><br />Real time data.<br />Total transparency.</p><h6 class="red">Play video</h6></a>
+				<a class="portalThumb mobile" href="#portalVideo"><img src="img/phase2/about_thumbnail_portalVideo.jpg" /><p class="red"><span>The new Kobalt Portal.</span><br />Real time data.<br />Total transparency.</p><h6 class="red">Play video</h6></a>
 			</div>
 	</div>
 </div>
@@ -125,7 +127,7 @@ $portalVideos = str_replace("'", "\'", $portalVideos);
 
 	$(' document ').ready( function() {
 
-	$( '.brandThumb' ).fancybox({
+	$( '.brandThumb.desktop' ).fancybox({
         afterShow   : function() {
            $('#brandVideo').html('<?= $brandVideos?>');
         },
@@ -134,9 +136,27 @@ $portalVideos = str_replace("'", "\'", $portalVideos);
         }
 	});
 
-	$( '.portalThumb' ).fancybox({
+	$( '.portalThumb.desktop' ).fancybox({
         afterShow   : function() {
            $('#portalVideo').html('<?= $portalVideos?>');
+        },
+        afterClose	: function() {
+        	$('#portalVideo').html('');
+        }
+	});
+
+	$( '.brandThumb.mobile' ).fancybox({
+        afterShow   : function() {
+           $('#brandVideo').html('<iframe src="https://www.youtube.com/embed/hhlQ74R8LUI" frameborder="0" allowfullscreen></iframe>');
+        },
+        afterClose	: function() {
+        	$('#brandVideo').html('');
+        }
+	});
+
+	$( '.portalThumb.mobile' ).fancybox({
+        afterShow   : function() {
+           $('#portalVideo').html('<iframe src="https://www.youtube.com/embed/Qyu_cU_NYKg" frameborder="0" allowfullscreen></iframe>');
         },
         afterClose	: function() {
         	$('#portalVideo').html('');

@@ -167,7 +167,7 @@ $isGoogleCrawling = isGoogleCrawling();
 
   <div class="map_wrapper">
     <div id="pages-contact-map-all">
-      <div id="map" class="desktop">
+      <div id="map">
         <div id="pages-contact-map-canvas"><p>test</p></div>
       </div>
     </div>

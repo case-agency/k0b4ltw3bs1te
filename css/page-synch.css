@@ -191,7 +191,7 @@
 }
 
 .pages-synch-album-container {
-    #clear: both;
+    clear: both;
     float: left;
     padding-bottom: 19px;
     width: 290px
@@ -308,7 +308,7 @@ p.pages-synch-recent-body {
     font-size: 12px;
     line-height: 1.5;
     width: 645px;
-    margin: 15px 0 05px 0;
+    margin: 15px 0 5px 0;
     height: 35px;
 }
 
@@ -393,9 +393,9 @@ p.pages-synch-bot-right-body {
 }
 
 #pages-synch-big-col .pages-synch-brick {
-	float: left;
-	width: 217px;
-    	margin: 0 10px 25px 0;
+    float: left;
+    width: 217px;
+    margin: 0 10px 25px 0;
 }
 
 /*CHANGED: ADDED A float: left, margin-left: 12px*/
@@ -491,8 +491,8 @@ p.pages-synch-bot-right-body {
     background-color: #000;
 }
 
-@media only screen 
-and (max-width : 550px) {
+@media only screen
+and (max-width : 990px) {
 
     #main-holder {
         width: 94%;
@@ -525,8 +525,8 @@ and (max-width : 550px) {
     }
 
     #pages-synch-top-video {
-        width: 100%;
-        height: auto;
+        /*width: 100%;*/
+        /*height: auto;*/
         background-color: #000;
     }
 
@@ -534,6 +534,14 @@ and (max-width : 550px) {
         width: 100%!important;
         height: 219px!important;
 
+    }
+
+    #pages-synch-top-right-col, #pages-synch-bot-right-col {
+        width: 305px;
+        margin: 0 auto;
+        overflow: auto;
+        padding-top: 25px;
+        float: none;
     }
 
 }

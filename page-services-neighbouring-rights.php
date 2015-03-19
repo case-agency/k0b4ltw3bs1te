@@ -122,7 +122,6 @@ function requireToVar($file){
 			<img class="fancybox portalVideo desktop" href="#portalVideo" src="img/portal_video_thumb.png" style="margin: 50px 0 30px;" />
 			<img class="fancybox portalVideo mobile" href="#portalVideo" src="img/portal_video_thumb.png" style="margin: 50px 0 30px;" />
 			<div class="module five clear">
-			<div class="module five clear">
 				<p>With Kobalt, you have access to all your data, at any time. Our industry-defining Kobalt Portal provides full transparency with real-time updates, powerful reporting, and user-friendly analysis tools that make it easy to review and understand complex Neighbouring Rights data and income.</p>
 			</div>
 			<div class="clear portal-cat-nbr module">

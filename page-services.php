@@ -7,7 +7,7 @@ include("includes/data.php");
 <html>
 <head>
 <title><?php echo formatPageTitle('Services') ?></title>
-
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <?php include('includes/css.php'); ?>
 <link rel="stylesheet" type="text/css" href="css/cookiecuttr.css" />
 <link rel="stylesheet" type="text/css" href="js/fancybox/source/jquery.fancybox.css" />
@@ -21,12 +21,12 @@ include("includes/data.php");
 <div class="services-container white services-landing-quote desktop"></div>
 <div class="container white">
 	<div class="wrapper">
-		<h1 class="mobile">SERVICES</h1>
+		<h1 class="mobile services">SERVICES</h1>
 		<div class="module three">
 			<h3 class="homepage">Kobalt<br />Music Publishing</h3>
 			<p>Kobalt Music Publishing is the largest independent music publisher in the world. Using our proprietary technology platform, we provide unparalleled transparency with seamless online copyright administration, royalty tracking, and digital collections.</p>
 			<a class="button red mobile" href="page-services-music-publishing.php">Learn More</a>
-			<a class="button black mobile" href="media/pdf/KobaltMusic_Music-Publishing.pdf">Download PDF</a>
+			<a class="button black mobile" href="media/pdf/KobaltMusic_Music-Publishing.pdf">Download PDF</a>			
 		</div>
 		<div class="module one clear-col"></div>
 		<div class="module three">

@@ -1,4 +1,7 @@
 <footer>
+	<div class="wrapper mobile back-to-top">
+		<a href="#">Back to Top &uarr;</a>
+	</div>
 	<div id="social-bar">
 		<div class="wrapper">
 			<div class="social-left">

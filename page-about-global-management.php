@@ -92,7 +92,7 @@ include('includes/header.php'); ?>
         </div>
         <div class="gm-bio">
           <img src="img/phase2/quinn.jpg" alt="Diarmand Quinn" />
-          <p><span>Diarmuid Quinn</span><br />President North America, KLS</p>
+          <p><span>Diarmand Quinn</span><br />President North America, KLS</p>
           <a class="bio-link" href="#bio-diarmand-quinn">Read bio</a>
         </div>
         <div class="gm-bio">
@@ -169,7 +169,7 @@ include('includes/header.php'); ?>
   <br />Formerly European Managing Director at IODA. Held key positions at Rough Trade Distribution, RTM Sales and Marketing and Play It Again Sam (PIAS) Recordings.</p>
 </div>
 <div class="bio-box" id="bio-diarmand-quinn" style="display:none;">
-  <h3><span>Diarmuid Quinn</span><br />President North America, KLS</h3>
+  <h3><span>Diarmand Quinn</span><br />President North America, KLS</h3>
   <p>Bio coming soon.</p>
 </div>
 <div class="bio-box" id="bio-hans-van-berkel" style="display:none;">

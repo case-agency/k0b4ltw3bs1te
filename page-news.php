@@ -34,7 +34,7 @@ $json_array_billboard = decodeFeed($json_string_billboard);
 if (count($json_array_billboard) < 6) {
   $BillboardMax = count($json_array_billboard);
 } else {
-  $BillboardMax = 6;
+  $BillboardMax = 5;
 }
 
 
@@ -107,41 +107,42 @@ include('includes/header.php'); ?>
         </div>
     </div>
 </div>
-<div class="wrapper" id="press-releases">
+<div class="container white">
+  <div class="wrapper" id="press-releases">
 
-  <a href="#"><h2>In The News</h2></a>
-  <a class="red button-right" href="page-news-press-releases.php">See all</a>
+    <a href="#"><h2>In The News</h2></a>
+    <a class="red button-right desktop" href="page-news-press-releases.php">See all</a>
 
-  <?php
-    $pressReleaseListCounter = 0;
-    foreach ($pressReleaseList as $news):
+    <?php
+      $pressReleaseListCounter = 0;
+      foreach ($pressReleaseList as $news):
 
-    if ($pressReleaseListCounter >= 4 ) {
-      break;
-    }
+      if ($pressReleaseListCounter >= 4 ) {
+        break;
+      }
 
-    $pressReleaseListCounter++;
-  ?>
+      $pressReleaseListCounter++;
+    ?>
+    <div class="news-block">
+      <a href="page-news-detail.php?id=<?php echo $news['entry_id']; ?>">
+      <?php if (strlen($news['entry_thumbnail_img']) > 0): ?>
+        <img src="images/json/News/<?php echo $news['entry_thumbnail_img'] ?>" alt="thumbnail" />
+      <?php else: ?>
+        <img src="images/pages/news/pages-news-archive-image.png" alt="thumbnail" />
+      <?php endif ?>
+      </a>
+      <p><span><?php echo $news['entry_headline']; ?></span><br /><?php echo truncateText($news['entry_abstract'], 20); ?></p>
+      <a href="page-news-detail.php?id=<?php echo $news['entry_id']; ?>">read more</a>
+    </div>
 
-  <div class="news-block">
-    <a href="page-news-detail.php?id=<?php echo $news['entry_id']; ?>">
-    <?php if (strlen($news['entry_thumbnail_img']) > 0): ?>
-      <img src="images/json/News/<?php echo $news['entry_thumbnail_img'] ?>" alt="thumbnail" />
-    <?php else: ?>
-      <img src="images/pages/news/pages-news-archive-image.png" alt="thumbnail" />
-    <?php endif ?>
-    </a>
-    <p><span><?php echo $news['entry_headline']; ?></span><br /><?php echo truncateText($news['entry_abstract'], 20); ?></p>
-    <a href="page-news-detail.php?id=<?php echo $news['entry_id']; ?>">read more</a>
+    <?php endforeach; ?>
+    <a class="red button mobile" href="page-news-press-releases.php">See More</a>
   </div>
-
-  <?php endforeach; ?>
-
 </div>
 <div class="container black">
   <div class="wrapper" id="key-releases">
   <a  class="white" href="#"><h2>Key Releases</h2></a>
-  <a class="red button-right" href="page-news-key-releases.php">See all</a>
+  <a class="red button-right desktop" href="page-news-key-releases.php">See all</a>
 
   <?php
     $newReleaseListCounter = 0;
@@ -162,7 +163,7 @@ include('includes/header.php'); ?>
   </div>
 
 <?php endforeach; ?>
-
+  <a class="red button mobile" href="page-news-key-releases.php">View more releases</a>
   </div>
 </div>
 
@@ -170,7 +171,7 @@ include('includes/header.php'); ?>
   <div class="wrapper-padding white">
     <div class="full-width module">
         <h2>On the Charts<br /><span>The Billboard Hot 100</span></h2>
-        <a class="button-right red" href="page-news-charts.php">View more charts</a>
+        <a class="button-right red desktop" href="page-news-charts.php">View more charts</a>
 
       <!-- I thought that these 'li a' chart tiles could link to each respective song on Synch. If the track isn't available, it could just link through to the Charts page with the News section. I left the link targets blank, as I'm not sure what standard practice is for linking to tracks within Synch. 09.3.14 pb -->
       <ul id="chartGrid">
@@ -185,7 +186,7 @@ include('includes/header.php'); ?>
     <?php } ?>
 
       </ul>
-
+    <a class="button red mobile" href="page-news-charts.php">View more charts</a>
     </div>
   </div>
 </div>
@@ -195,8 +196,9 @@ include('includes/header.php'); ?>
     <div class="module six">
       <h2 class="socialHeader">@KOBALT</h2>
     </div>
-    <a class="button-right black twitter-button" href="http://www.twitter.com/kobalt"><span class="twitter-icon">Follow</span></a>
+    <a class="button-right desktop black twitter-button" href="http://www.twitter.com/kobalt"><span class="twitter-icon">Follow</span></a>
     <?php echo loadTemplateFile(APP_DIR . '/includes/_twitter.php'); ?>
+    <a class="button black twitter-button mobile" target="_new" href="http://www.twitter.com/kobalt"><span class="twitter-icon">Follow</span></a>
   </div>
 </div>
 
@@ -205,8 +207,7 @@ include('includes/header.php'); ?>
 <?php include("includes/footer.php"); ?>
 <script type="text/javascript">
   $(document).ready( function(){
-      var _slider = $('#hp-slider').bxSlider({
-    slideWidth: 960,
+  var _slider = $('#hp-slider').bxSlider({
     slideSelector: 'div.slide',
     adaptiveHeight: false,
     nextSelector: '.control-next',

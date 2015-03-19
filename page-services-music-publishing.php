@@ -131,7 +131,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
-				<h4 class="mobile black">Synch &amp; Brand Deals</h4>
+				<h4 class="mobile black">Synch &amp; Brand Deals</h4> 
 				<h3 class="red">At Kobalt, we pride ourselves in our quick turnaround and personalized, hands-on approach to Synch.</h3>
 			</div>
 			<div class="clear module five">
@@ -146,7 +146,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module seven">
-				<h4 class="mobile red">Creative Services</h4>
+				<h4 class="mobile red">Creative Services</h4> 
 				<h3 class="white">Our priority is to create both songwriting and networking opportunities for our writers around<br />the world.</h3>
 			</div>
 		</div>
@@ -169,7 +169,7 @@ function requireToVar($file){
 	<div class="wrapper services first">
 		<div class="long-column">
 			<div class="module six">
-				<h4 class="mobile black">YouTube Maximization</h4>
+				<h4 class="mobile black">YouTube Maximization</h4> 
 				<h3 class="red">Kobalt is a YouTube certified partner, monetizing over one billion YouTube streams per month.</h3>
 			</div>
 			<div class="module five clear">
