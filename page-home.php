@@ -191,10 +191,10 @@ if (count($json_array_billboard) < 6) {
         </div>
         <a class="button-right black twitter-button desktop" target="_new" href="http://www.twitter.com/kobalt"><span class="twitter-icon">Follow</span></a>
         <?php echo loadTemplateFile(APP_DIR . '/includes/_twitter.php'); ?>
+        <a class="button black twitter-button mobile" target="_new" href="http://www.twitter.com/kobalt"><span class="twitter-icon">Follow</span></a>
     </div>
-    <a class="button black twitter-button mobile" target="_new" href="http://www.twitter.com/kobalt"><span class="twitter-icon">Follow</span></a>
 </div>
-</div>
+
 
 <div id="brandVideo" class="video-js-box video-box" style="display: none;">
 </div>
