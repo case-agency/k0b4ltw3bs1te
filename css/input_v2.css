@@ -2825,6 +2825,11 @@ and (max-width : 990px) {
         margin: 10px auto 20px;
     }
 
+    #releaseGrid img{
+        width: 145px;
+        height: 145px;
+    }
+
     #releaseGrid li, .key-release-block {
         width: 145px;
         display: block;
