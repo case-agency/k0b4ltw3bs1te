@@ -32,7 +32,7 @@
 			</div>
 			<div class="module five">
 				<p class="black">We create technology solutions for a more transparent, efficient and empowering future for rights owners, where artists, songwriters, publishers and labels can trust they will be paid fairly and accurately, regardless of how complex the digital world becomes. Our innovative technology includes the world's most advanced global licensing, collection and payment platform, our YouTube song matching tool Proklaim, one of the leading global digital music distribution platforms AWAL, and the award-winning real-time data and insight reporting Portal.</p>
-				<p class="black">Kobalt Music Publishing, Kobalt Label Services and Kobalt Neighbouring Rights divisions each offer a modern alternative to the traditional music business model, empowering creators with flexible contracts, ownership, control, and total transparency. We represent over 5,000 artists and songwriters, 600,000 songs and 500 publishing companies, servicing our clients with global licensing management, works and rights distribution, royalty collection and processing, online data and royalty statements, creative services, synch &amp; brand partnerships, record release management and marketing.</p>
+				<p class="black">Kobalt Music Publishing, Kobalt Label Services and Kobalt Neighbouring Rights divisions each offer a modern alternative to the traditional music business model, empowering creators with flexible contracts, ownership, control, and total transparency. We represent over 8,000 artists and songwriters, 600,000 songs and 500 publishing companies, servicing our clients with global licensing management, works and rights distribution, royalty collection and processing, online data and royalty statements, creative services, synch &amp; brand partnerships, record release management and marketing.</p>
 				<p class="black">And we're fortunate to work with some of the world's greatest artists and songwriters, representing on average over 40% of the top 100 songs and albums in both the US and UK.</p>
 			</div>
 			<div class="module aboutVideos">
@@ -48,7 +48,7 @@
 				<h3 class="white">We work for you</h3>
 			</div>
 			<div class="module five">
-				<p class="white">We have over 250 employees in 10 offices around the world, all focused on helping artists, songwriters, publishers and labels do what they do best. #SomebodyStopUs!</p>
+				<p class="white">We have over 275 employees in 10 offices around the world, all focused on helping artists, songwriters, publishers and labels do what they do best. #SomebodyStopUs!</p>
 				<a href="page-about-global-management.php">Meet our Global Management Team</a><br />
 				<a href="page-about-board-of-directors.php">Meet our Board of Directors</a>
 			</div>
