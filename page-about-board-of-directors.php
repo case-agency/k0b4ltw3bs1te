@@ -69,8 +69,9 @@ include('includes/header.php'); ?>
           <a class="bio-link" href="#bio-tim-bunting">Read bio</a>
         </div>
         <div class="gm-bio">
-            <img src="img/phase2/board-cairo.jpg" alt="David Cairo" />
-            <p><span>David Cairo</span><br />MSD Capital, L.P</p>
+            <img src="img/phase2/board-caro.jpg" alt="David Caro" />
+            <p><span>David Caro</span><br />MSD Capital, L.P</p>
+            <a class="bio-link" href="#bio-david-caro">Read bio</a>
         </div>
         <div class="gm-bio">
           <img src="img/phase2/board-anders.jpg" alt="Anders Palm" />
@@ -125,6 +126,10 @@ include('includes/header.php'); ?>
 Tim started to work with Balderton and its portfolio of companies in 2005 when he became a non-executive director of Alphyra. In 2006 Tim spent a period as non-executive chairman of Betfair. Since joining Balderton Tim has joined the boards of other portfolio companies.
 Outside of Balderton, Tim is a non-executive director of Yell Group plc and Sepura plc. Tim is also a Governor of Wellington College and a Trustee of the Rainbow Trust Children's Charity.
 <br />Education: Tim is a graduate of the University of Cambridge.</p>
+</div>
+<div class="bio-box" id="bio-david-caro" style="display:none;">
+    <h3><span>David Caro</span><br />MSD Capital, L.P</h3>
+    <p>Bio coming soon.</p>
 </div>
 <div class="bio-box" id="bio-anders-palm" style="display:none;">
   <h3><span>Anders Palm</span><br />Media and Real Estate Investor<br />Board Member, STIM</h3>
