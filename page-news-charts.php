@@ -123,12 +123,11 @@ echo "<!-- $currentWeekTs -->\n";
 
         <div id="pages-news-charts-columns" class="pages-news-charts-<?php echo $json_array[$currentChartJSON]['chart_id']; ?>">
             <?php for ($currentRecord = 0; $currentRecord < count($json_array_chart); $currentRecord++) { ?>
-            <a class="chartBlock" href="<?php echo $json_array_chart[$currentRecord]['kobaltsynch_url']; ?>" target="_blank">
+            <span class="chartBlock">
                 <h2>#<?php echo $json_array_chart[$currentRecord]['entry_this_week_position']; ?></h2>
                 <p><span><?php echo $json_array_chart[$currentRecord]['entry_title']; ?></span>
-                <br /><?php echo $json_array_chart[$currentRecord]['entry_artist']; ?>
-                <br /><em>licensing info</em></p>
-            </a>
+                <br /><?php echo $json_array_chart[$currentRecord]['entry_artist']; ?></p>
+            </span>
             <?php } ?>
         </div>
         <?php } ?>
