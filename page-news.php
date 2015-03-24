@@ -175,6 +175,7 @@ include('includes/header.php'); ?>
 
       <!-- I thought that these 'li a' chart tiles could link to each respective song on Synch. If the track isn't available, it could just link through to the Charts page with the News section. I left the link targets blank, as I'm not sure what standard practice is for linking to tracks within Synch. 09.3.14 pb -->
       <ul id="chartGrid">
+          <li>
       <?php
         for ($currentRecord = 0; $currentRecord < $BillboardMax; $currentRecord++) {
             $billboard_rank = $json_array_billboard[$currentRecord]['entry_this_week_position'];
@@ -182,8 +183,9 @@ include('includes/header.php'); ?>
             $billboard_title = $json_array_billboard[$currentRecord]['entry_title'];
             $billboard_artist = $json_array_billboard[$currentRecord]['entry_artist'];
     ?>
-                <li><a href="<?= $billboard_uri?>"><span>#<?= $billboard_rank?></span><span><?= $billboard_title?></span><br/><?= $billboard_artist?></a></li>
+                <span class="chartItem"><span>#<?= $billboard_rank?></span><span><?= $billboard_title?></span><br/><?= $billboard_artist?></span>
     <?php } ?>
+          </li>
 
       </ul>
     <a class="button red mobile" href="page-news-charts.php">View more charts</a>

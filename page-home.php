@@ -170,6 +170,7 @@ if (count($json_array_billboard) < 6) {
             <a class="button-right red desktop" href="page-news-charts.php">View more charts</a>
             <ul id="chartGrid">
                 <div class="swipeable">
+                    <li>
                     <?php
                     for ($currentRecord = 0; $currentRecord < $BillboardMax; $currentRecord++) {
                         $billboard_rank = $json_array_billboard[$currentRecord]['entry_this_week_position'];
@@ -177,7 +178,8 @@ if (count($json_array_billboard) < 6) {
                         $billboard_title = $json_array_billboard[$currentRecord]['entry_title'];
                         $billboard_artist = $json_array_billboard[$currentRecord]['entry_artist'];
                         ?>
-                        <li><span class="chartItem"><span>#<?= $billboard_rank?></span><span><?= $billboard_title?></span><br/><?= $billboard_artist?></span></li>                    <?php } ?>
+                        <span class="chartItem"><span>#<?= $billboard_rank?></span><span><?= $billboard_title?></span><br/><?= $billboard_artist?></span>                   <?php } ?>
+                    </li>
                 </div>
             </ul>
             <a class="button red mobile" href="page-news-charts.php">View more charts</a>
