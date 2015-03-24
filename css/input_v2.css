@@ -636,10 +636,6 @@ a.rosterList:hover,a.rosterList.rosterToggle {
     margin-bottom:60px;
 }
 
-#news #chartGrid li a {
-    font-size:16px;
-}
-
 #news-category div.pager a,#news-category div.pager {
     color:#000;
     margin-right:8px;
@@ -724,9 +720,9 @@ a.rosterList:hover,a.rosterList.rosterToggle {
     background:#262626;
 }
 
-.chartBlock:hover {
-    background:#f93b2b;
-}
+/*.chartBlock:hover {*/
+    /*background:#f93b2b;*/
+/*}*/
 
 .chartBlock:nth-of-type(3n) {
     margin-right:0;
@@ -1662,7 +1658,7 @@ header div.container, header div.service-container {
 }
 
 
-#chartGrid li a {
+#chartGrid li > span {
     display:block;
     float:left;
     width:153px;
@@ -1673,43 +1669,15 @@ header div.container, header div.service-container {
     background:url(../img/chart-grid-rollover.png) no-repeat 50% 179px #000;
     color:#fff;
     line-height:1.2;
-    cursor:pointer;
+    /*cursor:pointer;*/
     transition:background-position .4s;
     -webkit-transition:background-position .4s;
     -moz-transition:background-position .4s;
     -o-transition:background-position .4s;
 }
-#chartGrid li span.chartItem {
-    display:block;
-    float:left;
-    width:153px;
-    height:153px;
-    padding:15px;
-    text-decoration:none;
-    background:url(../img/chart-grid-rollover.png) no-repeat 50% 179px #000;
-    color:#fff;
-    line-height:1.2;
-    transition:background-position .4s;
-    -webkit-transition:background-position .4s;
-    -moz-transition:background-position .4s;
-    -o-transition:background-position .4s;
- }
 
-#chartGrid li:last-of-type a {
+#chartGrid li > span:last-of-type {
     margin-right: 0;
-}
-
-#chartGrid li a:hover {
-    background:url(../img/chart-grid-rollover.png) no-repeat 50% 55% #f93b2b;
-    transition:background-position .6s;
-    -webkit-transition:background-position .6s;
-    -moz-transition:background-position .6s;
-    -o-transition:background-position .6s;
-}
-
-#chartGrid li a span {
-    font-weight:700;
-    letter-spacing:.3px;
 }
 
 #chartGrid li span.chartItem span {
@@ -1722,12 +1690,6 @@ header div.container, header div.service-container {
     width:100%;
     padding-bottom:15px;
  }
-
-#chartGrid li a span:first-child {
-    display:block;
-    width:100%;
-    padding-bottom:15px;
-}
 
 .homepage-twitter {
     margin:80px 0 40px;
@@ -2620,7 +2582,6 @@ and (max-width : 990px) {
 
 @media only screen
 and (max-width : 990px) {
-    /* #chartGrid li a 550px */
 
     *.desktop {
         display: none!important;
@@ -2911,10 +2872,10 @@ and (max-width : 990px) {
         border-bottom: 1px solid #dbdbdb;
     }
 
-    #chartGrid li .chartItem:hover {
-        background: #dbdbdb;
-        background-image: none;
-    }
+    /*#chartGrid li .chartItem:hover {*/
+        /*background: #dbdbdb;*/
+        /*background-image: none;*/
+    /*}*/
 
     .homepage-twitter {
         margin: 25px 0;
