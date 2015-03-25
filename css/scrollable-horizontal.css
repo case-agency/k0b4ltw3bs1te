@@ -28,7 +28,8 @@
 
 .items .row {
     float:left;
-    width:590px;
+    /*width:590px;*/
+    width: 100%;
 }
 
 /* single scrollable item */
@@ -38,6 +39,7 @@
     background-color:#fff;
     padding: 0;
     border:1px solid #ccc;
+    width: 32%;
 
     -moz-border-radius:4px;
     -webkit-border-radius:4px;

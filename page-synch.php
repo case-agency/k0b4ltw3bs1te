@@ -270,9 +270,9 @@ $playListComposers = decodeFeed(file_get_contents(DATA_PLAYLIST_COMPOSERS));
                             <img alt="" src="<?php echo $playList['playlist_thumbnail_image_url'] ?>">
                             <strong><?php echo $playList['playlist_composer_name'] ?></strong>
                         </div>
-                        <?php if ($playListStaffCounter % 4 == 0): ?>
-                        <div class="clear"></div>
-                    <?php endif ?>
+<!--                        --><?php //if ($playListStaffCounter % 4 == 0): ?>
+<!--                        <div class="clear"></div>-->
+<!--                    --><?php //endif ?>
                     <?php endforeach; ?>
 
                     <div class="clear"></div>

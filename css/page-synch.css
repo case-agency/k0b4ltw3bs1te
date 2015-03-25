@@ -525,14 +525,14 @@ and (max-width : 990px) {
     }
 
     #pages-synch-top-video {
-        /*width: 100%;*/
-        /*height: auto;*/
+        width: 100%;
+        height: auto;
         background-color: #000;
     }
 
     #pages-synch-top-video #video_tag {
         width: 100%!important;
-        height: 219px!important;
+        height: auto!important;
 
     }
 
