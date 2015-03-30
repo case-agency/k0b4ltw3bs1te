@@ -93,7 +93,7 @@ include('includes/header.php'); ?>
         <div class="gm-bio">
           <img src="img/phase2/quinn.jpg" alt="Diarmand Quinn" />
           <p><span>Diarmand Quinn</span><br />President North America, KLS</p>
-          <a class="bio-link" href="#bio-diarmand-quinn">Read bio</a>
+<!--          <a class="bio-link" href="#bio-diarmand-quinn">Read bio</a>-->
         </div>
         <div class="gm-bio">
           <img src="img/phase2/berkel.jpg" alt="Hans Van Berkel" />

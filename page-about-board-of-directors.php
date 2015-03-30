@@ -71,17 +71,17 @@ include('includes/header.php'); ?>
         <div class="gm-bio">
             <img src="img/phase2/board-caro.jpg" alt="David Caro" />
             <p><span>David Caro</span><br />MSD Capital, L.P</p>
-            <a class="bio-link" href="#bio-david-caro">Read bio</a>
+<!--            <a class="bio-link" href="#bio-david-caro">Read bio</a>-->
         </div>
         <div class="gm-bio">
           <img src="img/phase2/board-anders.jpg" alt="Anders Palm" />
           <p><span>Anders Palm</span><br />Media and Real Estate Investor</p>
-          <a class="bio-link" href="#bio-anders-palm">Read bio</a>
+<!--          <a class="bio-link" href="#bio-anders-palm">Read bio</a>-->
         </div>
         <div class="gm-bio">
           <img src="img/phase2/board-tandberg.jpg" alt="Jacob Tandberg" />
           <p><span>Jacob Tandberg</span><br />CEO, Massellaz SA</p>
-          <a class="bio-link" href="#bio-jacob-tandberg">Read bio</a>
+<!--          <a class="bio-link" href="#bio-jacob-tandberg">Read bio</a>-->
         </div>
     </div>
 </section>
