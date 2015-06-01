@@ -100,6 +100,16 @@ include('includes/header.php'); ?>
           <p><span>Hans Van Berkel</span><br />Executive Chairman, KNR</p>
           <a class="bio-link" href="#bio-hans-van-berkel">Read bio</a>
         </div>
+        <div class="gm-bio">
+            <img src="img/phase2/ryan-wright.jpg" alt="Ryan Wright" />
+            <p><span>Ryan Wright</span><br />Sr. Vice-President, Marketing</p>
+            <a class="bio-link" href="#bio-ryan-wright">Read bio</a>
+        </div>
+        <div class="gm-bio">
+            <img src="img/phase2/marissa-mencher.jpg" alt="Marissa Mencher" />
+            <p><span>Marissa Mencher</span><br />Head Of Human Resources</p>
+            <a class="bio-link" href="#bio-marissa-mencher">Read bio</a>
+        </div>
     </div>
 </section>
 
@@ -176,6 +186,17 @@ include('includes/header.php'); ?>
   <h3><span>Hans Van Berkel</span><br />Executive Chairman, KNR</h3>
   <p>Joined Kobalt in 2011 at the founding of KNR.
   <br /><?= getYearsExperienceSince(1992)?> of experience as CFO at Polygram Group and 18 years as Managing Director of Dutch Neighbouring Rights Society SENA.</p>
+</div>
+<div class="bio-box" id="bio-ryan-wright" style="display:none;">
+    <h3><span>Ryan Wright</span><br />Sr. Vice-President, Marketing</h3>
+    <p>Joined Kobalt in 2013.
+        <br />Former Sr. Vice-President, Global Marketing for Sony Music.  Over 20 years experience in managing brands globally, including marketing, PR, consumer insight and brand partnerships for Sony Music, SonyBMG, BMG, Jive Records and Samsung.</p>
+</div>
+<div class="bio-box" id="bio-marissa-mencher" style="display:none;">
+    <h3><span>Marissa Mencher</span><br />Head Of Human Resources</h3>
+    <p>Joined Kobalt in 2012.
+        <br />Over 20 years of Human Resources Management experience in the music industry. Previously led Human Resources at Sony Music in North America, BMG Label Group, RCA Music Group and J Records.
+    </p>
 </div>
 
 <?php include("includes/footer.php"); ?>
