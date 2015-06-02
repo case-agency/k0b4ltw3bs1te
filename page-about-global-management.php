@@ -110,6 +110,11 @@ include('includes/header.php'); ?>
             <p><span>Marissa Mencher</span><br />Head Of Human Resources</p>
             <a class="bio-link" href="#bio-marissa-mencher">Read bio</a>
         </div>
+        <div class="gm-bio">
+            <img src="img/phase2/ann-tausis.jpg" alt="Ann Tausis" />
+            <p><span>Ann Tausis</span><br />Managing Director, KNRL</p>
+            <a class="bio-link" href="#bio-ann-tausis">Read bio</a>
+        </div>
     </div>
 </section>
 
@@ -196,6 +201,12 @@ include('includes/header.php'); ?>
     <h3><span>Marissa Mencher</span><br />Head Of Human Resources</h3>
     <p>Joined Kobalt in 2012.
         <br />Over 20 years of Human Resources Management experience in the music industry. Previously led Human Resources at Sony Music in North America, BMG Label Group, RCA Music Group and J Records.
+    </p>
+</div>
+<div class="bio-box" id="bio-ann-tausis" style="display:none;">
+    <h3><span>Ann Tausis</span><br />Managing Director, KNRL</h3>
+    <p>Joined Kobalt in 2013.
+        <br />Over 20 years of experience in rights management administration. Formerly Director of European Regional Administration at Universal Music Publishing and prior to that Global Copyright Director, also at UMP.
     </p>
 </div>
 
