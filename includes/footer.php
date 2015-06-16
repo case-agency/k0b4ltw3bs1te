@@ -6,9 +6,9 @@
 		<div class="wrapper">
 			<div class="social-left">
 				<h6>Sign up for email updates</h6>
-				<form action="http://case-agency.createsend.com/t/t/s/itktki/" method="post">
+				<form action="http://awal.createsend.com/t/r/s/iljrlii/" method="post"">
 				    <p>
-				        <input id="fieldEmail" name="cm-itktki-itktki" type="email" value="Email address" required />
+				        <input id="fieldEmail"  name="cm-iljrlii-iljrlii" type="email" value="Email address" required />
 				    </p>
 				    <p>
 				        <button type="submit">Sign Up</button>
