@@ -91,9 +91,9 @@ include('includes/header.php'); ?>
           <a class="bio-link"href="#bio-pete-dodge">Read bio</a>
         </div>
         <div class="gm-bio">
-          <img src="img/phase2/quinn.jpg" alt="Diarmand Quinn" />
-          <p><span>Diarmand Quinn</span><br />President North America, KLS</p>
-<!--          <a class="bio-link" href="#bio-diarmand-quinn">Read bio</a>-->
+          <img src="img/phase2/quinn.jpg" alt="Diarmuid Quinn" />
+          <p><span>Diarmuid Quinn</span><br />President North America, KLS</p>
+<!--          <a class="bio-link" href="#bio-diarmuid-quinn">Read bio</a>-->
         </div>
         <div class="gm-bio">
           <img src="img/phase2/berkel.jpg" alt="Hans Van Berkel" />
@@ -183,8 +183,8 @@ include('includes/header.php'); ?>
   <br /><?= getYearsExperienceSince(1987)?> of music and digital industry experience.
   <br />Formerly European Managing Director at IODA. Held key positions at Rough Trade Distribution, RTM Sales and Marketing and Play It Again Sam (PIAS) Recordings.</p>
 </div>
-<div class="bio-box" id="bio-diarmand-quinn" style="display:none;">
-  <h3><span>Diarmand Quinn</span><br />President North America, KLS</h3>
+<div class="bio-box" id="bio-diarmuid-quinn" style="display:none;">
+  <h3><span>Diarmuid Quinn</span><br />President North America, KLS</h3>
   <p>Bio coming soon.</p>
 </div>
 <div class="bio-box" id="bio-hans-van-berkel" style="display:none;">
