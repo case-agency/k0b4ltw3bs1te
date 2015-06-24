@@ -51,7 +51,7 @@ include('includes/header.php'); ?>
 
         <li>The servers used to process your personal data collected from this website are in the UK, however we collect data from wherever users are situated.  The information that we collect may therefore be transferred to the UK from any other country in which you may be located and will be subject to UK data protection laws rather than the laws of the country in which you are resident.</li>
 
-        <li>If you would like a copy of the privacy policy for the Australian subsidiaries, please contact the Australian Kobalt office via <a href="mailto:privacy.policy@kobaltmusic.com">privacy.policy.au@kobaltmusic.com</a>.</li>
+        <li>If you would like a copy of the privacy policy for the Australian subsidiaries, please contact the Australian Kobalt office via <a href="mailto:privacy.policy.au@kobaltmusic.com">privacy.policy.au@kobaltmusic.com</a>.</li>
 
         <h3>Accessing your Information</h3>
 
