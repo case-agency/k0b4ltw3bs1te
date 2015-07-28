@@ -33,12 +33,12 @@ $playListComposers = decodeFeed(file_get_contents(DATA_PLAYLIST_COMPOSERS));
 
 
 
-    <link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet" type="text/css">
+    <link href="https://vjs.zencdn.net/c/video-js.css" rel="stylesheet" type="text/css">
 
     <?php include("includes/js.php"); ?>
     <link rel="stylesheet" type="text/css" href="css/scrollable-horizontal.css"/>
     <!-- jQuery Library + UI Tools -->
-    <script src="http://cdn.jquerytools.org/1.2.7/all/jquery.tools.min.js"></script>
+    <script src="//cdn.jquerytools.org/1.2.7/all/jquery.tools.min.js"></script>
 
 
     <script type="text/javascript">
@@ -287,6 +287,6 @@ $playListComposers = decodeFeed(file_get_contents(DATA_PLAYLIST_COMPOSERS));
 <?php include("includes/footer.php"); ?>
 <?php include("includes/wrapper-end.php"); ?>
 
-<script src="http://vjs.zencdn.net/c/video.js"></script>
+<script src="//vjs.zencdn.net/c/video.js"></script>
 </body>
 </html>

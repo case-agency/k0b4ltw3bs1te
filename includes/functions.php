@@ -427,18 +427,18 @@ function getVideoFeed()
 
     foreach ($videoList as $video) {
         $videoFeed[] = array(
-            'image' => $video['entry_frame_img_url'],
+            'image' => preg_replace("/^http:/i", "https:", $video['entry_frame_img_url']),
             'description' => $video['entry_project_description'],
             'artist_name' => $video['entry_artist_name'],
             'song_title' => $video['entry_song_title'],
             'fileList' => array(
                 array(
-                    'src' => $video['entry_h264_url'],
+                    'src' => preg_replace("/^http:/i", "https:", $video['entry_h264_url']),
                     'type' => 'video/mp4',
 
                 ),
                 array(
-                    'src' => $video['entry_ogg_theora_url'],
+                    'src' => preg_replace("/^http:/i", "https:", $video['entry_ogg_theora_url']),
                     'type' => 'video/ogg',
                     'poster' => $video['entry_preview_img_url']
                 )
@@ -514,10 +514,10 @@ function youtubeFAQ(){
 /*Only to be used for job posting*/
 
 function sort_by_date($a, $b) {
-	
+
    $a = strtotime($a['date_published']);
    $b = strtotime($b['date_published']);
-	
+
    return ($a > $b) ? -1 : 1;
 }
 
@@ -525,7 +525,7 @@ function getJobs($id = null, $default = null) {
     if (!is_null($id) && file_exists(DATA_JOBS_PATH . "/$id.json")) {
         $jobs = decodeFeed(file_get_contents(DATA_JOBS_PATH . "/$id.json"));
         //echo "<script>console.debug(" . json_encode($jobs) . ");</script>";
-	
+
 	/*Amend order of job posts*/
 
 	$current = $jobs['current_jobs'];

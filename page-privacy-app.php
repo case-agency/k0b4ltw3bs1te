@@ -20,7 +20,8 @@ include('includes/header.php'); ?>
   <div class="wrapper">
 
     <h1 class="black">Privacy<br />Policy</h1>
-
+<?php
+/*
     <ol>
         <li>This privacy policy (the “privacy policy”) applies to your use of our website at www.kobaltmusic.com (the "website"). Please read this privacy policy carefully and in conjunction with our <a id="terms" href="page-tos.php">terms of use</a> and ensure that you understand them before you start to use the website. By accessing and using the website, you confirm that you have read, understood, and accept the privacy policy and any changes made to the privacy policy from time to time. If you do not agree to this privacy policy, you must not use the website.
         </li>
@@ -51,7 +52,7 @@ include('includes/header.php'); ?>
 
         <li>The servers used to process your personal data collected from this website are in the UK, however we collect data from wherever users are situated.  The information that we collect may therefore be transferred to the UK from any other country in which you may be located and will be subject to UK data protection laws rather than the laws of the country in which you are resident.</li>
 
-        <li>If you would like a copy of the privacy policy for the Australian subsidiaries, please contact the Australian Kobalt office via <a href="mailto:privacy.policy.au@kobaltmusic.com">privacy.policy.au@kobaltmusic.com</a>.</li>
+        <li>If you would like a copy of the privacy policy for the Australian subsidiaries, please contact the Australian Kobalt office via <a href="mailto:privacy.policy@kobaltmusic.com">privacy.policy@kobaltmusic.com</a>.</li>
 
         <h3>Accessing your Information</h3>
 
@@ -61,6 +62,8 @@ include('includes/header.php'); ?>
 
         <li>"Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about how we use cookies <a href="page-tos.php#cookie">here</a>.</li>
     </ol>
+*/
+?>
 
 </div>
 </section>
