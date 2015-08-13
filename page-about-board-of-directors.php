@@ -50,7 +50,7 @@ include('includes/header.php'); ?>
         </div>
         <div class="gm-bio">
           <img src="img/phase2/brockholes.jpg" alt="James Fitzherbert-Brockholes" />
-          <p><span>James Fitzherbert-Brockholes</span><br />Chief Financial Officer</p>
+          <p><span>James Fitzherbert-Brockholes</span><br />CFO</p>
           <a class="bio-link" href="#bio-james-fitzherbert-brockholes">Read bio</a>
         </div>
         <div class="gm-bio">
@@ -60,7 +60,7 @@ include('includes/header.php'); ?>
         </div>
         <div class="gm-bio">
           <img src="img/phase2/thompson.jpg" alt="Richard Thompson" />
-          <p><span>Richard Thompson</span><br />Chief Technical Officer</p>
+          <p><span>Richard Thompson</span><br />CTO</p>
           <a class="bio-link" href="#bio-richard-thompson">Read bio</a>
         </div>
         <div class="gm-bio">
@@ -88,33 +88,30 @@ include('includes/header.php'); ?>
 
 <div class="bio-box" id="bio-willard-ahdritz" style="display:none;">
   <h3><span>Willard Ahdritz</span><br />Founder &amp; CEO</h3>
-  <p>Founded Kobalt in 2000.
-  <br /><?= getYearsExperienceSince(1994)?> of global publishing experience, 8 years' experience in Corporate Strategy at L.E.K Consulting.
-  <br />Co-founded Telegram Records &amp; Publishing.
-  <br />Bachelor of Electrical Engineering, Rudbecksskolan, &Ouml;rebro.
-  <br />Second-lieutenant, Swedish Army, Communication, Research &amp; Development, S1 Enk&ouml;ping.
-  <br />Master of Science, Finance, Stockholm School of Economics, NYU Stern Graduate Division, New York. NMPA Board Member. RSA Fellow.
-  <br />Lives in New York.
-  <br />Plays saxophone.</p>
+    <p>Willard founded Kobalt in 2001.
+    <br />Prior to starting Kobalt, he had over 20 years of global publishing experience, and 8 years of consulting experience in Corporate Strategy at L.E.K. Consulting. He also co-founded Telegram Records &amp; Publishing in his native Sweden.
+    <br />Willard holds a Bachelor in Electrical Engineering from Rudbecksskolan in Örebro, Sweden, as well as a Master of Science in Finance from the Stockholm School of Economics, NYU Stern Graduate Division, New York.
+    <br />Willard also held the rank of Second-lieutenant, Swedish Army, Communication, Research & Development, S1 Enköping.
+    <br />He is an NMPA Board Member and an RSA Fellow.
+    <br />Willard lives in New York with his family.</p>
 </div>
 <div class="bio-box" id="bio-richard-sanders" style="display:none;">
   <h3><span>Richard Sanders</span><br />President</h3>
-  <p>Joined Kobalt in 2012.
-  <br /><?= getYearsExperienceSince(1982)?> of experience in worldwide media, entertainment and digital services.
-  <br />Most recently Chairman, International &amp; President, Global Marketing at Sony Music Entertainment.
-  <br />Held key positions at Sony BMG, RCA, V2, Arista.</p>
+    <p>Richard joined Kobalt in 2012, with over 35 years of experience in worldwide media, entertainment and digital services.
+    <br />He most recently held the position of Chairman, International &amp; President, Global Marketing at Sony Music Entertainment
+    <br />Prior to joining Kobalt, Richard also held key positions at storied labels like Sony BMG, RCA, V2, and Arista.</p>
 </div>
 <div class="bio-box" id="bio-james-fitzherbert-brockholes" style="display:none;">
-  <h3><span>James Fitzherbert-Brockholes</span><br />Chief Financial Officer</h3>
-  <p>Joined Kobalt in 2001.
-  <br /><?= getYearsExperienceSince(2000)?> of music publishing experience.
-  <br />Formerly Consultant with L.E.K Consulting, focusing on M&amp;A strategy and corporate strategy. MA from Cambridge University.</p>
+  <h3><span>James Fitzherbert-Brockholes</span><br />CFO</h3>
+    <p>James, or “Fitz”, joined Kobalt in 2001.
+    <br />He had previously accumulated over 15 years of experience in music publishing, and also worked as a Consultant with L.E.K. Consulting, focusing on M&amp;A strategy and corporate strategy.
+    <br />He received an MA from Cambridge University.</p>
 </div>
 <div class="bio-box" id="bio-richard-thompson" style="display:none;">
-  <h3><span>Richard Thompson</span><br />Chief Technical Officer</h3>
-  <p>Joined Kobalt in 2001.
-  <br />Formerly Consultant with Oracle.
-  <br />Previous roles include developing major media rights platforms for Sky Digital, projects at Nat West and at the UK Ministry of Defense.</p>
+  <h3><span>Richard Thompson</span><br />CTO</h3>
+    <p>Richard has been with Kobalt since its inception, and is the architect behind Kobalt’s advanced global technology platform, the foundation of Kobalt’s Publishing, Neighbouring Rights and Label Services businesses.
+    <br />Thompson participates in various industry initiatives and forums, and is a DDEX board member.
+    <br />Before Kobalt, he worked for Oracle in their consulting, development and media divisions.</p>
 </div>
 <div class="bio-box" id="bio-johan-ekelund" style="display:none;">
   <h3><span>Johan Ekelund</span><br />Co-Founder, Diesel Music &amp; Kobalt Music Group</h3>
