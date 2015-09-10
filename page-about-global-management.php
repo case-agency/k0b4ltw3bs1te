@@ -125,6 +125,11 @@ include('includes/header.php'); ?>
             <p><span>Simon Dennett</span><br />Executive Vice President</p>
             <a class="bio-link" href="#bio-simon-dennett">Read bio</a>
         </div>
+        <div class="gm-bio">
+            <img src="img/phase2/jim-arnay.jpg" alt="Jim Arnay" />
+            <p><span>Jim Arnay </span><br />SVP Business Affairs, US General Counsel</p>
+            <a class="bio-link" href="#bio-jim-arnay">Read bio</a>
+        </div>
     </div>
 </section>
 
@@ -235,6 +240,13 @@ include('includes/header.php'); ?>
     <p>Simon joined Kobalt in 2006, and shares more than 10 years of music industry experience leading strategic projects and new initiatives.
     <br />Prior to joining Kobalt, Simon worked as a consultant across a wide range of industries.
     <br />He holds a BSc from Bristol University.
+    </p>
+</div>
+<div class="bio-box" id="bio-jim-arnay" style="display:none;">
+    <h3><span>Jim Arnay</span><br />SVP Business Affairs, US General Counsel</h3>
+    <p>Jim joined in Kobalt in 2012.
+    <br /> Prior to joining Kobalt, Jim was Sr. Vice President, Business Affairs at Ultra Music, a leading independent label and music publisher.
+    <br /> Prior to that, Jim was a music partner at the law firm of Epstein, Levinsohn, Bodine, Hurwitz &amp; Weinstein.
     </p>
 </div>
 
