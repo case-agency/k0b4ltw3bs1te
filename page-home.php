@@ -286,20 +286,19 @@ if (count($json_array_billboard) < 6) {
                 console.log('desktop');
                 $( '.homepage-portal-link.desktop' ).click();
             } else {
-                var dWidth = $( document ).width();
-                if( dWidth > 768 ) {
-                    console.log('desktop');
-                    console.log( dWidth );
-                    $( '.homepage-video-link.desktop' ).click();
-                } else {
-                    console.log('mobile');
-                    console.log( dWidth );
-                    $( '.homepage-video-link.mobile' ).click();
-                }
+				
             }
         } else if (window.location.search === "?auto") {
-
-            $( '.homepage-video-link' ).click();
+            var dWidth = $( document ).width();
+            if( dWidth > 768 ) {
+                console.log('desktop');
+                console.log( dWidth );
+                $( '.homepage-video-link.desktop' ).click();
+            } else {
+                console.log('mobile');
+                console.log( dWidth );
+                $( '.homepage-video-link.mobile' ).click();
+            }
         }
 
         /* initialize homepage slideshow */
