@@ -89,7 +89,7 @@ include('includes/header.php'); ?>
 <div class="bio-box" id="bio-willard-ahdritz" style="display:none;">
   <h3><span>Willard Ahdritz</span><br />Founder &amp; CEO</h3>
     <p>Willard founded Kobalt in 2001.
-    <br />Prior to starting Kobalt, he had over 20 years of global publishing experience, and 8 years of consulting experience in Corporate Strategy at L.E.K. Consulting. He also co-founded Telegram Records &amp; Publishing in his native Sweden.
+    <br />Including his time at Kobalt, Willard has over 20 years of global publishing experience, and 8 years of consulting experience in Corporate Strategy at L.E.K. Consulting. He also co-founded Telegram Records &amp; Publishing in his native Sweden.
     <br />Willard holds a Bachelor in Electrical Engineering from Rudbecksskolan in Örebro, Sweden, as well as a Master of Science in Finance from the Stockholm School of Economics, NYU Stern Graduate Division, New York.
     <br />Willard also held the rank of Second-lieutenant, Swedish Army, Communication, Research & Development, S1 Enköping.
     <br />He is an NMPA Board Member and an RSA Fellow.
