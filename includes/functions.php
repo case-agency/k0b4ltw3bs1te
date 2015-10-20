@@ -539,6 +539,23 @@ function getJobs($id = null, $default = null) {
     }
 }
 
+function getJob($id = null, $default = null) {
+    if (!is_null($id) && file_exists(DATA_JOBS_PATH . "/$id.json")) {
+        $jobs = decodeFeed(file_get_contents(DATA_JOBS_PATH . "/$id.json"));
+        //echo "<script>console.debug(" . json_encode($jobs) . ");</script>";
+
+    /*Amend order of job posts*/
+
+    $current = $jobs['current_jobs'];
+
+    $jobs['current_jobs'] = $current;
+
+        return $jobs;
+    } else {
+        return $default;
+    }
+}
+
 function newReverseLookupById($newsId)
 {
     $feedList = array(

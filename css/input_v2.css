@@ -2684,6 +2684,10 @@ and (max-width : 990px) {
         float: left
     }
 
+    section.main:after {
+        clear: both;
+    }
+
     .button:last-of-type {
         margin-bottom: 0;
     }
@@ -2898,6 +2902,12 @@ and (max-width : 990px) {
         padding-top: 15px;
     }
 
+    #roster-featured {
+        overflow: auto;
+        position: relative;
+        clear: both;
+    }
+
     #roster-featured-wrapper {
         width: 100%;
     }
@@ -2936,7 +2946,9 @@ and (max-width : 990px) {
     }
 
     #roster {
-        overflow: auto;
+       overflow: auto;
+       position: relative;
+       clear: both;
     }
 
     a.switch {
@@ -2950,6 +2962,7 @@ and (max-width : 990px) {
         float: left;
         display: block;
         width: 100%;
+        background-color: #000;
     }
 
     .roster-artist-alpha {
@@ -3022,6 +3035,8 @@ and (max-width : 990px) {
 
     #global-management {
         overflow: auto;
+        position: relative;
+        clear: both;
     }
 
     .gm-bio, .gm-bio:nth-child(4n) {
@@ -3044,6 +3059,8 @@ and (max-width : 990px) {
 
     #news {
         overflow: auto;
+        position: relative;
+        clear: both;
     }
 
     #news-category {
@@ -3058,6 +3075,8 @@ and (max-width : 990px) {
     #news-detail {
         overflow: auto;
         padding-bottom: 60px;
+        position: relative;
+        clear: both;
     }
 
     #news-detail h2 {
@@ -3071,6 +3090,8 @@ and (max-width : 990px) {
 
     #key-releases-page {
         overflow: auto;
+        position: relative;
+        clear: both;
     }
 
     .releaseBlock, .releaseBlock:nth-of-type(3n) {
@@ -3080,6 +3101,8 @@ and (max-width : 990px) {
 
     #charts {
         overflow: auto;
+        position: relative;
+        clear: both;
     }
 
     #charts select {
@@ -3093,6 +3116,8 @@ and (max-width : 990px) {
 
     #contact {
         overflow: auto;
+        position: relative;
+        clear: both;
     }
 
     .submissions p {
@@ -3130,11 +3155,12 @@ and (max-width : 990px) {
     }
 
     #jobs {
-        overflow: auto;
+        /* overflow: auto; */
     }
 
     .job-post {
         width: 100%;
+        overflow: auto;
     }
 
 
@@ -3730,7 +3756,7 @@ and (min-width: 411px ) and (max-width : 990px) {
         width: 100%;
         max-width: 561px;
         display: block;
-        overflow: auto;
+        /* overflow: auto; */
     }
 
     .rosterGridBlock {
