@@ -868,12 +868,21 @@ a.rosterList:hover,a.rosterList.rosterToggle {
 }
 
 .submissions p {
-    width:75%;
+    width:100%;
 }
 
 .submissions p a {
     background:none;
     padding:0;
+}
+
+.submissions .submission-emails {
+    margin: 20px 0;
+}
+
+.submissions .submissions-help {
+    margin-top: 20px;
+    font-weight: bold;
 }
 
 .licensing h3 {
