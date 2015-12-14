@@ -77,7 +77,7 @@ if (count($json_array_billboard) < 6) {
             <h3 class="homepage">Kobalt<br />Neighbouring Rights</h3>
             <p>Kobalt's unique, modern, and transparent approach to Neighbouring Rights is geared to simplify a very complex process, maximize earnings, and speed up payments. Our direct relationships with key global collection societies reduces repetition, minimizes potential errors, and provides a substantial uplift in revenue.</p>
             <a class="button black mobile" href="page-services-neighbouring-rights.php">Learn More</a>
-            <a class="button black coming-soon mobile" href="#coming-soon">Download PDF</a>
+            <!--<a class="button black coming-soon mobile" href="#coming-soon">Download PDF</a>-->
         </div>
         <div class="full-width module">
             <div class="module three">
@@ -92,7 +92,7 @@ if (count($json_array_billboard) < 6) {
             <div class="module one clear-col"></div>
             <div class="module three">
                 <a class="button black desktop" href="page-services-neighbouring-rights.php">Learn More</a>
-                <a class="button black coming-soon desktop" href="#coming-soon">Download PDF</a>
+                <!--<a class="button black coming-soon desktop" href="#coming-soon">Download PDF</a>-->
             </div>
         </div>
     </div>
