@@ -86,11 +86,6 @@ include('includes/header.php'); ?>
           <a class="bio-link" href="#bio-paul-hitchman">Read bio</a>
         </div>
         <div class="gm-bio">
-          <img src="img/phase2/quinn.jpg" alt="Diarmuid Quinn" />
-          <p><span>Diarmuid Quinn</span><br />President North America, KLS</p>
-          <a class="bio-link" href="#bio-diarmuid-quinn">Read bio</a>
-        </div>
-        <div class="gm-bio">
           <img src="img/phase2/berkel.jpg" alt="Hans Van Berkel" />
           <p><span>Hans Van Berkel</span><br />Executive Chairman, KNR</p>
           <a class="bio-link" href="#bio-hans-van-berkel">Read bio</a>
@@ -136,7 +131,7 @@ include('includes/header.php'); ?>
 <div class="bio-box" id="bio-willard-ahdritz" style="display:none;">
   <h3><span>Willard Ahdritz</span><br />Founder &amp; CEO</h3>
   <p>Willard founded Kobalt in 2001.
-  <br />Prior to starting Kobalt, he had over 20 years of global publishing experience, and 8 years of consulting experience in Corporate Strategy at L.E.K. Consulting. He also co-founded Telegram Records &amp; Publishing in his native Sweden.
+  <br />Including his time at Kobalt, Willard has over 20 years of global publishing experience, and 8 years of consulting experience in Corporate Strategy at L.E.K. Consulting. He also co-founded Telegram Records &amp; Publishing in his native Sweden.
   <br />Willard holds a Bachelor in Electrical Engineering from Rudbecksskolan in Örebro, Sweden, as well as a Master of Science in Finance from the Stockholm School of Economics, NYU Stern Graduate Division, New York.
   <br />Willard also held the rank of Second-lieutenant, Swedish Army, Communication, Research & Development, S1 Enköping.
   <br />He is an NMPA Board Member and an RSA Fellow.
@@ -190,13 +185,6 @@ include('includes/header.php'); ?>
   <br />Prior to Kobalt, Paul also worked at BMG Music and Warner Music, and he holds an Economics degree from Cambridge University.
   <br />He is an RSA Fellow, and has a history of curating many contemporary art projects.
   <br />Paul got his start in the music business as a guitarist and record producer.</p>
-</div>
-<div class="bio-box" id="bio-diarmuid-quinn" style="display:none;">
-  <h3><span>Diarmuid Quinn</span><br />President North America, KLS</h3>
-  <p>Diarmuid joined Kobalt in 2013, after a successful run as the president of Reprise Records.
-  <br />He was also the C.O.O. of Warner Bros. Records Inc., helping develop and guide the careers of artists such as Linkin Park, Michael Buble, Madonna, Green Day, and Faith Hill.
-  <br />Prior to his time at Warner Bros., Diarmuid worked closely with Jeff Ayeroff to orchestrate the worldwide marketing plan for the hugely successful “Beatles 1” project.
-  <br />He also had successful stints at Hollywood Records, Columbia Records, The Work Group, Epic Records, and MCA.</p>
 </div>
 <div class="bio-box" id="bio-hans-van-berkel" style="display:none;">
   <h3><span>Hans Van Berkel</span><br />Executive Chairman, KNR</h3>

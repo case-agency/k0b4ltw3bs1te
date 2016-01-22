@@ -40,7 +40,7 @@ include("includes/data.php");
 			<h3 class="homepage">Kobalt<br/>Neighbouring Rights</h3>
 			<p>Kobalt's unique, modern, and transparent approach to Neighbouring Rights is geared to simplify a very complex process, maximize earnings, and speed up payments. Our direct relationships with key global collection societies reduces repetition, minimizes potential errors, and provides a substantial uplift in revenue.</p>
 			<a class="button red mobile" href="page-services-neighbouring-rights.php">Learn More</a>
-			<a class="button black coming-soon mobile" href="#coming-soon">Download PDF</a>
+			<!--<a class="button black coming-soon mobile" href="#coming-soon">Download PDF</a>-->
 		</div>
 		<div class="full-width module desktop">
 			<div class="module three">
@@ -55,7 +55,7 @@ include("includes/data.php");
 			<div class="module one clear-col"></div>
 			<div class="module three">
 				<a class="button red" href="page-services-neighbouring-rights.php">Learn More</a>
-				<a class="button black coming-soon" href="#coming-soon">Download PDF</a>
+				<!--<a class="button black coming-soon" href="#coming-soon">Download PDF</a>-->
 			</div>
 		</div>
 	</div>

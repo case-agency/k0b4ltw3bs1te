@@ -1,0 +1,53 @@
+
+section.main h1 {
+	float: left;
+	padding:25px 0px;
+}
+
+.fourofour {
+}
+
+.fourofour.videos {
+	margin-bottom: 250px;
+}
+
+.fourofour-container {
+	width:100%;
+	overflow:auto;
+	float:left;
+	padding:00px 163px;
+}
+
+.fourofour h6{
+	margin-top: 00px;
+	margin-bottom: 30px;
+}
+
+.fourofour a {
+	text-decoration:none;
+	float: left;
+	width: 45%;
+}
+
+.fourofour {
+	width :650px;
+	margin-top: 10px
+}
+
+.onetab {
+	margin-left:50px;
+	margin-bottom:5px;
+	margin-top:5px;
+}
+
+.twotab {
+	margin-left:100px;
+	margin-bottom:5px;
+	margin-top:5px;
+}
+
+.threetab {
+	margin-left:150px;
+	margin-bottom:5px;
+	margin-top:5px;
+}
