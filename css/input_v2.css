@@ -430,12 +430,24 @@ a.rosterList:hover,a.rosterList.rosterToggle {
 }
 
 .gm-bio {
+    /*
     display:block;
     float:left;
     width:200px;
     overflow:hidden;
     margin-top:40px;
     margin-right:53px;
+    */
+    display:block;
+    float:left;
+    width: 20%;
+    overflow:hidden;
+    margin-top:40px;
+    margin-right:5%;
+}
+
+.gm-bio img {
+    max-width: 100%;
 }
 
 .gm-bio:nth-child(4n) {
@@ -868,12 +880,21 @@ a.rosterList:hover,a.rosterList.rosterToggle {
 }
 
 .submissions p {
-    width:75%;
+    width:100%;
 }
 
 .submissions p a {
     background:none;
     padding:0;
+}
+
+.submissions .submission-emails {
+    margin: 20px 0;
+}
+
+.submissions .submissions-help {
+    margin-top: 20px;
+    font-weight: bold;
 }
 
 .licensing h3 {
@@ -3039,9 +3060,21 @@ and (max-width : 990px) {
         clear: both;
     }
 
-    .gm-bio, .gm-bio:nth-child(4n) {
-        float: none;
-        margin: 40px auto 0;
+    .gm-bio {
+        display: block;
+        float: left;
+        width: 45%;
+        overflow: hidden;
+        margin-top: 40px;
+        margin-right: 5%;
+    }
+
+    .gm-bio:nth-of-type(4n+5) {
+        clear:none;
+    }
+
+    .gm-bio:nth-of-type(2n+1) {
+        clear:both;
     }
 
     .bio-box {
@@ -3788,22 +3821,9 @@ and (min-width: 411px ) and (max-width : 990px) {
     }
 
     #global-management-wrapper {
-        width: 502px;
+        width: 100%;
+        max-width: 502px;
         margin: 0 auto;
-    }
-
-    .gm-bio, .gm-bio:nth-child(4n) {
-        float: none;
-        margin: 0;
-    }
-
-    .gm-bio {
-        float: left;
-        margin: 0 0 80px;
-    }
-
-    .gm-bio:nth-child(odd) {
-        margin-right: 80px;
     }
 
     .fancybox-close {
